@@ -21,4 +21,4 @@
 | 15 | Компьютерное зрение | [Обработка фотографий покупателя](https://github.com/FedorSafonov/Projects/tree/main/yandex_praktikum_projects%20(Data_Science)/%D0%9E%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B2%D0%BE%D0%B7%D1%80%D0%B0%D1%81%D1%82%D0%B0%20%D0%BF%D0%BE%D0%BA%D1%83%D0%BF%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9) | Разработка модели определения возраста по фотографии |  Python, keras |
 | 15 | Выпускной проект | [Прогнозирование оттока клиентов телеком компании](https://github.com/FedorSafonov/Projects/tree/main/yandex_praktikum_projects%20(Data_Science)/Forecasting%20the%20outflow%20of%20telecom%20company%20customers%20(Final%20project)) | Прогнозирование оттока клиентов мобильного оператора. Для выборки клиентов доступны персональные данные, информация о тарифах и договорах. |  Python, Pandas, Numpy, Scikit-learn, Matplotlib, Seaborn, catboost, предобработка данных, исследовательский анализ данных, визуализация данных  |
 
-[1]:https://praktikum.yandex.ru/profile/data-scientist/ 
+[1]:https://practicum.yandex.ru/data-scientist/
