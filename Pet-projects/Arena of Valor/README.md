@@ -1,1 +1,1 @@
-<img src="https://sun9-28.userapi.com/Mai167KXL-5gTm00CAd81P2IDPwGQSw1u1G28g/AbWRt8m5-1k.jpg">
+<img src="https://coremission.net/wp-content/uploads/2021/12/aov-1080x567.jpg">
