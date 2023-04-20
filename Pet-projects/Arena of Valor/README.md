@@ -1,0 +1,1 @@
+<img src="https://sun9-28.userapi.com/Mai167KXL-5gTm00CAd81P2IDPwGQSw1u1G28g/AbWRt8m5-1k.jpg">
