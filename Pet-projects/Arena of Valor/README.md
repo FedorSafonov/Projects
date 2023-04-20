@@ -1,1 +1,0 @@
-<img src="https://coremission.net/wp-content/uploads/2021/12/aov-1080x567.jpg">
