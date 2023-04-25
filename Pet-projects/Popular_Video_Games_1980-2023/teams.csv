@@ -247,7 +247,6 @@
 131,Titanfall 2,Respawn Entertainment
 131,Titanfall 2,Electronic Arts
 132,Doom,Activision
-132,Doom,id Software
 133,Live A Live,Square Enix
 134,The Last of Us Remastered,Naughty Dog
 134,The Last of Us Remastered,Sony Computer Entertainment
@@ -296,7 +295,6 @@
 158,Pokémon Scarlet,Nintendo
 158,Pokémon Scarlet,Game Freak
 159,Dead Space,EA Redwood Shores
-159,Dead Space,Electronic Arts
 160,New Super Mario Bros.,Nintendo
 161,Shadow of the Colossus,Sony Interactive Entertainment
 161,Shadow of the Colossus,Bluepoint Games
@@ -611,7 +609,6 @@
 335,Ghost of Tsushima,Sony Interactive Entertainment
 336,Sonic the Hedgehog 3 & Knuckles,Sega Technical Institute
 336,Sonic the Hedgehog 3 & Knuckles,Sega
-337,Resident Evil 2,Capcom
 337,Resident Evil 2,Factor 5
 338,Full Metal Daemon Muramasa,Nitroplus
 338,Full Metal Daemon Muramasa,JAST USA
@@ -774,7 +771,6 @@
 424,Horizon Zero Dawn: Complete Edition,Sony Interactive Entertainment
 424,Horizon Zero Dawn: Complete Edition,Guerrilla Games
 425,Persona 4 Golden,Sega
-425,Persona 4 Golden,Atlus
 426,Xenosaga Episode I: Der Wille zur Macht,Monolith Soft
 426,Xenosaga Episode I: Der Wille zur Macht,Namco
 427,Everhood,Surefire.Games
@@ -838,7 +834,6 @@
 459,Tales of Symphonia,Namco
 459,Tales of Symphonia,Namco Tales Studio
 460,Final Fantasy VII,Square Enix
-460,Final Fantasy VII,Square
 461,The Dark Pictures Anthology: Man of Medan,Bandai Namco Entertainment
 461,The Dark Pictures Anthology: Man of Medan,Supermassive Games
 462,Saya no Uta,JAST USA
@@ -1011,9 +1006,6 @@
 558,Animal Crossing: New Horizons,Nintendo
 559,BioShock Infinite,Irrational Games
 559,BioShock Infinite,2K Games
-560,Splatoon 3,Nintendo
-561,Guilty Gear: Strive,Bandai Namco Studios
-561,Guilty Gear: Strive,Arc System Works
 562,Mirror's Edge,Electronic Arts
 562,Mirror's Edge,EA Digital Illusions CE
 563,Bayonetta 2,PlatinumGames
@@ -1028,8 +1020,6 @@
 567,Devil May Cry 3: Dante's Awakening - Special Edition,Capcom Production Studio 1
 568,Assassin's Creed IV Black Flag,Ubisoft Montreal
 568,Assassin's Creed IV Black Flag,Ubisoft Entertainment
-569,The Legend of Zelda: Twilight Princess,Nintendo
-569,The Legend of Zelda: Twilight Princess,Nintendo EAD Software Development Group No.3
 570,Crisis Core: Final Fantasy VII - Reunion,Square Enix
 571,Metroid Prime,Nintendo
 571,Metroid Prime,Retro Studios
@@ -1039,7 +1029,6 @@
 573,Metal Gear Solid 4: Guns of the Patriots,Konami
 574,Atomic Heart,Mundfish
 574,Atomic Heart,Focus Entertainment
-575,Minecraft,Mojang Studios
 576,Resident Evil 5,Capcom
 577,The World Ends with You,Square Enix
 577,The World Ends with You,Ubisoft Entertainment
@@ -1087,7 +1076,6 @@
 599,Twelve Minutes,Luis Antonio
 600,Demon's Souls,FromSoftware
 600,Demon's Souls,Atlus
-601,Persona 3 Portable,Atlus
 601,Persona 3 Portable,Atlus USA
 602,Rayman Legends,Ubisoft Montpellier
 602,Rayman Legends,Ubisoft Entertainment
@@ -1388,7 +1376,6 @@
 766,Hyper Demon,Sorath
 767,Mortal Kombat,NetherRealm Studios
 767,Mortal Kombat,WB Games
-768,Resident Evil,Capcom
 768,Resident Evil,Capcom Planning Room 2
 769,Call of Duty: Ghosts,Neversoft Entertainment
 769,Call of Duty: Ghosts,Activision
@@ -1494,7 +1481,6 @@
 828,PUBG: Battlegrounds,Bluehole Studio
 828,PUBG: Battlegrounds,PUBG Corp
 829,Earthblade,Extremely OK Games
-830,Tetris,Nintendo
 831,Rule of Rose,Atlus USA
 831,Rule of Rose,Punchline
 832,Lollipop Chainsaw,Grasshopper Manufacture
@@ -1597,8 +1583,6 @@
 887,F-Zero X,Nintendo
 888,Chibi-Robo!,Nintendo
 888,Chibi-Robo!,Skip Ltd.
-889,Super Mario Sunshine,Nintendo EAD
-889,Super Mario Sunshine,Nintendo
 890,RimWorld,Ludeon Studios
 891,Professor Layton and the Miracle Mask,Level-5
 891,Professor Layton and the Miracle Mask,Nintendo
@@ -1681,8 +1665,6 @@
 936,Scott Pilgrim vs. the World: The Game - Complete Edition,Ubisoft Chengdu
 937,Monster Hunter 4 Ultimate,Capcom
 938,Fruit Ninja Classic,Halfbrick Studios
-939,Doom,Bethesda Softworks
-939,Doom,id Software
 940,Tom Clancy's The Division,Ubisoft Entertainment
 940,Tom Clancy's The Division,Massive Entertainment
 941,Crysis 2,Crytek Frankfurt
@@ -1968,7 +1950,6 @@
 1098,Europa Universalis IV,Paradox Interactive
 1098,Europa Universalis IV,Paradox Development Studio
 1099,Sonic the Hedgehog 2,Aspect Co. Ltd
-1099,Sonic the Hedgehog 2,Sega
 1100,Guitar Hero 5,Activision
 1100,Guitar Hero 5,Neversoft Entertainment
 1101,Silent Hill: Homecoming,Double Helix Games
