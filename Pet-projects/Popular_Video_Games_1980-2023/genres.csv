@@ -331,7 +331,6 @@
 130,Kingdom Hearts,RPG
 131,Titanfall 2,Adventure
 131,Titanfall 2,Shooter
-132,Doom,Shooter
 133,Live A Live,RPG
 134,The Last of Us Remastered,Adventure
 134,The Last of Us Remastered,Shooter
@@ -393,16 +392,10 @@
 158,Pokémon Scarlet,Adventure
 158,Pokémon Scarlet,RPG
 158,Pokémon Scarlet,Turn Based Strategy
-159,Dead Space,Shooter
 160,New Super Mario Bros.,Adventure
 160,New Super Mario Bros.,Platform
-161,Shadow of the Colossus,Adventure
-161,Shadow of the Colossus,Platform
-161,Shadow of the Colossus,Puzzle
 162,Horizon Forbidden West,Adventure
 162,Horizon Forbidden West,RPG
-163,God of War,Adventure
-163,God of War,Brawler
 163,God of War,Strategy
 164,Detroit: Become Human,Adventure
 164,Detroit: Become Human,Puzzle
@@ -458,9 +451,8 @@
 183,SuperHot,Shooter
 183,SuperHot,Tactical
 184,Plants vs. Zombies,Puzzle
-184,Plants vs. Zombies,Real Time Strategy
-184,Plants vs. Zombies,Simulator
 184,Plants vs. Zombies,Strategy
+184,Plants vs. Zombies,Simulator
 184,Plants vs. Zombies,Tactical
 185,Ori and the Blind Forest,Adventure
 185,Ori and the Blind Forest,Platform
@@ -805,1910 +797,1842 @@
 324,Metro 2033 Redux,Shooter
 325,Melty Blood: Type Lumina,Fighting
 325,Melty Blood: Type Lumina,Visual Novel
-326,Yakuza 0,Adventure
-326,Yakuza 0,Brawler
-326,Yakuza 0,RPG
-326,Yakuza 0,Simulator
-327,Vampire Survivors,Arcade
-327,Vampire Survivors,Indie
-327,Vampire Survivors,RPG
-328,Psychonauts,Adventure
-328,Psychonauts,Platform
-329,Fallout 4,RPG
-329,Fallout 4,Shooter
-330,Uncharted 4: A Thief's End,Adventure
-330,Uncharted 4: A Thief's End,Shooter
-331,The Legend of Zelda: A Link to the Past,Adventure
-331,The Legend of Zelda: A Link to the Past,Puzzle
-331,The Legend of Zelda: A Link to the Past,RPG
-332,Silent Hill,Adventure
-332,Silent Hill,Puzzle
-333,Super Smash Bros. Brawl,Fighting
-333,Super Smash Bros. Brawl,Platform
-334,Borderlands 2,RPG
-334,Borderlands 2,Shooter
-335,No More Heroes,Adventure
-335,No More Heroes,Brawler
-336,Ghost of Tsushima,Adventure
-336,Ghost of Tsushima,Brawler
-336,Ghost of Tsushima,RPG
-337,Assassin's Creed,Adventure
-337,Assassin's Creed,Platform
-338,Sonic the Hedgehog 3 & Knuckles,Platform
-339,Resident Evil 2,Adventure
-339,Resident Evil 2,Shooter
-340,Full Metal Daemon Muramasa,Adventure
-340,Full Metal Daemon Muramasa,Visual Novel
-341,Soma,Adventure
-341,Soma,Indie
-342,The Binding of Isaac: Rebirth,Adventure
-342,The Binding of Isaac: Rebirth,Arcade
-342,The Binding of Isaac: Rebirth,Indie
-342,The Binding of Isaac: Rebirth,RPG
-342,The Binding of Isaac: Rebirth,Shooter
-343,Luigi's Mansion 3,Adventure
-344,Katamari Damacy Reroll,Adventure
-344,Katamari Damacy Reroll,Puzzle
-345,Mario Kart 7,Racing
-346,Castle Crashers,Adventure
-346,Castle Crashers,Brawler
-346,Castle Crashers,Indie
-346,Castle Crashers,RPG
-347,Rain World,Adventure
-347,Rain World,Indie
-347,Rain World,Platform
-347,Rain World,RPG
-348,Mario Party Superstars,Card & Board Game
-349,Bully,Adventure
-350,Mario Kart 64,Racing
-351,Octopath Traveler II,RPG
-351,Octopath Traveler II,Turn Based Strategy
-352,Norco,Adventure
-352,Norco,Indie
-352,Norco,Point-and-Click
-352,Norco,Puzzle
-353,Resident Evil,Adventure
-353,Resident Evil,Puzzle
-354,Assassin's Creed Odyssey,Adventure
-354,Assassin's Creed Odyssey,RPG
-355,Transistor,Adventure
-355,Transistor,Indie
-355,Transistor,RPG
-355,Transistor,Strategy
-355,Transistor,Turn Based Strategy
-356,The Evil Within,Adventure
-356,The Evil Within,Shooter
-357,Metal: Hellsinger,Adventure
-357,Metal: Hellsinger,Music
-357,Metal: Hellsinger,Shooter
-358,Halo: The Master Chief Collection,Shooter
-359,Pokémon Crystal,Adventure
-359,Pokémon Crystal,RPG
-360,Uncharted: The Lost Legacy,Adventure
-360,Uncharted: The Lost Legacy,Shooter
-361,Resident Evil 3: Nemesis,Adventure
-361,Resident Evil 3: Nemesis,Shooter
-362,Sea of Thieves,Adventure
-362,Sea of Thieves,Simulator
-363,F.E.A.R.,Shooter
-364,Mafia: Definitive Edition,Adventure
-364,Mafia: Definitive Edition,Shooter
-365,NieR,Adventure
-365,NieR,RPG
-365,NieR,Shooter
-365,NieR,Simulator
-365,NieR,Strategy
-366,The Walking Dead: Season Two,Adventure
-366,The Walking Dead: Season Two,Point-and-Click
-366,The Walking Dead: Season Two,Puzzle
-367,Forspoken,Adventure
-367,Forspoken,RPG
-368,Max Payne 2: The Fall of Max Payne,Shooter
-369,Shin Megami Tensei: Devil Summoner - Soul Hackers,Adventure
-369,Shin Megami Tensei: Devil Summoner - Soul Hackers,RPG
-370,Dusk,Adventure
-370,Dusk,Indie
-370,Dusk,Shooter
-371,The Elder Scrolls III: Morrowind,Adventure
-371,The Elder Scrolls III: Morrowind,RPG
-372,Rollerdrome,Adventure
-372,Rollerdrome,Indie
-372,Rollerdrome,Shooter
-372,Rollerdrome,Sport
-373,Final Fantasy XVI,RPG
-374,Pokémon Sun,Adventure
-374,Pokémon Sun,RPG
-374,Pokémon Sun,Strategy
-374,Pokémon Sun,Turn Based Strategy
-375,Yu-Gi-Oh! Master Duel,Card & Board Game
-375,Yu-Gi-Oh! Master Duel,Simulator
-375,Yu-Gi-Oh! Master Duel,Strategy
-376,Injustice: Gods Among Us,Adventure
-376,Injustice: Gods Among Us,Fighting
-377,Pac-Man,Arcade
-378,Final Fantasy X/X-2 HD Remaster,RPG
-378,Final Fantasy X/X-2 HD Remaster,Strategy
-379,Mortal Kombat X,Fighting
-380,Shin Megami Tensei: Digital Devil Saga,RPG
-381,Star Wars: The Force Unleashed,Adventure
-381,Star Wars: The Force Unleashed,Brawler
-381,Star Wars: The Force Unleashed,RPG
-382,Shovel Knight: Treasure Trove,Adventure
-382,Shovel Knight: Treasure Trove,Indie
-382,Shovel Knight: Treasure Trove,Platform
-383,Ghost of Tsushima: Director's Cut,Adventure
-383,Ghost of Tsushima: Director's Cut,RPG
-384,Donkey Kong Country Returns,Adventure
-384,Donkey Kong Country Returns,Platform
-385,Street Fighter III: 3rd Strike,Arcade
-385,Street Fighter III: 3rd Strike,Fighting
-386,Return to Monkey Island,Adventure
-386,Return to Monkey Island,Point-and-Click
-386,Return to Monkey Island,Puzzle
-387,Deus Ex: Human Revolution,RPG
-387,Deus Ex: Human Revolution,Shooter
-388,Spyro Reignited Trilogy,Adventure
-388,Spyro Reignited Trilogy,Platform
-389,Chicory: A Colorful Tale,Adventure
-389,Chicory: A Colorful Tale,Indie
-389,Chicory: A Colorful Tale,Puzzle
-389,Chicory: A Colorful Tale,RPG
-390,Sin and Punishment,Shooter
-391,Outer Wilds: Echoes of the Eye,Adventure
-391,Outer Wilds: Echoes of the Eye,Indie
-391,Outer Wilds: Echoes of the Eye,Puzzle
-391,Outer Wilds: Echoes of the Eye,Simulator
-391,Outer Wilds: Echoes of the Eye,Strategy
-392,New Super Mario Bros. 2,Adventure
-392,New Super Mario Bros. 2,Platform
-393,Wolfenstein II: The New Colossus,Adventure
-393,Wolfenstein II: The New Colossus,Shooter
-394,PokÃ©mon Diamond,Adventure
-394,PokÃ©mon Diamond,RPG
-394,PokÃ©mon Diamond,Turn Based Strategy
-395,Into the Breach,Card & Board Game
-395,Into the Breach,Indie
-395,Into the Breach,Puzzle
-395,Into the Breach,RPG
-395,Into the Breach,Simulator
-395,Into the Breach,Strategy
-395,Into the Breach,Turn Based Strategy
-396,Marvel Snap,Card & Board Game
-396,Marvel Snap,Strategy
-397,Nier: Automata - Game of the Yorha Edition,Adventure
-397,Nier: Automata - Game of the Yorha Edition,RPG
-398,Five Nights at Freddy's 2,Adventure
-398,Five Nights at Freddy's 2,Indie
-398,Five Nights at Freddy's 2,Point-and-Click
-398,Five Nights at Freddy's 2,Simulator
-398,Five Nights at Freddy's 2,Strategy
-399,Mortal Kombat 11,Fighting
-400,Witch on the Holy Night,Adventure
-400,Witch on the Holy Night,Visual Novel
-401,Dying Light 2: Stay Human,Adventure
-401,Dying Light 2: Stay Human,RPG
-402,Asura's Wrath,Brawler
-403,Tales of Berseria,RPG
-404,Ender Lilies: Quietus of the Knights,Adventure
-404,Ender Lilies: Quietus of the Knights,Indie
-404,Ender Lilies: Quietus of the Knights,Platform
-404,Ender Lilies: Quietus of the Knights,RPG
-405,Moon: Remix RPG Adventure,Adventure
-405,Moon: Remix RPG Adventure,Puzzle
-405,Moon: Remix RPG Adventure,RPG
-406,Prince of Persia: The Sands of Time,Adventure
-406,Prince of Persia: The Sands of Time,Platform
-407,Assassin's Creed Syndicate,Adventure
-408,Sunset Overdrive,Adventure
-408,Sunset Overdrive,Platform
-408,Sunset Overdrive,Shooter
-409,Metal Gear Solid: Peace Walker,Shooter
-409,Metal Gear Solid: Peace Walker,Strategy
-410,Code Vein,Adventure
-410,Code Vein,RPG
-411,Mario Strikers: Battle League,Sport
-412,Limbus Company,Adventure
-412,Limbus Company,RPG
-412,Limbus Company,Strategy
-413,Resident Evil Village: Winters' Expansion,Shooter
-414,Tony Hawk's Pro Skater 1+2,Simulator
-414,Tony Hawk's Pro Skater 1+2,Sport
-415,Need for Speed: Unbound,Racing
-416,Zero Escape: Zero Time Dilemma,Adventure
-416,Zero Escape: Zero Time Dilemma,Puzzle
-416,Zero Escape: Zero Time Dilemma,RPG
-416,Zero Escape: Zero Time Dilemma,Strategy
-416,Zero Escape: Zero Time Dilemma,Visual Novel
-417,Deus Ex: Mankind Divided,Adventure
-417,Deus Ex: Mankind Divided,RPG
-417,Deus Ex: Mankind Divided,Shooter
-418,Guitar Hero III: Legends of Rock,Music
-418,Guitar Hero III: Legends of Rock,Simulator
-419,Sid Meier's Civilization VI,Simulator
-419,Sid Meier's Civilization VI,Strategy
-419,Sid Meier's Civilization VI,Turn Based Strategy
-420,Nioh 2,Adventure
-420,Nioh 2,Brawler
-420,Nioh 2,RPG
-421,Gears of War,Shooter
-422,Final Fantasy Tactics,RPG
-422,Final Fantasy Tactics,Strategy
-422,Final Fantasy Tactics,Tactical
-422,Final Fantasy Tactics,Turn Based Strategy
-423,Deltarune,Adventure
-423,Deltarune,Indie
-423,Deltarune,Music
-423,Deltarune,Puzzle
-423,Deltarune,RPG
-424,Tekken 3,Fighting
-425,Far Cry 6,Adventure
-425,Far Cry 6,Shooter
-426,Horizon Zero Dawn: Complete Edition,Adventure
-426,Horizon Zero Dawn: Complete Edition,RPG
-426,Horizon Zero Dawn: Complete Edition,Shooter
-427,Persona 4 Golden,Adventure
-427,Persona 4 Golden,RPG
-427,Persona 4 Golden,Simulator
-427,Persona 4 Golden,Visual Novel
-428,Xenosaga Episode I: Der Wille zur Macht,Adventure
-428,Xenosaga Episode I: Der Wille zur Macht,RPG
-429,Everhood,Adventure
-429,Everhood,Indie
-429,Everhood,Music
-429,Everhood,RPG
-430,Don't Starve Together,Adventure
-430,Don't Starve Together,Indie
-430,Don't Starve Together,Simulator
-430,Don't Starve Together,Strategy
-431,South Park: The Fractured But Whole,Adventure
-431,South Park: The Fractured But Whole,RPG
-431,South Park: The Fractured But Whole,Strategy
-432,God of War III: Remastered,Adventure
-432,God of War III: Remastered,Brawler
-433,Pokémon Ruby,Adventure
-433,Pokémon Ruby,RPG
-433,Pokémon Ruby,Turn Based Strategy
-434,Fire Emblem: The Sacred Stones,RPG
-434,Fire Emblem: The Sacred Stones,Strategy
-434,Fire Emblem: The Sacred Stones,Tactical
-434,Fire Emblem: The Sacred Stones,Turn Based Strategy
-435,Library of Ruina,Indie
-435,Library of Ruina,RPG
-435,Library of Ruina,Simulator
-435,Library of Ruina,Strategy
-435,Library of Ruina,Turn Based Strategy
-436,Uncharted: The Nathan Drake Collection,Adventure
-436,Uncharted: The Nathan Drake Collection,Platform
-436,Uncharted: The Nathan Drake Collection,Shooter
-437,Persona 3 Portable,Adventure
-437,Persona 3 Portable,RPG
-437,Persona 3 Portable,Strategy
-437,Persona 3 Portable,Visual Novel
-438,Pyre,Adventure
-438,Pyre,Indie
-438,Pyre,RPG
-438,Pyre,Visual Novel
-439,Paladins,Shooter
-439,Paladins,Strategy
-440,Dead Space 3,Adventure
-440,Dead Space 3,Shooter
-441,Devil May Cry HD Collection,Brawler
-441,Devil May Cry HD Collection,Platform
-442,Bayonetta Origins: Cereza and the Lost Demon,Adventure
-442,Bayonetta Origins: Cereza and the Lost Demon,Puzzle
-443,Armored Core,Shooter
-443,Armored Core,Simulator
-444,Persona 4 Arena Ultimax,Fighting
-445,Wanted: Dead,Adventure
-445,Wanted: Dead,Brawler
-445,Wanted: Dead,Shooter
-446,Luigi's Mansion: Dark Moon,Adventure
-447,Gorogoa,Adventure
-447,Gorogoa,Indie
-447,Gorogoa,Point-and-Click
-447,Gorogoa,Puzzle
-448,Valkyrie Elysium,Brawler
-448,Valkyrie Elysium,RPG
-449,Castlevania: Order of Ecclesia,Adventure
-449,Castlevania: Order of Ecclesia,Brawler
-449,Castlevania: Order of Ecclesia,Platform
-449,Castlevania: Order of Ecclesia,RPG
-450,Deadly Premonition,Adventure
-450,Deadly Premonition,Shooter
-451,LEGO Batman 2: DC Super Heroes,Adventure
-451,LEGO Batman 2: DC Super Heroes,Brawler
-451,LEGO Batman 2: DC Super Heroes,Platform
-452,Lunistice,Adventure
-452,Lunistice,Indie
-452,Lunistice,Platform
-453,Sonic Advance,Platform
-454,Metal Slug,Arcade
-454,Metal Slug,Platform
-454,Metal Slug,Shooter
-455,Just Cause 3,Adventure
-456,Suikoden II,RPG
-456,Suikoden II,Strategy
-457,LittleBigPlanet,Platform
-458,EarthBound Beginnings,Adventure
-458,EarthBound Beginnings,RPG
-459,Wario Land 3,Adventure
-459,Wario Land 3,Platform
-459,Wario Land 3,Puzzle
-460,Faith: The Unholy Trinity,Adventure
-460,Faith: The Unholy Trinity,Indie
-461,Tales of Symphonia,RPG
-462,Final Fantasy VII,RPG
-462,Final Fantasy VII,Turn Based Strategy
-463,The Dark Pictures Anthology: Man of Medan,Adventure
-464,Saya no Uta,Visual Novel
-465,River City Girls,Adventure
-465,River City Girls,Arcade
-465,River City Girls,Brawler
-465,River City Girls,Fighting
-466,Sonic Origins,Adventure
-466,Sonic Origins,Platform
-467,Kuru Kuru Kururin,Arcade
-467,Kuru Kuru Kururin,Puzzle
-468,Pikmin 2,Adventure
-468,Pikmin 2,Real Time Strategy
-469,Wonderful Everyday: Down the Rabbit-Hole,Adventure
-469,Wonderful Everyday: Down the Rabbit-Hole,Visual Novel
-470,Paper Mario: The Origami King,Adventure
-470,Paper Mario: The Origami King,RPG
-471,Conker's Bad Fur Day,Adventure
-471,Conker's Bad Fur Day,Platform
-471,Conker's Bad Fur Day,Shooter
-472,Fire Emblem: Radiant Dawn,RPG
-472,Fire Emblem: Radiant Dawn,Strategy
-472,Fire Emblem: Radiant Dawn,Tactical
-473,Need for Speed: Heat,Adventure
-473,Need for Speed: Heat,Racing
-473,Need for Speed: Heat,Sport
-474,Skate 3,Sport
-475,Braid,Adventure
-475,Braid,Indie
-475,Braid,Platform
-475,Braid,Puzzle
-475,Braid,Strategy
-476,Metro 2033,RPG
-476,Metro 2033,Shooter
-477,Another Pokémon Game,Adventure
-477,Another Pokémon Game,RPG
-478,Super Mario Party,Card & Board Game
-478,Super Mario Party,Platform
-478,Super Mario Party,Puzzle
-479,Kentucky Route Zero,Adventure
-479,Kentucky Route Zero,Indie
-479,Kentucky Route Zero,Point-and-Click
-480,The Legend of Zelda: Twilight Princess HD,Adventure
-480,The Legend of Zelda: Twilight Princess HD,Platform
-480,The Legend of Zelda: Twilight Princess HD,Puzzle
-481,We Love Katamari,Adventure
-481,We Love Katamari,Puzzle
-482,Serial Experiments Lain,Adventure
-483,Kirby's Dream Land 2,Platform
-484,Harvestella,Adventure
-484,Harvestella,RPG
-484,Harvestella,Simulator
-485,Dishonored: Death of the Outsider,Adventure
-485,Dishonored: Death of the Outsider,RPG
-486,Life is Strange 2,Adventure
-487,Banjo-Tooie,Adventure
-487,Banjo-Tooie,Platform
-488,The Legend of Zelda: Oracle of Ages,Adventure
-488,The Legend of Zelda: Oracle of Ages,RPG
-489,Lobotomy Corporation,Indie
-489,Lobotomy Corporation,Simulator
-490,Saints Row 2,Adventure
-490,Saints Row 2,Racing
-490,Saints Row 2,Shooter
-491,Final Fantasy VII Rebirth,
-492,Castlevania: Bloodlines,Adventure
-492,Castlevania: Bloodlines,Platform
-493,Tiny Tina's Wonderlands,Adventure
-493,Tiny Tina's Wonderlands,RPG
-493,Tiny Tina's Wonderlands,Shooter
-494,Utawarerumono: Mask of Truth,Adventure
-494,Utawarerumono: Mask of Truth,RPG
-494,Utawarerumono: Mask of Truth,Simulator
-494,Utawarerumono: Mask of Truth,Strategy
-494,Utawarerumono: Mask of Truth,Tactical
-494,Utawarerumono: Mask of Truth,Visual Novel
-495,Hitman World of Assassination,Adventure
-495,Hitman World of Assassination,Shooter
-495,Hitman World of Assassination,Tactical
-496,Just Cause 2,Adventure
-496,Just Cause 2,Racing
-496,Just Cause 2,Shooter
-497,Lies of P,RPG
-498,Final Fantasy V,Adventure
-498,Final Fantasy V,RPG
-499,Jet Set Radio Future,Music
-499,Jet Set Radio Future,Platform
-499,Jet Set Radio Future,Racing
-499,Jet Set Radio Future,Sport
-500,Overcooked!,Arcade
-500,Overcooked!,Indie
-500,Overcooked!,Simulator
-500,Overcooked!,Strategy
-501,Shin Megami Tensei IV: Apocalypse,Adventure
-501,Shin Megami Tensei IV: Apocalypse,RPG
-502,Muse Dash,Indie
-502,Muse Dash,Music
-503,Fire Emblem: Genealogy of the Holy War,RPG
-503,Fire Emblem: Genealogy of the Holy War,Strategy
-503,Fire Emblem: Genealogy of the Holy War,Turn Based Strategy
-504,Judas,Adventure
-504,Judas,Shooter
-505,Half-Life: Opposing Force,Platform
-505,Half-Life: Opposing Force,Puzzle
-505,Half-Life: Opposing Force,Shooter
-506,Bloodborne PSX,Adventure
-506,Bloodborne PSX,RPG
-507,Prototype,Adventure
-507,Prototype,Brawler
-507,Prototype,Platform
-508,Pokémon Gold,Adventure
-508,Pokémon Gold,RPG
-508,Pokémon Gold,Turn Based Strategy
-509,Valheim,Adventure
-509,Valheim,Indie
-509,Valheim,RPG
-510,Your Turn To Die: Death Game By Majority,Adventure
-510,Your Turn To Die: Death Game By Majority,Indie
-510,Your Turn To Die: Death Game By Majority,Visual Novel
-511,Gal Guardians: Demon Purge,Adventure
-511,Gal Guardians: Demon Purge,Platform
-512,Mortal Shell,Indie
-512,Mortal Shell,RPG
-513,Kingdom Come: Deliverance,Adventure
-513,Kingdom Come: Deliverance,RPG
-514,Live A Live,RPG
-515,Sleeping Dogs: Definitive Edition,Adventure
-515,Sleeping Dogs: Definitive Edition,Brawler
-515,Sleeping Dogs: Definitive Edition,Racing
-515,Sleeping Dogs: Definitive Edition,Shooter
-516,Resident Evil 4: Ultimate HD Edition,Adventure
-516,Resident Evil 4: Ultimate HD Edition,Shooter
-517,LEGO Builder's Journey,Adventure
-517,LEGO Builder's Journey,Indie
-517,LEGO Builder's Journey,Puzzle
-518,Guilty Gear Xrd: Rev 2,Fighting
-519,Super Kiwi 64,Adventure
-519,Super Kiwi 64,Arcade
-519,Super Kiwi 64,Platform
-520,Infamous 2,Adventure
-520,Infamous 2,Brawler
-520,Infamous 2,Puzzle
-521,Fallout 3: Game of the Year Edition,Adventure
-521,Fallout 3: Game of the Year Edition,RPG
-521,Fallout 3: Game of the Year Edition,Shooter
-522,Melatonin,Arcade
-522,Melatonin,Indie
-522,Melatonin,Music
-522,Melatonin,Puzzle
-523,Gungrave G.O.R.E,Adventure
-523,Gungrave G.O.R.E,Fighting
-523,Gungrave G.O.R.E,Shooter
-523,Gungrave G.O.R.E,Simulator
-523,Gungrave G.O.R.E,Strategy
-524,Like a Dragon Gaiden: The Man Who Erased His Name,Adventure
-524,Like a Dragon Gaiden: The Man Who Erased His Name,Brawler
-524,Like a Dragon Gaiden: The Man Who Erased His Name,RPG
-525,Garten of Banban,Adventure
-525,Garten of Banban,Indie
-525,Garten of Banban,Puzzle
-526,Hitman: Blood Money,Shooter
-527,Professor Layton and the Unwound Future,Point-and-Click
-527,Professor Layton and the Unwound Future,Puzzle
-527,Professor Layton and the Unwound Future,Visual Novel
-528,The Dark Pictures Anthology: The Devil in Me,Adventure
-529,Donkey Kong Country: Tropical Freeze,Platform
-530,Fire Emblem: Thracia 776,RPG
-530,Fire Emblem: Thracia 776,Strategy
-530,Fire Emblem: Thracia 776,Tactical
-531,Moonlighter,Adventure
-531,Moonlighter,Brawler
-531,Moonlighter,Indie
-531,Moonlighter,RPG
-531,Moonlighter,Simulator
-532,Pikmin 3,Adventure
-532,Pikmin 3,Real Time Strategy
-533,Five Nights at Freddy's 4,Adventure
-533,Five Nights at Freddy's 4,Indie
-533,Five Nights at Freddy's 4,Point-and-Click
-533,Five Nights at Freddy's 4,Simulator
-533,Five Nights at Freddy's 4,Strategy
-534,Chaos;Head Noah,Adventure
-534,Chaos;Head Noah,Simulator
-534,Chaos;Head Noah,Visual Novel
-535,Nier: Automata - The End of Yorha Edition,Adventure
-535,Nier: Automata - The End of Yorha Edition,RPG
-536,Phoenix Wright: Ace Attorney - Spirit of Justice,Adventure
-536,Phoenix Wright: Ace Attorney - Spirit of Justice,Point-and-Click
-536,Phoenix Wright: Ace Attorney - Spirit of Justice,Puzzle
-536,Phoenix Wright: Ace Attorney - Spirit of Justice,RPG
-536,Phoenix Wright: Ace Attorney - Spirit of Justice,Visual Novel
-537,Crysis,Adventure
-537,Crysis,Shooter
-538,Fallout Shelter,RPG
-538,Fallout Shelter,Simulator
-538,Fallout Shelter,Strategy
-539,Sonic and the Secret Rings,Platform
-540,FTL: Faster Than Light,Indie
-540,FTL: Faster Than Light,RPG
-540,FTL: Faster Than Light,Simulator
-540,FTL: Faster Than Light,Strategy
-541,Mario Party 2,Card & Board Game
-542,Attack of the Friday Monsters! A Tokyo Tale,Adventure
-542,Attack of the Friday Monsters! A Tokyo Tale,Simulator
-543,Animal Crossing,Simulator
-544,Fire Emblem Fates: Revelation,RPG
-544,Fire Emblem Fates: Revelation,Strategy
-544,Fire Emblem Fates: Revelation,Turn Based Strategy
-545,Bloodstained: Curse of the Moon,Adventure
-545,Bloodstained: Curse of the Moon,Indie
-545,Bloodstained: Curse of the Moon,Platform
-546,Final Fantasy XIII-2,Adventure
-546,Final Fantasy XIII-2,RPG
-547,Agar.io,Indie
-547,Agar.io,Strategy
-548,Fatal Frame II: Crimson Butterfly,Adventure
-549,World of Warcraft,Adventure
-549,World of Warcraft,RPG
-550,The Legend of Heroes: Trails of Cold Steel II,Adventure
-550,The Legend of Heroes: Trails of Cold Steel II,RPG
-550,The Legend of Heroes: Trails of Cold Steel II,Turn Based Strategy
-551,Gang Beasts,Fighting
-551,Gang Beasts,Indie
-552,Armored Core 3,Shooter
-552,Armored Core 3,Strategy
-553,Star Wars: The Force Unleashed II,Adventure
-553,Star Wars: The Force Unleashed II,Brawler
-553,Star Wars: The Force Unleashed II,RPG
-554,Elden Ring,Adventure
-554,Elden Ring,RPG
-555,Hi-Fi Rush,Adventure
-555,Hi-Fi Rush,Brawler
-555,Hi-Fi Rush,Music
-555,Hi-Fi Rush,Platform
-556,Grand Theft Auto V,Adventure
-556,Grand Theft Auto V,Shooter
-557,Cyberpunk 2077,Adventure
-557,Cyberpunk 2077,RPG
-557,Cyberpunk 2077,Shooter
-558,Fallout: New Vegas,RPG
-558,Fallout: New Vegas,Shooter
-559,The Witcher 3: Wild Hunt,Adventure
-559,The Witcher 3: Wild Hunt,RPG
-560,Fortnite,Adventure
-560,Fortnite,RPG
-560,Fortnite,Shooter
-560,Fortnite,Strategy
-561,Fall Guys,Indie
-561,Fall Guys,Platform
-561,Fall Guys,Sport
-562,It Takes Two,Adventure
-562,It Takes Two,Platform
-562,It Takes Two,Puzzle
-563,BioShock,Adventure
-563,BioShock,RPG
-563,BioShock,Shooter
-564,Metal Gear Solid,Adventure
-564,Metal Gear Solid,Tactical
-565,Yakuza: Like a Dragon,Adventure
-565,Yakuza: Like a Dragon,RPG
-565,Yakuza: Like a Dragon,Turn Based Strategy
-566,Animal Crossing: New Horizons,Simulator
-567,BioShock Infinite,Adventure
-567,BioShock Infinite,Shooter
-568,League of Legends,MOBA
-568,League of Legends,RPG
-568,League of Legends,Strategy
-569,Yakuza Kiwami,Adventure
-569,Yakuza Kiwami,Brawler
-569,Yakuza Kiwami,RPG
-570,Splatoon 3,Platform
-570,Splatoon 3,Shooter
-571,Guilty Gear: Strive,Fighting
-572,Mirror's Edge,Adventure
-572,Mirror's Edge,Platform
-572,Mirror's Edge,Shooter
-573,Bayonetta 2,Brawler
-574,Sonic Generations,Adventure
-574,Sonic Generations,Platform
-575,Shin Megami Tensei: Nocturne,RPG
-576,Death's Door,Adventure
-576,Death's Door,Brawler
-576,Death's Door,Indie
-576,Death's Door,RPG
-577,Devil May Cry 3: Dante's Awakening - Special Edition,Adventure
-577,Devil May Cry 3: Dante's Awakening - Special Edition,Brawler
-577,Devil May Cry 3: Dante's Awakening - Special Edition,Shooter
-578,Assassin's Creed IV Black Flag,Adventure
-578,Assassin's Creed IV Black Flag,Platform
-579,The Legend of Zelda: Twilight Princess,Adventure
-579,The Legend of Zelda: Twilight Princess,RPG
-580,Crisis Core: Final Fantasy VII - Reunion,RPG
-581,Metroid Prime,Adventure
-581,Metroid Prime,Platform
-581,Metroid Prime,Shooter
-582,Sonic the Hedgehog 2,Adventure
-582,Sonic the Hedgehog 2,Platform
-583,Metal Gear Solid 4: Guns of the Patriots,Adventure
-583,Metal Gear Solid 4: Guns of the Patriots,Shooter
-583,Metal Gear Solid 4: Guns of the Patriots,Tactical
-584,Atomic Heart,Adventure
-584,Atomic Heart,RPG
-584,Atomic Heart,Shooter
-585,Minecraft,Adventure
-585,Minecraft,Simulator
-586,Resident Evil 5,Adventure
-586,Resident Evil 5,Shooter
-587,The World Ends with You,Arcade
-587,The World Ends with You,RPG
-588,A Hat in Time,Adventure
-588,A Hat in Time,Indie
-588,A Hat in Time,Platform
-589,Scorn,Adventure
-589,Scorn,Indie
-589,Scorn,Puzzle
-590,Fire Emblem: Awakening,Adventure
-590,Fire Emblem: Awakening,RPG
-590,Fire Emblem: Awakening,Strategy
-591,Cuphead: The Delicious Last Course,Adventure
-591,Cuphead: The Delicious Last Course,Indie
-591,Cuphead: The Delicious Last Course,Platform
-592,Ori and the Will of the Wisps,Adventure
-592,Ori and the Will of the Wisps,Platform
-593,Mass Effect,RPG
-593,Mass Effect,Shooter
-594,Return of the Obra Dinn,Adventure
-594,Return of the Obra Dinn,Indie
-594,Return of the Obra Dinn,Puzzle
-595,Kingdom Hearts III,Adventure
-595,Kingdom Hearts III,Brawler
-595,Kingdom Hearts III,RPG
-596,Fallout 3,RPG
-596,Fallout 3,Shooter
-597,Uncharted: Drake's Fortune,Adventure
-597,Uncharted: Drake's Fortune,Platform
-597,Uncharted: Drake's Fortune,Shooter
-598,"Zero Escape: Nine Hours, Nine Persons, Nine Doors",Adventure
-598,"Zero Escape: Nine Hours, Nine Persons, Nine Doors",Point-and-Click
-598,"Zero Escape: Nine Hours, Nine Persons, Nine Doors",Puzzle
-598,"Zero Escape: Nine Hours, Nine Persons, Nine Doors",Visual Novel
-599,Lost Judgment,Adventure
-599,Lost Judgment,Brawler
-599,Lost Judgment,RPG
-600,Super Mario 3D Land,Platform
-601,Gris,Adventure
-601,Gris,Indie
-601,Gris,Platform
-601,Gris,Puzzle
-602,Silent Hill 3,Adventure
-602,Silent Hill 3,Puzzle
-603,Call of Duty: Modern Warfare 2,Shooter
-604,The Walking Dead: Season One,Adventure
-604,The Walking Dead: Season One,Point-and-Click
-605,Mario Kart DS,Racing
-606,Apex Legends,Shooter
-607,Devil May Cry 2,Adventure
-607,Devil May Cry 2,Brawler
-608,The Legend of Zelda: Ocarina of Time 3D,Adventure
-608,The Legend of Zelda: Ocarina of Time 3D,Puzzle
-608,The Legend of Zelda: Ocarina of Time 3D,RPG
-609,Twelve Minutes,Adventure
-609,Twelve Minutes,Indie
-609,Twelve Minutes,Point-and-Click
-609,Twelve Minutes,Puzzle
-610,Demon's Souls,Adventure
-610,Demon's Souls,RPG
-611,Persona 3 Portable,Adventure
-611,Persona 3 Portable,RPG
-611,Persona 3 Portable,Strategy
-611,Persona 3 Portable,Visual Novel
-612,Rayman Legends,Adventure
-612,Rayman Legends,Platform
-613,Uncharted 2: Among Thieves,Adventure
-613,Uncharted 2: Among Thieves,Platform
-613,Uncharted 2: Among Thieves,Shooter
-614,Monster Hunter: World,Adventure
-614,Monster Hunter: World,RPG
-615,Milk inside a bag of milk inside a bag of milk,Adventure
-615,Milk inside a bag of milk inside a bag of milk,Indie
-615,Milk inside a bag of milk inside a bag of milk,Visual Novel
-616,The Legend of Zelda: A Link Between Worlds,Adventure
-616,The Legend of Zelda: A Link Between Worlds,Puzzle
-616,The Legend of Zelda: A Link Between Worlds,RPG
-617,Final Fantasy XIV: Endwalker,Adventure
-617,Final Fantasy XIV: Endwalker,RPG
-618,The Legend of Zelda: The Minish Cap,Adventure
-618,The Legend of Zelda: The Minish Cap,RPG
-619,Pokémon Go,RPG
-619,Pokémon Go,Simulator
-620,Night in the Woods,Adventure
-620,Night in the Woods,Indie
-620,Night in the Woods,Platform
-621,Shin Megami Tensei IV,RPG
-622,Kingdom Hearts II,Adventure
-622,Kingdom Hearts II,RPG
-623,Castlevania: Aria of Sorrow,Adventure
-623,Castlevania: Aria of Sorrow,Platform
-623,Castlevania: Aria of Sorrow,RPG
-624,Halo: Reach,Shooter
-625,Grand Theft Auto: Vice City,Adventure
-625,Grand Theft Auto: Vice City,Arcade
-625,Grand Theft Auto: Vice City,Racing
-625,Grand Theft Auto: Vice City,Shooter
-626,A Short Hike,Adventure
-626,A Short Hike,Indie
-626,A Short Hike,Platform
-627,The Legend of Zelda: Tears of the Kingdom,Adventure
-627,The Legend of Zelda: Tears of the Kingdom,RPG
-628,Assassin's Creed III,Adventure
-628,Assassin's Creed III,Strategy
-629,Castlevania,Adventure
-629,Castlevania,Platform
-630,Milk outside a bag of milk outside a bag of milk,Adventure
-630,Milk outside a bag of milk outside a bag of milk,Indie
-630,Milk outside a bag of milk outside a bag of milk,Visual Novel
-631,Lisa,Adventure
-631,Lisa,Indie
-631,Lisa,RPG
-632,Crash Bandicoot,Platform
-633,The Legend of Zelda: The Wind Waker HD,Adventure
-633,The Legend of Zelda: The Wind Waker HD,Puzzle
-634,The Outer Worlds,Adventure
-634,The Outer Worlds,RPG
-634,The Outer Worlds,Shooter
-635,The Legend of Zelda: Majora's Mask 3D,Adventure
-635,The Legend of Zelda: Majora's Mask 3D,RPG
-636,The Callisto Protocol,Adventure
-636,The Callisto Protocol,Shooter
-637,The Wolf Among Us,Adventure
-637,The Wolf Among Us,Point-and-Click
-638,Dead Space 2,Adventure
-638,Dead Space 2,Shooter
-639,Super Mario Bros. 2,Adventure
-639,Super Mario Bros. 2,Platform
-640,Until Dawn,Adventure
-641,Kid Icarus: Uprising,Brawler
-641,Kid Icarus: Uprising,Shooter
-642,Chained Echoes,Adventure
-642,Chained Echoes,Indie
-642,Chained Echoes,RPG
-642,Chained Echoes,Strategy
-642,Chained Echoes,Turn Based Strategy
-643,BioShock Remastered,Adventure
-643,BioShock Remastered,RPG
-643,BioShock Remastered,Shooter
-644,Sonic Unleashed,Adventure
-644,Sonic Unleashed,Brawler
-644,Sonic Unleashed,Platform
-645,Yakuza 5 Remastered,Adventure
-646,Metal Gear Solid 3: Subsistence,Adventure
-646,Metal Gear Solid 3: Subsistence,Shooter
-646,Metal Gear Solid 3: Subsistence,Tactical
-647,Super Mario World 2: Yoshi's Island,Platform
-648,Devil May Cry 4,Adventure
-648,Devil May Cry 4,Brawler
-649,Donut County,Adventure
-649,Donut County,Indie
-649,Donut County,Puzzle
-650,Assassin's Creed Origins,Adventure
-650,Assassin's Creed Origins,RPG
-651,Ghostwire: Tokyo,Adventure
-652,Yakuza 4 Remastered,Adventure
-652,Yakuza 4 Remastered,Brawler
-653,Call of Duty: Modern Warfare II,Shooter
-654,Crash Bandicoot 4: It's About Time,Platform
-655,Grand Theft Auto III,Adventure
-655,Grand Theft Auto III,Racing
-655,Grand Theft Auto III,Shooter
-655,Grand Theft Auto III,Simulator
-656,Dead by Daylight,Indie
-656,Dead by Daylight,Strategy
-657,Abzu,Adventure
-657,Abzu,Indie
-657,Abzu,Puzzle
-657,Abzu,Simulator
-658,Batman: Arkham Origins,Adventure
-658,Batman: Arkham Origins,Brawler
-659,Splatoon 2,Platform
-659,Splatoon 2,Shooter
-660,Pokémon HeartGold,Adventure
-660,Pokémon HeartGold,RPG
-660,Pokémon HeartGold,Turn Based Strategy
-661,Kena: Bridge of Spirits,Adventure
-661,Kena: Bridge of Spirits,Indie
-662,Final Fantasy VIII,Adventure
-662,Final Fantasy VIII,RPG
-663,The Elder Scrolls IV: Oblivion,Adventure
-663,The Elder Scrolls IV: Oblivion,RPG
-664,The Silver Case,Adventure
-664,The Silver Case,Puzzle
-664,The Silver Case,Visual Novel
-665,Marvel's Spider-Man Remastered,Adventure
-665,Marvel's Spider-Man Remastered,Brawler
-666,Alan Wake,Adventure
-666,Alan Wake,Shooter
-667,A Way Out,Adventure
-668,LEGO Batman: The Video Game,Adventure
-668,LEGO Batman: The Video Game,Brawler
-668,LEGO Batman: The Video Game,Platform
-669,Borderlands 3,RPG
-669,Borderlands 3,Shooter
-670,Dragon Ball FighterZ,Fighting
-671,Ico,Adventure
-671,Ico,Platform
-671,Ico,Puzzle
-672,Shin Megami Tensei III: Nocturne - HD Remaster,RPG
-672,Shin Megami Tensei III: Nocturne - HD Remaster,Turn Based Strategy
-673,The Witness,Adventure
-673,The Witness,Indie
-673,The Witness,Puzzle
-674,Animal Crossing: New Leaf,Simulator
-675,Wo Long: Fallen Dynasty,Adventure
-675,Wo Long: Fallen Dynasty,RPG
-676,Final Fantasy VII Remake Intergrade,Adventure
-676,Final Fantasy VII Remake Intergrade,RPG
-677,Sonic Adventure 2,Adventure
-677,Sonic Adventure 2,Platform
-678,Destiny 2,Adventure
-678,Destiny 2,RPG
-678,Destiny 2,Shooter
-679,Kirby's Dream Land,Platform
-680,Mario Kart 8,Arcade
-680,Mario Kart 8,Racing
-681,Xenoblade Chronicles,Adventure
-681,Xenoblade Chronicles,RPG
-682,The Forgotten City,Adventure
-682,The Forgotten City,Indie
-682,The Forgotten City,RPG
-683,Untitled Goose Game,Adventure
-683,Untitled Goose Game,Indie
-683,Untitled Goose Game,Puzzle
-683,Untitled Goose Game,Simulator
-684,Sonic Adventure 2: Battle,Adventure
-684,Sonic Adventure 2: Battle,Platform
-685,Saints Row: The Third,Adventure
-685,Saints Row: The Third,Racing
-685,Saints Row: The Third,Shooter
-686,Call of Duty: Black Ops III,Adventure
-686,Call of Duty: Black Ops III,Shooter
-687,Pokémon Red,Adventure
-687,Pokémon Red,RPG
-687,Pokémon Red,Turn Based Strategy
-688,Tinykin,Adventure
-688,Tinykin,Arcade
-688,Tinykin,Indie
-688,Tinykin,Platform
-688,Tinykin,Puzzle
-688,Tinykin,RPG
-689,Dragon's Dogma: Dark Arisen,Adventure
-689,Dragon's Dogma: Dark Arisen,RPG
-690,Brawlhalla,Arcade
-690,Brawlhalla,Fighting
-690,Brawlhalla,Indie
-690,Brawlhalla,Platform
-691,Pokémon Unite,MOBA
-692,Black Mesa,Adventure
-692,Black Mesa,Indie
-692,Black Mesa,Platform
-692,Black Mesa,Shooter
-693,The Messenger,Adventure
-693,The Messenger,Arcade
-693,The Messenger,Indie
-693,The Messenger,Platform
-694,Jet Set Radio,Platform
-695,Pathologic 2,Adventure
-695,Pathologic 2,Indie
-695,Pathologic 2,RPG
-696,Tactics Ogre: Reborn,RPG
-696,Tactics Ogre: Reborn,Simulator
-696,Tactics Ogre: Reborn,Strategy
-696,Tactics Ogre: Reborn,Tactical
-697,Hyper Light Drifter,Adventure
-697,Hyper Light Drifter,Indie
-697,Hyper Light Drifter,Platform
-697,Hyper Light Drifter,RPG
-698,Left 4 Dead,Shooter
-699,The 25th Ward: The Silver Case,Adventure
-699,The 25th Ward: The Silver Case,Puzzle
-699,The 25th Ward: The Silver Case,Visual Novel
-700,Darkest Dungeon,Adventure
-700,Darkest Dungeon,Indie
-700,Darkest Dungeon,RPG
-700,Darkest Dungeon,Strategy
-700,Darkest Dungeon,Turn Based Strategy
-701,Roblox,Adventure
-701,Roblox,Platform
-701,Roblox,Simulator
-702,The Last Guardian,Adventure
-702,The Last Guardian,Platform
-702,The Last Guardian,Puzzle
-703,Drakengard 3,Adventure
-703,Drakengard 3,Brawler
-703,Drakengard 3,RPG
-703,Drakengard 3,Strategy
-704,Half-Life 2: Episode One,Shooter
-705,Assassin's Creed Revelations,Adventure
-706,Half-Life 2: Episode Two,Puzzle
-706,Half-Life 2: Episode Two,Shooter
-707,Mega Man,Adventure
-707,Mega Man,Platform
-708,PowerWash Simulator,Indie
-708,PowerWash Simulator,Simulator
-709,Cave Story,Adventure
-709,Cave Story,Indie
-709,Cave Story,Platform
-709,Cave Story,Shooter
-710,Final Fantasy XIV: Shadowbringers,RPG
-711,Days Gone,Adventure
-711,Days Gone,Shooter
-712,Tom Clancy's Rainbow Six Siege,Shooter
-712,Tom Clancy's Rainbow Six Siege,Tactical
-713,Trek to Yomi,Adventure
-713,Trek to Yomi,Brawler
-713,Trek to Yomi,Indie
-714,Sonic CD,Platform
-715,Mario Kart: Double Dash!!,Racing
-716,Rayman Origins,Adventure
-716,Rayman Origins,Platform
-717,Klonoa Phantasy Reverie Series,Adventure
-717,Klonoa Phantasy Reverie Series,Platform
-718,Hitman 2,Adventure
-718,Hitman 2,Shooter
-718,Hitman 2,Tactical
-719,Max Payne 3,Shooter
-720,Catherine: Full Body,Adventure
-720,Catherine: Full Body,Platform
-720,Catherine: Full Body,Puzzle
-720,Catherine: Full Body,Simulator
-720,Catherine: Full Body,Strategy
-721,Kirby: Planet Robobot,Adventure
-721,Kirby: Planet Robobot,Platform
-722,Battlefield 1,Shooter
-723,Kirby’s Return to Dream Land Deluxe,Adventure
-723,Kirby’s Return to Dream Land Deluxe,Platform
-724,Persona 2: Eternal Punishment,Adventure
-724,Persona 2: Eternal Punishment,RPG
-725,Star Wars Battlefront II,Adventure
-725,Star Wars Battlefront II,Shooter
-726,Super Paper Mario,Adventure
-726,Super Paper Mario,Platform
-726,Super Paper Mario,RPG
-727,The Great Ace Attorney 2: Resolve,Adventure
-727,The Great Ace Attorney 2: Resolve,Point-and-Click
-727,The Great Ace Attorney 2: Resolve,Puzzle
-727,The Great Ace Attorney 2: Resolve,Visual Novel
-728,Bugsnax,Adventure
-728,Bugsnax,Indie
-728,Bugsnax,Puzzle
-729,Star Wars: Battlefront II,Shooter
-730,Pokémon Shield,Adventure
-730,Pokémon Shield,RPG
-730,Pokémon Shield,Turn Based Strategy
-731,Super Castlevania IV,Adventure
-731,Super Castlevania IV,Platform
-732,Brothers: A Tale of Two Sons,Adventure
-732,Brothers: A Tale of Two Sons,Indie
-732,Brothers: A Tale of Two Sons,Puzzle
-733,Call of Duty: Modern Warfare,Shooter
-734,GoldenEye 007,Shooter
-735,"WarioWare, Inc.: Mega Microgames!",Arcade
-736,Evil West,Adventure
-736,Evil West,Brawler
-736,Evil West,Shooter
-737,Gravity Rush 2,Adventure
-737,Gravity Rush 2,Platform
-738,Metroid Prime 2: Echoes,Adventure
-738,Metroid Prime 2: Echoes,Platform
-738,Metroid Prime 2: Echoes,Shooter
-739,The Forest,Adventure
-739,The Forest,Indie
-739,The Forest,Puzzle
-739,The Forest,Simulator
-740,CrossCode,Adventure
-740,CrossCode,Indie
-740,CrossCode,Puzzle
-740,CrossCode,RPG
-741,Sekiro: Shadows Die Twice - GOTY Edition,Adventure
-741,Sekiro: Shadows Die Twice - GOTY Edition,Brawler
-741,Sekiro: Shadows Die Twice - GOTY Edition,RPG
-742,Saints Row IV,Adventure
-742,Saints Row IV,Shooter
-743,Fallout 2,RPG
-743,Fallout 2,Turn Based Strategy
-744,Chrono Cross,RPG
-745,Fire Emblem: Path of Radiance,RPG
-745,Fire Emblem: Path of Radiance,Strategy
-745,Fire Emblem: Path of Radiance,Tactical
-745,Fire Emblem: Path of Radiance,Turn Based Strategy
-746,Kingdom Hearts Final Mix,RPG
-747,Professor Layton and the Curious Village,Point-and-Click
-747,Professor Layton and the Curious Village,Puzzle
-747,Professor Layton and the Curious Village,Visual Novel
-748,Ys VIII: Lacrimosa of Dana,Adventure
-748,Ys VIII: Lacrimosa of Dana,RPG
-749,Hotel Dusk: Room 215,Adventure
-749,Hotel Dusk: Room 215,Point-and-Click
-749,Hotel Dusk: Room 215,Puzzle
-749,Hotel Dusk: Room 215,Visual Novel
-750,Postal 2,Adventure
-750,Postal 2,Indie
-750,Postal 2,Shooter
-751,Fez,Adventure
-751,Fez,Indie
-751,Fez,Platform
-751,Fez,Puzzle
-752,Marvel's Midnight Suns,RPG
-752,Marvel's Midnight Suns,Strategy
-752,Marvel's Midnight Suns,Tactical
-753,Streets of Rage 4,Arcade
-753,Streets of Rage 4,Brawler
-753,Streets of Rage 4,Fighting
-753,Streets of Rage 4,Indie
-754,Shin Megami Tensei: Persona,RPG
-755,Kirby's Return to Dream Land,Adventure
-755,Kirby's Return to Dream Land,Platform
-756,BioShock 2 Remastered,RPG
-756,BioShock 2 Remastered,Shooter
-757,God of War: Chains of Olympus,Adventure
-757,God of War: Chains of Olympus,Brawler
-758,Splatoon,Platform
-758,Splatoon,Shooter
-759,Nickelodeon All-Star Brawl,Arcade
-759,Nickelodeon All-Star Brawl,Fighting
-760,The Great Ace Attorney: Adventures,Adventure
-760,The Great Ace Attorney: Adventures,Point-and-Click
-760,The Great Ace Attorney: Adventures,Puzzle
-760,The Great Ace Attorney: Adventures,Visual Novel
-761,Sonic Rush,Platform
-762,Chrono Trigger,Adventure
-763,Street Fighter V,Arcade
-763,Street Fighter V,Fighting
-764,Somerville,Adventure
-765,Bully: Scholarship Edition,Adventure
-766,Borderlands: The Pre-Sequel,RPG
-766,Borderlands: The Pre-Sequel,Shooter
-767,Star Wars Jedi: Survivor,Adventure
-768,Alice: Madness Returns,Adventure
-768,Alice: Madness Returns,Brawler
-768,Alice: Madness Returns,Platform
-769,Super Mario 3D All-Stars,Adventure
-769,Super Mario 3D All-Stars,Platform
-770,S.T.A.L.K.E.R.: Shadow of Chernobyl,RPG
-770,S.T.A.L.K.E.R.: Shadow of Chernobyl,Shooter
-771,JoJo’s Bizarre Adventure: All-Star Battle R,Adventure
-771,JoJo’s Bizarre Adventure: All-Star Battle R,Fighting
-772,Geometry Dash,Adventure
-772,Geometry Dash,Arcade
-772,Geometry Dash,Indie
-772,Geometry Dash,Music
-772,Geometry Dash,Platform
-773,Mario + Rabbids Sparks of Hope,Adventure
-773,Mario + Rabbids Sparks of Hope,Strategy
-773,Mario + Rabbids Sparks of Hope,Tactical
-773,Mario + Rabbids Sparks of Hope,Turn Based Strategy
-774,Back 4 Blood,Shooter
-775,Half-Life: Alyx,Adventure
-775,Half-Life: Alyx,Puzzle
-775,Half-Life: Alyx,Shooter
-776,Hyper Demon,Indie
-776,Hyper Demon,Shooter
-777,Mortal Kombat,Fighting
-778,Resident Evil,Adventure
-778,Resident Evil,Puzzle
-779,Call of Duty: Ghosts,Shooter
-780,Ridge Racer Type 4,Racing
-781,Lil Gator Game,Adventure
-781,Lil Gator Game,Indie
-781,Lil Gator Game,Platform
-782,Oxenfree,Adventure
-782,Oxenfree,Indie
-783,Overcooked! 2,Arcade
-783,Overcooked! 2,Indie
-783,Overcooked! 2,Simulator
-783,Overcooked! 2,Strategy
-783,Overcooked! 2,Tactical
-784,Before Your Eyes,Adventure
-784,Before Your Eyes,Indie
-785,Sly Cooper and the Thievius Raccoonus,Adventure
-785,Sly Cooper and the Thievius Raccoonus,Platform
-786,Nobody Saves the World,Adventure
-786,Nobody Saves the World,Brawler
-786,Nobody Saves the World,Indie
-786,Nobody Saves the World,RPG
-787,Crazy Taxi,Arcade
-787,Crazy Taxi,Racing
-788,Chrono Cross: The Radical Dreamers Edition,Adventure
-788,Chrono Cross: The Radical Dreamers Edition,RPG
-789,Spore,Adventure
-789,Spore,Real Time Strategy
-789,Spore,RPG
-789,Spore,Simulator
-789,Spore,Strategy
-790,Dwarf Fortress,Indie
-790,Dwarf Fortress,RPG
-790,Dwarf Fortress,Simulator
-790,Dwarf Fortress,Strategy
-791,Klonoa 2: Lunatea's Veil,Adventure
-791,Klonoa 2: Lunatea's Veil,Platform
-791,Klonoa 2: Lunatea's Veil,Sport
-792,Pokémon Blue,Adventure
-792,Pokémon Blue,RPG
-792,Pokémon Blue,Turn Based Strategy
-793,Planescape: Torment,RPG
-793,Planescape: Torment,Strategy
-794,Far Cry 3: Blood Dragon,Adventure
-794,Far Cry 3: Blood Dragon,Shooter
-795,BattleBlock Theater,Adventure
-795,BattleBlock Theater,Indie
-795,BattleBlock Theater,Platform
-795,BattleBlock Theater,Puzzle
-796,The Beginner's Guide,Adventure
-796,The Beginner's Guide,Indie
-797,We Love Katamari Reroll + Royal Reverie,Adventure
-797,We Love Katamari Reroll + Royal Reverie,Puzzle
-798,Naruto Shippuden: Ultimate Ninja Storm 4,Adventure
-798,Naruto Shippuden: Ultimate Ninja Storm 4,Fighting
-799,Mega Man 3,Adventure
-799,Mega Man 3,Platform
-800,Ni no Kuni: Wrath of the White Witch,Adventure
-800,Ni no Kuni: Wrath of the White Witch,RPG
-801,Fortnite: Chapter 4,RPG
-801,Fortnite: Chapter 4,Shooter
-801,Fortnite: Chapter 4,Strategy
-802,Danganronpa Another Episode: Ultra Despair Girls,Adventure
-802,Danganronpa Another Episode: Ultra Despair Girls,Brawler
-802,Danganronpa Another Episode: Ultra Despair Girls,Puzzle
-802,Danganronpa Another Episode: Ultra Despair Girls,Shooter
-803,The Artful Escape,Adventure
-803,The Artful Escape,Indie
-803,The Artful Escape,Music
-803,The Artful Escape,Platform
-804,Dishonored: Definitive Edition,Adventure
-804,Dishonored: Definitive Edition,Shooter
-805,Pac-Man World Re-Pac,Adventure
-805,Pac-Man World Re-Pac,Arcade
-805,Pac-Man World Re-Pac,Platform
-805,Pac-Man World Re-Pac,Racing
-805,Pac-Man World Re-Pac,Shooter
-806,Ib,Adventure
-806,Ib,Indie
-806,Ib,Puzzle
-806,Ib,RPG
-807,Castlevania: Circle of the Moon,Adventure
-807,Castlevania: Circle of the Moon,Platform
-807,Castlevania: Circle of the Moon,RPG
-808,Higurashi: When They Cry,Adventure
-808,Higurashi: When They Cry,Visual Novel
-809,Life is Strange: Before the Storm,Adventure
-810,Darkwood,Adventure
-810,Darkwood,Indie
-810,Darkwood,RPG
-811,Beyond Good & Evil,Adventure
-811,Beyond Good & Evil,Shooter
-812,Metroid II: Return of Samus,Adventure
-812,Metroid II: Return of Samus,Platform
-812,Metroid II: Return of Samus,Shooter
-813,Shenmue,Adventure
-813,Shenmue,Brawler
-813,Shenmue,RPG
-813,Shenmue,Simulator
-814,Project Zomboid,Indie
-814,Project Zomboid,RPG
-814,Project Zomboid,Simulator
-815,Crash Team Racing,Racing
-816,Carrion,Adventure
-816,Carrion,Indie
-816,Carrion,Platform
-817,Gears of War 2,Shooter
-818,Phoenix Wright: Ace Attorney - Dual Destinies,Adventure
-818,Phoenix Wright: Ace Attorney - Dual Destinies,Puzzle
-818,Phoenix Wright: Ace Attorney - Dual Destinies,RPG
-818,Phoenix Wright: Ace Attorney - Dual Destinies,Simulator
-818,Phoenix Wright: Ace Attorney - Dual Destinies,Visual Novel
-819,The Legend of Zelda: Oracle of Seasons,Adventure
-819,The Legend of Zelda: Oracle of Seasons,RPG
-820,Wild Hearts,Adventure
-821,God of War: Ascension,Adventure
-821,God of War: Ascension,Brawler
-822,Xenosaga Episode III: Also sprach Zarathustra,Adventure
-822,Xenosaga Episode III: Also sprach Zarathustra,RPG
-823,Kirby's Dream Land 3,Adventure
-823,Kirby's Dream Land 3,Platform
-824,Castlevania: Harmony of Dissonance,Adventure
-824,Castlevania: Harmony of Dissonance,Platform
-824,Castlevania: Harmony of Dissonance,RPG
-825,Shantae and the Pirate's Curse,Adventure
-825,Shantae and the Pirate's Curse,Indie
-825,Shantae and the Pirate's Curse,Platform
-825,Shantae and the Pirate's Curse,RPG
-826,Happy Wheels,Adventure
-826,Happy Wheels,Platform
-826,Happy Wheels,Racing
-827,Guilty Gear XX Accent Core Plus R,Arcade
-827,Guilty Gear XX Accent Core Plus R,Fighting
-828,Fire Emblem Fates: Birthright,RPG
-828,Fire Emblem Fates: Birthright,Strategy
-828,Fire Emblem Fates: Birthright,Turn Based Strategy
-829,Final Fantasy IV,RPG
-830,Devil May Cry 5: Special Edition,Brawler
-831,Castlevania III: Dracula's Curse,Adventure
-831,Castlevania III: Dracula's Curse,Platform
-832,Gloomwood,Adventure
-832,Gloomwood,Indie
-832,Gloomwood,Shooter
-833,Call of Duty: Advanced Warfare,Shooter
-834,The Legend of Heroes: Trails of Cold Steel,Adventure
-834,The Legend of Heroes: Trails of Cold Steel,RPG
-834,The Legend of Heroes: Trails of Cold Steel,Turn Based Strategy
-835,Metal Gear Solid 3: Snake Eater HD Edition,Adventure
-835,Metal Gear Solid 3: Snake Eater HD Edition,Shooter
-836,Mario Kart: Super Circuit,Racing
-837,Pokémon Shining Pearl,Adventure
-837,Pokémon Shining Pearl,RPG
-837,Pokémon Shining Pearl,Turn Based Strategy
-838,PUBG: Battlegrounds,Shooter
-839,Earthblade,Adventure
-839,Earthblade,Indie
-839,Earthblade,RPG
-840,Tetris,Puzzle
-841,Rule of Rose,Adventure
-841,Rule of Rose,Puzzle
-842,Lollipop Chainsaw,Brawler
-843,Pokémon LeafGreen,Adventure
-843,Pokémon LeafGreen,RPG
-843,Pokémon LeafGreen,Turn Based Strategy
-844,Bowser's Fury,Adventure
-844,Bowser's Fury,Platform
-845,ZeroRanger,Arcade
-845,ZeroRanger,Indie
-845,ZeroRanger,Shooter
-846,Labyrinth of Galleria: The Moon Society,Adventure
-846,Labyrinth of Galleria: The Moon Society,RPG
-846,Labyrinth of Galleria: The Moon Society,Strategy
-847,Street Fighter II,Arcade
-847,Street Fighter II,Fighting
-848,Resident Evil: Revelations,Adventure
-848,Resident Evil: Revelations,Shooter
-849,Shin Megami Tensei,RPG
-850,Tomb Raider,Adventure
-850,Tomb Raider,Platform
-850,Tomb Raider,Puzzle
-850,Tomb Raider,Shooter
-851,FIFA 23,Simulator
-851,FIFA 23,Sport
-852,Battlefield: Bad Company 2,Adventure
-852,Battlefield: Bad Company 2,Shooter
-852,Battlefield: Bad Company 2,Simulator
-852,Battlefield: Bad Company 2,Strategy
-853,The Walking Dead: A New Frontier,Adventure
-853,The Walking Dead: A New Frontier,Point-and-Click
-854,Ninja Gaiden Black,Adventure
-854,Ninja Gaiden Black,Brawler
-855,Sid Meier's Civilization V,Simulator
-855,Sid Meier's Civilization V,Strategy
-855,Sid Meier's Civilization V,Turn Based Strategy
-856,World of Horror,Adventure
-856,World of Horror,Indie
-856,World of Horror,Point-and-Click
-856,World of Horror,RPG
-856,World of Horror,Turn Based Strategy
-857,Fire Emblem: Shadow Dragon,RPG
-857,Fire Emblem: Shadow Dragon,Strategy
-857,Fire Emblem: Shadow Dragon,Tactical
-857,Fire Emblem: Shadow Dragon,Turn Based Strategy
-858,Tomodachi Life,Adventure
-858,Tomodachi Life,Simulator
-859,Downwell,Adventure
-859,Downwell,Arcade
-859,Downwell,Indie
-859,Downwell,Platform
-859,Downwell,Shooter
-860,SpongeBob SquarePants: Battle For Bikini Bottom,Adventure
-860,SpongeBob SquarePants: Battle For Bikini Bottom,Platform
-861,LEGO Harry Potter: Years 1-4,Adventure
-861,LEGO Harry Potter: Years 1-4,Platform
-861,LEGO Harry Potter: Years 1-4,Puzzle
-862,Dragon Quest V: Hand of the Heavenly Bride,RPG
-863,Fear & Hunger,Indie
-863,Fear & Hunger,RPG
-864,For Honor,Brawler
-864,For Honor,Fighting
-865,Sonic Lost World,Adventure
-865,Sonic Lost World,Platform
-866,Bug Fables: The Everlasting Sapling,Adventure
-866,Bug Fables: The Everlasting Sapling,Indie
-866,Bug Fables: The Everlasting Sapling,RPG
-866,Bug Fables: The Everlasting Sapling,Turn Based Strategy
-867,Hyrule Warriors: Age of Calamity,Adventure
-867,Hyrule Warriors: Age of Calamity,Brawler
-867,Hyrule Warriors: Age of Calamity,Fighting
-868,LEGO Batman 3: Beyond Gotham,Adventure
-868,LEGO Batman 3: Beyond Gotham,Platform
-868,LEGO Batman 3: Beyond Gotham,Puzzle
-869,Moonscars,Adventure
-869,Moonscars,Brawler
-869,Moonscars,Indie
-869,Moonscars,Platform
-870,The Witcher 3: Wild Hunt - Hearts of Stone,Adventure
-870,The Witcher 3: Wild Hunt - Hearts of Stone,RPG
-871,Remnant: From the Ashes,Adventure
-871,Remnant: From the Ashes,RPG
-871,Remnant: From the Ashes,Shooter
-872,Halo 5: Guardians,Shooter
-873,Hearthstone,Card & Board Game
-873,Hearthstone,Strategy
-873,Hearthstone,Turn Based Strategy
-874,Ultimate Spider-Man,Brawler
-875,Chop Goblins,Indie
-875,Chop Goblins,Shooter
-876,Secret of Mana,RPG
-877,428: Shibuya Scramble,Adventure
-877,428: Shibuya Scramble,Visual Novel
-878,Potion Craft,Indie
-878,Potion Craft,Point-and-Click
-878,Potion Craft,Puzzle
-878,Potion Craft,RPG
-878,Potion Craft,Simulator
-879,Mega Man Legends,Adventure
-879,Mega Man Legends,RPG
-879,Mega Man Legends,Shooter
-880,Xenoblade Chronicles: Future Connected,RPG
-881,Crab Game,Arcade
-881,Crab Game,Fighting
-881,Crab Game,Indie
-881,Crab Game,Racing
-881,Crab Game,Strategy
-882,NEET Girl Date Night,Visual Novel
-883,Dante's Inferno,Adventure
-883,Dante's Inferno,Brawler
-884,Haunting Ground,Adventure
-885,Assassin's Creed Rogue,Adventure
-885,Assassin's Creed Rogue,RPG
-886,Garten of Banban 2,Adventure
-886,Garten of Banban 2,Indie
-887,Pokémon Stadium,RPG
-887,Pokémon Stadium,Turn Based Strategy
-888,Outlast II,Adventure
-888,Outlast II,Indie
-889,Ni no Kuni II: Revenant Kingdom,Adventure
-889,Ni no Kuni II: Revenant Kingdom,RPG
-890,Metal Gear,Adventure
-890,Metal Gear,Shooter
-891,Disney's Aladdin,Adventure
-891,Disney's Aladdin,Arcade
-891,Disney's Aladdin,Platform
-892,Fable II,Adventure
-892,Fable II,RPG
-893,Celeste: Farewell,Platform
-894,Axiom Verge 2,Adventure
-894,Axiom Verge 2,Indie
-894,Axiom Verge 2,Platform
-895,Lightning Returns: Final Fantasy XIII,RPG
-896,Yakuza 2,Adventure
-896,Yakuza 2,Brawler
-896,Yakuza 2,RPG
-896,Yakuza 2,Simulator
-896,Yakuza 2,Sport
-897,F-Zero X,Arcade
-897,F-Zero X,Racing
-898,Chibi-Robo!,Adventure
-898,Chibi-Robo!,Platform
-899,Super Mario Sunshine,Adventure
-899,Super Mario Sunshine,Platform
-900,RimWorld,Indie
-900,RimWorld,Real Time Strategy
-900,RimWorld,Simulator
-900,RimWorld,Strategy
-901,Professor Layton and the Miracle Mask,Point-and-Click
-901,Professor Layton and the Miracle Mask,Puzzle
-901,Professor Layton and the Miracle Mask,Visual Novel
-902,Mega Man X5,Adventure
-902,Mega Man X5,Platform
-902,Mega Man X5,Shooter
-903,Tokyo Necro,Adventure
-903,Tokyo Necro,Visual Novel
-904,Disney Dreamlight Valley,Adventure
-904,Disney Dreamlight Valley,RPG
-904,Disney Dreamlight Valley,Simulator
-905,Mega Man 7,Adventure
-905,Mega Man 7,Platform
-905,Mega Man 7,Shooter
-906,Figment,Adventure
-906,Figment,Indie
-906,Figment,Music
-906,Figment,Platform
-906,Figment,Puzzle
-907,"Flower, Sun, and Rain: Murder and Mystery in Paradise",Adventure
-907,"Flower, Sun, and Rain: Murder and Mystery in Paradise",Puzzle
-908,Professor Layton vs. Phoenix Wright: Ace Attorney,Adventure
-908,Professor Layton vs. Phoenix Wright: Ace Attorney,Puzzle
-908,Professor Layton vs. Phoenix Wright: Ace Attorney,Strategy
-908,Professor Layton vs. Phoenix Wright: Ace Attorney,Visual Novel
-909,Metal Gear Solid: The Twin Snakes,Adventure
-910,The Simpsons Game,Platform
-911,Mega Man Zero 2,Adventure
-911,Mega Man Zero 2,Platform
-911,Mega Man Zero 2,Shooter
-912,Gears 5,Adventure
-912,Gears 5,Shooter
-913,Crash of the Titans,Adventure
-913,Crash of the Titans,Platform
-914,Alan Wake Remastered,Adventure
-914,Alan Wake Remastered,Shooter
-915,Final Fantasy XV: Royal Edition,Adventure
-915,Final Fantasy XV: Royal Edition,Fighting
-915,Final Fantasy XV: Royal Edition,RPG
-916,The Witcher,Adventure
-916,The Witcher,RPG
-917,Final Fantasy III,Adventure
-917,Final Fantasy III,RPG
-918,Snatcher,Adventure
-918,Snatcher,Point-and-Click
-918,Snatcher,Shooter
-918,Snatcher,Visual Novel
-919,Hello Charlotte Ep.3: Childhood's End,Adventure
-919,Hello Charlotte Ep.3: Childhood's End,Indie
-919,Hello Charlotte Ep.3: Childhood's End,RPG
-919,Hello Charlotte Ep.3: Childhood's End,Visual Novel
-920,Star Wars: Battlefront,Shooter
-921,Ikaruga,Arcade
-921,Ikaruga,Indie
-921,Ikaruga,Puzzle
-921,Ikaruga,Shooter
-922,Diablo IV,Brawler
-922,Diablo IV,RPG
-923,Ys: The Oath in Felghana,Adventure
-923,Ys: The Oath in Felghana,RPG
-924,American McGee's Alice,Adventure
-924,American McGee's Alice,Platform
-924,American McGee's Alice,Puzzle
-925,Call of Duty,Shooter
-926,Armored Core 2,
-927,Clash of Clans,Real Time Strategy
-927,Clash of Clans,Strategy
-928,Fate/stay night,Adventure
-928,Fate/stay night,Visual Novel
-929,Tabletop Simulator,Card & Board Game
-929,Tabletop Simulator,Indie
-929,Tabletop Simulator,RPG
-929,Tabletop Simulator,Simulator
-929,Tabletop Simulator,Strategy
-930,Duskers,Indie
-930,Duskers,Simulator
-930,Duskers,Strategy
-931,Control: Ultimate Edition,Adventure
-931,Control: Ultimate Edition,Shooter
-932,Advance Wars,Simulator
-932,Advance Wars,Strategy
-932,Advance Wars,Tactical
-932,Advance Wars,Turn Based Strategy
-933,Touhou Koumakyou: The Embodiment of Scarlet Devil,Indie
-933,Touhou Koumakyou: The Embodiment of Scarlet Devil,Shooter
-934,Weird West,Adventure
-934,Weird West,Indie
-934,Weird West,RPG
-934,Weird West,Simulator
-935,Pokémon Mystery Dungeon: Blue Rescue Team,Adventure
-935,Pokémon Mystery Dungeon: Blue Rescue Team,RPG
-935,Pokémon Mystery Dungeon: Blue Rescue Team,Turn Based Strategy
-936,WarioWare Gold,Arcade
-937,Dragon Ball: Xenoverse,Fighting
-937,Dragon Ball: Xenoverse,RPG
-938,Call of Duty: Black Ops 4,Shooter
-939,Bloodborne: Game of the Year Edition,RPG
-940,Ape Out,Adventure
-940,Ape Out,Arcade
-940,Ape Out,Fighting
-940,Ape Out,Indie
-941,WarioWare: Smooth Moves,Puzzle
-942,Puyo Puyo Tetris,Puzzle
-942,Puyo Puyo Tetris,Strategy
-943,Prince of Persia: Warrior Within,Adventure
-943,Prince of Persia: Warrior Within,Fighting
-943,Prince of Persia: Warrior Within,Platform
-944,Kentucky Route Zero: TV Edition,Adventure
-944,Kentucky Route Zero: TV Edition,Indie
-944,Kentucky Route Zero: TV Edition,Point-and-Click
-945,Factorio,Indie
-945,Factorio,Simulator
-945,Factorio,Strategy
-946,Scott Pilgrim vs. the World: The Game - Complete Edition,Adventure
-946,Scott Pilgrim vs. the World: The Game - Complete Edition,Brawler
-946,Scott Pilgrim vs. the World: The Game - Complete Edition,Fighting
-947,Monster Hunter 4 Ultimate,Adventure
-947,Monster Hunter 4 Ultimate,RPG
-948,Fruit Ninja Classic,Arcade
-949,Doom,Shooter
-950,Tom Clancy's The Division,Adventure
-950,Tom Clancy's The Division,RPG
-950,Tom Clancy's The Division,Shooter
-950,Tom Clancy's The Division,Strategy
-950,Tom Clancy's The Division,Tactical
-951,Crysis 2,Adventure
-951,Crysis 2,Shooter
-952,Resident Evil 4: Wii Edition,Adventure
-952,Resident Evil 4: Wii Edition,Shooter
-953,Nuclear Throne,Adventure
-953,Nuclear Throne,Arcade
-953,Nuclear Throne,Indie
-953,Nuclear Throne,RPG
-953,Nuclear Throne,Shooter
-954,Super Hexagon,Arcade
-954,Super Hexagon,Indie
-954,Super Hexagon,Music
-955,Condemned: Criminal Origins,Adventure
-955,Condemned: Criminal Origins,Shooter
-956,PlayStation All-Stars Battle Royale,Fighting
-956,PlayStation All-Stars Battle Royale,Platform
-957,Dragon Quest,Adventure
-957,Dragon Quest,RPG
-958,Pac-Man in a Tin,Arcade
-959,Mount & Blade: Warband,Adventure
-959,Mount & Blade: Warband,RPG
-959,Mount & Blade: Warband,Shooter
-959,Mount & Blade: Warband,Simulator
-959,Mount & Blade: Warband,Strategy
-960,Monster Hunter Generations Ultimate,Brawler
-960,Monster Hunter Generations Ultimate,RPG
-961,The Jackbox Party Pack 3,Indie
-961,The Jackbox Party Pack 3,Puzzle
-961,The Jackbox Party Pack 3,Quiz/Trivia
-961,The Jackbox Party Pack 3,Strategy
-962,Digimon World: Next Order,Adventure
-962,Digimon World: Next Order,RPG
-962,Digimon World: Next Order,Simulator
-963,Odin Sphere: Leifthrasir,RPG
-964,Bulletstorm,Shooter
-965,The Witcher 2: Assassins of Kings,Adventure
-965,The Witcher 2: Assassins of Kings,RPG
-966,Pokémon Añil,RPG
-967,Animal Crossing: City Folk,Simulator
-968,Microsoft Minesweeper,Puzzle
-969,Sonic 3D Blast,Platform
-970,Mario Party 4,Card & Board Game
-971,Mario Party 3,Card & Board Game
-972,Peggle,Puzzle
-973,Plague Inc: Evolved,Indie
-973,Plague Inc: Evolved,Simulator
-973,Plague Inc: Evolved,Strategy
-973,Plague Inc: Evolved,Tactical
-974,Star Wars: Episode III - Revenge of the Sith,Adventure
-974,Star Wars: Episode III - Revenge of the Sith,Brawler
-975,Prince of Persia,Adventure
-975,Prince of Persia,Platform
-975,Prince of Persia,Puzzle
-976,System Shock,RPG
-976,System Shock,Shooter
-977,Sonic Rush Adventure,Platform
-978,Destroy All Humans!,Adventure
-979,Marvel vs. Capcom: Clash of Super Heroes,Fighting
-980,The World Ends with You: Final Remix,Adventure
-980,The World Ends with You: Final Remix,RPG
-981,Ristar,Adventure
-981,Ristar,Platform
-982,Crash Team Racing Nitro-Fueled,Arcade
-982,Crash Team Racing Nitro-Fueled,Racing
-983,Mega Man X6,Adventure
-983,Mega Man X6,Platform
-984,Slender: The Eight Pages,Adventure
-984,Slender: The Eight Pages,Indie
-985,Mark of the Ninja,Adventure
-985,Mark of the Ninja,Indie
-985,Mark of the Ninja,Platform
-986,Octodad: Dadliest Catch,Adventure
-986,Octodad: Dadliest Catch,Indie
-986,Octodad: Dadliest Catch,Platform
-986,Octodad: Dadliest Catch,Simulator
-986,Octodad: Dadliest Catch,Strategy
-987,Dragon Ball Z: Budokai Tenkaichi,Fighting
-988,The King of Fighters XV,Fighting
-989,Killing Floor 2,Shooter
-990,Ape Escape 3,Platform
-991,The Simpsons Arcade Game,Arcade
-991,The Simpsons Arcade Game,Brawler
-992,Toy Story 2: Buzz Lightyear to the Rescue!,Adventure
-992,Toy Story 2: Buzz Lightyear to the Rescue!,Platform
-993,Rayman Raving Rabbids,Adventure
-993,Rayman Raving Rabbids,Platform
-993,Rayman Raving Rabbids,Puzzle
-994,Prototype 2,Adventure
-994,Prototype 2,Brawler
-994,Prototype 2,Platform
-995,MadWorld,Brawler
-996,Call of Duty 3,Shooter
-997,Shadow Warrior,Adventure
-997,Shadow Warrior,Shooter
-998,Warcraft III: The Frozen Throne,Real Time Strategy
-998,Warcraft III: The Frozen Throne,Strategy
-999,Yakuza 4,Adventure
-999,Yakuza 4,Brawler
-999,Yakuza 4,RPG
-999,Yakuza 4,Simulator
-999,Yakuza 4,Sport
-1000,Megami Ibunroku Persona,RPG
-1001,Persona 4 Arena,Adventure
-1001,Persona 4 Arena,Fighting
-1001,Persona 4 Arena,RPG
-1002,Scribblenauts,Puzzle
-1003,Rock Band 2,Music
-1004,Armored Core 4,Fighting
-1005,Rez Infinite,Music
-1005,Rez Infinite,Shooter
-1006,Plants vs. Zombies 2: It's About Time,Adventure
-1006,Plants vs. Zombies 2: It's About Time,Real Time Strategy
-1006,Plants vs. Zombies 2: It's About Time,Strategy
-1006,Plants vs. Zombies 2: It's About Time,Tactical
-1007,Cadence of Hyrule: Crypt of the NecroDancer Featuring the Legend of Zelda,Adventure
-1007,Cadence of Hyrule: Crypt of the NecroDancer Featuring the Legend of Zelda,Music
-1008,100% Orange Juice,Card & Board Game
-1008,100% Orange Juice,Indie
-1008,100% Orange Juice,Strategy
-1008,100% Orange Juice,Turn Based Strategy
-1009,Tekken 6,Fighting
-1010,Mortal Kombat 3,Fighting
-1011,Pokémon Mystery Dungeon: Explorers of Time,Adventure
-1011,Pokémon Mystery Dungeon: Explorers of Time,RPG
-1011,Pokémon Mystery Dungeon: Explorers of Time,Turn Based Strategy
-1012,Chulip,Adventure
-1012,Chulip,Puzzle
-1013,Crash Nitro Kart,Racing
-1014,Bubble Bobble,Arcade
-1014,Bubble Bobble,Platform
-1014,Bubble Bobble,Puzzle
-1014,Bubble Bobble,Strategy
-1015,Shantae: Half-Genie Hero,Adventure
-1015,Shantae: Half-Genie Hero,Indie
-1015,Shantae: Half-Genie Hero,Platform
-1016,Snake,Arcade
-1017,Tales of Vesperia,RPG
-1018,Mega Man X8,Adventure
-1018,Mega Man X8,Platform
-1019,Fire Emblem: New Mystery of the Emblem,RPG
-1019,Fire Emblem: New Mystery of the Emblem,Strategy
-1019,Fire Emblem: New Mystery of the Emblem,Turn Based Strategy
-1020,Mario & Luigi: Superstar Saga + Bowser's Minions,Adventure
-1020,Mario & Luigi: Superstar Saga + Bowser's Minions,Platform
-1020,Mario & Luigi: Superstar Saga + Bowser's Minions,RPG
-1021,Suikoden,RPG
-1022,Binary Domain,Shooter
-1023,Shin Megami Tensei: Devil Survivor,RPG
-1023,Shin Megami Tensei: Devil Survivor,Strategy
-1023,Shin Megami Tensei: Devil Survivor,Tactical
-1023,Shin Megami Tensei: Devil Survivor,Visual Novel
-1024,JoJo's Bizarre Adventure: Eyes of Heaven,Arcade
-1024,JoJo's Bizarre Adventure: Eyes of Heaven,Fighting
-1025,Audiosurf,Indie
-1025,Audiosurf,Music
-1025,Audiosurf,Puzzle
-1026,Better Call Saul Kart,Racing
-1027,The Secret of Monkey Island,Adventure
-1027,The Secret of Monkey Island,Point-and-Click
-1027,The Secret of Monkey Island,Puzzle
-1028,Resistance: Fall of Man,Adventure
-1028,Resistance: Fall of Man,Shooter
-1029,Sniper Elite 4,Adventure
-1029,Sniper Elite 4,Shooter
-1029,Sniper Elite 4,Tactical
-1030,Metal Gear Solid HD Collection,Adventure
-1030,Metal Gear Solid HD Collection,Strategy
-1030,Metal Gear Solid HD Collection,Tactical
-1031,The Simpsons: Road Rage,Racing
-1032,Melty Blood Actress Again Current Code,Arcade
-1032,Melty Blood Actress Again Current Code,Fighting
-1033,Path of Exile,Adventure
-1033,Path of Exile,Brawler
-1033,Path of Exile,RPG
-1034,Machinarium,Adventure
-1034,Machinarium,Indie
-1034,Machinarium,Point-and-Click
-1034,Machinarium,Puzzle
-1035,Guacamelee!,Adventure
-1035,Guacamelee!,Brawler
-1035,Guacamelee!,Indie
-1035,Guacamelee!,Platform
-1036,Tales of Zestiria,RPG
-1037,Black,Shooter
-1038,Mario Super Sluggers,Sport
-1039,Worms Armageddon,Platform
-1039,Worms Armageddon,Shooter
-1039,Worms Armageddon,Strategy
-1040,Street Fighter II Turbo,Fighting
-1041,Tekken 4,Fighting
-1042,Legacy of Kain: Soul Reaver,Adventure
-1043,Mega Man X7,Adventure
-1043,Mega Man X7,Platform
-1044,Final Fantasy I & II: Dawn of Souls,RPG
-1045,Mega Man ZX,Platform
-1045,Mega Man ZX,Shooter
-1046,Metal Gear 2: Solid Snake,Adventure
-1047,The Missing: J.J. Macfield and the Island of Memories,Adventure
-1047,The Missing: J.J. Macfield and the Island of Memories,Indie
-1047,The Missing: J.J. Macfield and the Island of Memories,Platform
-1047,The Missing: J.J. Macfield and the Island of Memories,Puzzle
-1048,Silent Hill 2: Restless Dreams,Adventure
-1049,Friday the 13th: The Game,Indie
-1050,Quake II,Shooter
-1051,NBA Jam,Sport
-1052,Final Fantasy X HD Remaster,Adventure
-1052,Final Fantasy X HD Remaster,RPG
-1053,Mario vs. Donkey Kong,Platform
-1053,Mario vs. Donkey Kong,Puzzle
-1054,Kenshi,Indie
-1054,Kenshi,RPG
-1054,Kenshi,Simulator
-1054,Kenshi,Strategy
-1055,Remember Me,Adventure
-1055,Remember Me,Platform
-1056,Alpha Protocol,RPG
-1056,Alpha Protocol,Shooter
-1057,Indivisible,Adventure
-1057,Indivisible,Indie
-1057,Indivisible,Platform
-1057,Indivisible,RPG
-1058,Jazzpunk,Adventure
-1058,Jazzpunk,Indie
-1059,Need for Speed: Hot Pursuit,Racing
-1060,The House in Fata Morgana: A Requiem for Innocence,Adventure
-1060,The House in Fata Morgana: A Requiem for Innocence,Visual Novel
-1061,Phantom Brigade,Indie
-1061,Phantom Brigade,RPG
-1061,Phantom Brigade,Strategy
-1061,Phantom Brigade,Tactical
-1061,Phantom Brigade,Turn Based Strategy
-1062,Altered Beast,Brawler
-1062,Altered Beast,Platform
-1063,Broken Age,Adventure
-1063,Broken Age,Indie
-1063,Broken Age,Point-and-Click
-1063,Broken Age,Puzzle
-1064,Telling Lies,Indie
-1064,Telling Lies,Point-and-Click
-1064,Telling Lies,Simulator
-1065,Saints Row: Gat Out of Hell,Adventure
-1065,Saints Row: Gat Out of Hell,Shooter
-1066,Ratchet & Clank: Size Matters,Adventure
-1066,Ratchet & Clank: Size Matters,Platform
-1066,Ratchet & Clank: Size Matters,Shooter
-1067,Mario Hoops 3-on-3,Sport
-1068,Mario Power Tennis,Sport
-1069,Keep Talking and Nobody Explodes,Card & Board Game
-1069,Keep Talking and Nobody Explodes,Indie
-1069,Keep Talking and Nobody Explodes,Puzzle
-1069,Keep Talking and Nobody Explodes,Simulator
-1070,The Swapper,Adventure
-1070,The Swapper,Indie
-1070,The Swapper,Platform
-1070,The Swapper,Puzzle
-1070,The Swapper,Strategy
-1071,Ms. Pac-Man,Arcade
-1072,Gun,Adventure
-1073,Naruto: Ultimate Ninja 3,Fighting
-1074,The Ultimate Doom,Shooter
-1075,Superman: The New Superman Adventures,Adventure
-1075,Superman: The New Superman Adventures,Shooter
-1076,Ruiner,Adventure
-1076,Ruiner,Indie
-1076,Ruiner,Shooter
-1076,Ruiner,Strategy
-1077,The Lord of the Rings: The Two Towers,Adventure
-1077,The Lord of the Rings: The Two Towers,Brawler
-1078,Dragon Quest II: Luminaries of the Legendary Line,RPG
-1079,Chivalry: Medieval Warfare,Brawler
-1079,Chivalry: Medieval Warfare,Fighting
-1079,Chivalry: Medieval Warfare,Indie
-1080,FIFA 14,Sport
-1081,Bit.Trip Runner,Arcade
-1081,Bit.Trip Runner,Indie
-1081,Bit.Trip Runner,Music
-1081,Bit.Trip Runner,Platform
-1082,Pokémon Pinball: Ruby & Sapphire,Adventure
-1082,Pokémon Pinball: Ruby & Sapphire,Arcade
-1082,Pokémon Pinball: Ruby & Sapphire,Pinball
-1083,FIFA 13,Simulator
-1083,FIFA 13,Sport
-1084,La-Mulana,Adventure
-1084,La-Mulana,Indie
-1084,La-Mulana,Platform
-1084,La-Mulana,Puzzle
-1085,The Warriors,Brawler
-1085,The Warriors,Fighting
-1086,Mortal Kombat XL,Fighting
-1087,Anonymous;Code,Adventure
-1087,Anonymous;Code,Visual Novel
-1088,Higurashi no Naku Koro ni: Chapter 2 - Watanagashi,Adventure
-1088,Higurashi no Naku Koro ni: Chapter 2 - Watanagashi,Visual Novel
-1089,Aokana: Four Rhythms Across the Blue,Adventure
-1089,Aokana: Four Rhythms Across the Blue,Visual Novel
-1090,Shantae and the Seven Sirens,Adventure
-1090,Shantae and the Seven Sirens,Platform
-1091,Mega Man ZX Advent,Adventure
-1091,Mega Man ZX Advent,Platform
-1091,Mega Man ZX Advent,Shooter
-1092,Peggle Deluxe,
-1093,Slither.io,Arcade
-1093,Slither.io,Simulator
-1094,Twisted Metal,Fighting
-1094,Twisted Metal,Racing
-1094,Twisted Metal,Shooter
-1095,Dragon Age: Origins - Awakening,RPG
-1095,Dragon Age: Origins - Awakening,Strategy
-1096,Parasite Eve II,RPG
-1097,The Jackbox Party Pack,Indie
-1097,The Jackbox Party Pack,Puzzle
-1097,The Jackbox Party Pack,Quiz/Trivia
-1097,The Jackbox Party Pack,Strategy
-1098,Tom Clancy's Splinter Cell: Pandora Tomorrow,Shooter
-1098,Tom Clancy's Splinter Cell: Pandora Tomorrow,Tactical
-1099,Payday: The Heist,Shooter
-1100,Pokémon Rumble Blast,Adventure
-1100,Pokémon Rumble Blast,Brawler
-1100,Pokémon Rumble Blast,Fighting
-1100,Pokémon Rumble Blast,RPG
-1101,Nicktoons Unite!,Adventure
-1102,Ruined King: A League of Legends Story,Adventure
-1102,Ruined King: A League of Legends Story,Indie
-1102,Ruined King: A League of Legends Story,RPG
-1102,Ruined King: A League of Legends Story,Turn Based Strategy
-1103,Picross S3,Puzzle
-1103,Picross S3,Strategy
-1104,Lisa the Joyful,Adventure
-1104,Lisa the Joyful,Indie
-1104,Lisa the Joyful,RPG
-1104,Lisa the Joyful,Turn Based Strategy
-1105,The King of Fighters '98,Fighting
-1106,Kingdoms of Amalur: Reckoning,Brawler
-1106,Kingdoms of Amalur: Reckoning,RPG
-1107,Grand Theft Auto,Adventure
-1107,Grand Theft Auto,Racing
-1107,Grand Theft Auto,Shooter
-1108,Europa Universalis IV,Real Time Strategy
-1108,Europa Universalis IV,Simulator
-1108,Europa Universalis IV,Strategy
-1109,Sonic the Hedgehog 2,Adventure
-1109,Sonic the Hedgehog 2,Arcade
-1109,Sonic the Hedgehog 2,Platform
-1110,Guitar Hero 5,Music
-1111,Silent Hill: Homecoming,Adventure
-1111,Silent Hill: Homecoming,Fighting
-1112,Mighty No. 9,Adventure
-1112,Mighty No. 9,Arcade
-1112,Mighty No. 9,Platform
-1112,Mighty No. 9,Shooter
-1113,Dragon Ball GT: Final Bout,Fighting
-1114,Killzone 3,Shooter
-1115,WWE SmackDown vs. Raw 2008,Fighting
-1115,WWE SmackDown vs. Raw 2008,Sport
-1116,Children of Morta,Adventure
-1116,Children of Morta,Indie
-1116,Children of Morta,RPG
-1117,The Godfather,Adventure
-1117,The Godfather,Racing
-1117,The Godfather,Shooter
-1118,Billy Hatcher and the Giant Egg,Platform
-1119,Tekken Tag Tournament 2,Fighting
-1120,Bloons TD 5,Simulator
-1120,Bloons TD 5,Strategy
-1120,Bloons TD 5,Tactical
-1121,JoJo's Bizarre Adventure,Fighting
-1122,Another World,Adventure
-1122,Another World,Platform
-1122,Another World,Puzzle
-1123,Back to the Future: The Game,Adventure
-1123,Back to the Future: The Game,Point-and-Click
-1124,Team Sonic Racing,Arcade
-1124,Team Sonic Racing,Racing
-1125,Dragon's Dogma,Brawler
-1125,Dragon's Dogma,RPG
-1126,Baldur's Gate 3,Adventure
-1126,Baldur's Gate 3,RPG
-1126,Baldur's Gate 3,Strategy
-1126,Baldur's Gate 3,Tactical
-1126,Baldur's Gate 3,Turn Based Strategy
-1127,The LEGO Movie Videogame,Adventure
-1127,The LEGO Movie Videogame,Puzzle
+326,Vampire Survivors,Arcade
+326,Vampire Survivors,Indie
+326,Vampire Survivors,RPG
+327,Psychonauts,Adventure
+327,Psychonauts,Platform
+328,Fallout 4,RPG
+328,Fallout 4,Shooter
+329,Uncharted 4: A Thief's End,Adventure
+329,Uncharted 4: A Thief's End,Shooter
+330,The Legend of Zelda: A Link to the Past,Adventure
+330,The Legend of Zelda: A Link to the Past,Puzzle
+330,The Legend of Zelda: A Link to the Past,RPG
+331,Silent Hill,Adventure
+331,Silent Hill,Puzzle
+332,Super Smash Bros. Brawl,Fighting
+332,Super Smash Bros. Brawl,Platform
+333,Borderlands 2,RPG
+333,Borderlands 2,Shooter
+334,No More Heroes,Adventure
+334,No More Heroes,Brawler
+335,Ghost of Tsushima,Adventure
+335,Ghost of Tsushima,Brawler
+335,Ghost of Tsushima,RPG
+336,Sonic the Hedgehog 3 & Knuckles,Platform
+338,Full Metal Daemon Muramasa,Adventure
+338,Full Metal Daemon Muramasa,Visual Novel
+339,Soma,Adventure
+339,Soma,Indie
+340,The Binding of Isaac: Rebirth,Adventure
+340,The Binding of Isaac: Rebirth,Arcade
+340,The Binding of Isaac: Rebirth,Indie
+340,The Binding of Isaac: Rebirth,RPG
+340,The Binding of Isaac: Rebirth,Shooter
+341,Luigi's Mansion 3,Adventure
+342,Katamari Damacy Reroll,Adventure
+342,Katamari Damacy Reroll,Puzzle
+343,Mario Kart 7,Racing
+344,Castle Crashers,Adventure
+344,Castle Crashers,Brawler
+344,Castle Crashers,Indie
+344,Castle Crashers,RPG
+345,Rain World,Adventure
+345,Rain World,Indie
+345,Rain World,Platform
+345,Rain World,RPG
+346,Mario Party Superstars,Card & Board Game
+347,Bully,Adventure
+348,Mario Kart 64,Racing
+349,Octopath Traveler II,RPG
+349,Octopath Traveler II,Turn Based Strategy
+350,Norco,Adventure
+350,Norco,Indie
+350,Norco,Point-and-Click
+350,Norco,Puzzle
+351,Resident Evil,Adventure
+351,Resident Evil,Puzzle
+352,Assassin's Creed Odyssey,Adventure
+352,Assassin's Creed Odyssey,RPG
+353,Transistor,Adventure
+353,Transistor,Indie
+353,Transistor,RPG
+353,Transistor,Strategy
+353,Transistor,Turn Based Strategy
+354,The Evil Within,Adventure
+354,The Evil Within,Shooter
+355,Metal: Hellsinger,Adventure
+355,Metal: Hellsinger,Music
+355,Metal: Hellsinger,Shooter
+356,Halo: The Master Chief Collection,Shooter
+357,Pokémon Crystal,Adventure
+357,Pokémon Crystal,RPG
+358,Uncharted: The Lost Legacy,Adventure
+358,Uncharted: The Lost Legacy,Shooter
+359,Resident Evil 3: Nemesis,Adventure
+359,Resident Evil 3: Nemesis,Shooter
+360,Sea of Thieves,Adventure
+360,Sea of Thieves,Simulator
+361,F.E.A.R.,Shooter
+362,Mafia: Definitive Edition,Adventure
+362,Mafia: Definitive Edition,Shooter
+363,NieR,Adventure
+363,NieR,RPG
+363,NieR,Shooter
+363,NieR,Simulator
+363,NieR,Strategy
+364,The Walking Dead: Season Two,Adventure
+364,The Walking Dead: Season Two,Point-and-Click
+364,The Walking Dead: Season Two,Puzzle
+365,Forspoken,Adventure
+365,Forspoken,RPG
+366,Max Payne 2: The Fall of Max Payne,Shooter
+367,Shin Megami Tensei: Devil Summoner - Soul Hackers,Adventure
+367,Shin Megami Tensei: Devil Summoner - Soul Hackers,RPG
+368,Dusk,Adventure
+368,Dusk,Indie
+368,Dusk,Shooter
+369,The Elder Scrolls III: Morrowind,Adventure
+369,The Elder Scrolls III: Morrowind,RPG
+370,Rollerdrome,Adventure
+370,Rollerdrome,Indie
+370,Rollerdrome,Shooter
+370,Rollerdrome,Sport
+371,Final Fantasy XVI,RPG
+372,Pokémon Sun,Adventure
+372,Pokémon Sun,RPG
+372,Pokémon Sun,Strategy
+372,Pokémon Sun,Turn Based Strategy
+373,Yu-Gi-Oh! Master Duel,Card & Board Game
+373,Yu-Gi-Oh! Master Duel,Simulator
+373,Yu-Gi-Oh! Master Duel,Strategy
+374,Injustice: Gods Among Us,Adventure
+374,Injustice: Gods Among Us,Fighting
+375,Pac-Man,Arcade
+376,Final Fantasy X/X-2 HD Remaster,RPG
+376,Final Fantasy X/X-2 HD Remaster,Strategy
+377,Mortal Kombat X,Fighting
+378,Shin Megami Tensei: Digital Devil Saga,RPG
+379,Star Wars: The Force Unleashed,Adventure
+379,Star Wars: The Force Unleashed,Brawler
+379,Star Wars: The Force Unleashed,RPG
+380,Shovel Knight: Treasure Trove,Adventure
+380,Shovel Knight: Treasure Trove,Indie
+380,Shovel Knight: Treasure Trove,Platform
+381,Ghost of Tsushima: Director's Cut,Adventure
+381,Ghost of Tsushima: Director's Cut,RPG
+382,Donkey Kong Country Returns,Adventure
+382,Donkey Kong Country Returns,Platform
+383,Street Fighter III: 3rd Strike,Arcade
+383,Street Fighter III: 3rd Strike,Fighting
+384,Return to Monkey Island,Adventure
+384,Return to Monkey Island,Point-and-Click
+384,Return to Monkey Island,Puzzle
+385,Deus Ex: Human Revolution,RPG
+385,Deus Ex: Human Revolution,Shooter
+386,Spyro Reignited Trilogy,Adventure
+386,Spyro Reignited Trilogy,Platform
+387,Chicory: A Colorful Tale,Adventure
+387,Chicory: A Colorful Tale,Indie
+387,Chicory: A Colorful Tale,Puzzle
+387,Chicory: A Colorful Tale,RPG
+388,Sin and Punishment,Shooter
+389,Outer Wilds: Echoes of the Eye,Adventure
+389,Outer Wilds: Echoes of the Eye,Indie
+389,Outer Wilds: Echoes of the Eye,Puzzle
+389,Outer Wilds: Echoes of the Eye,Simulator
+389,Outer Wilds: Echoes of the Eye,Strategy
+390,New Super Mario Bros. 2,Adventure
+390,New Super Mario Bros. 2,Platform
+391,Wolfenstein II: The New Colossus,Adventure
+391,Wolfenstein II: The New Colossus,Shooter
+392,PokÃ©mon Diamond,Adventure
+392,PokÃ©mon Diamond,RPG
+392,PokÃ©mon Diamond,Turn Based Strategy
+393,Into the Breach,Card & Board Game
+393,Into the Breach,Indie
+393,Into the Breach,Puzzle
+393,Into the Breach,RPG
+393,Into the Breach,Simulator
+393,Into the Breach,Strategy
+393,Into the Breach,Turn Based Strategy
+394,Marvel Snap,Card & Board Game
+394,Marvel Snap,Strategy
+395,Nier: Automata - Game of the Yorha Edition,Adventure
+395,Nier: Automata - Game of the Yorha Edition,RPG
+396,Five Nights at Freddy's 2,Adventure
+396,Five Nights at Freddy's 2,Indie
+396,Five Nights at Freddy's 2,Point-and-Click
+396,Five Nights at Freddy's 2,Simulator
+396,Five Nights at Freddy's 2,Strategy
+397,Mortal Kombat 11,Fighting
+398,Witch on the Holy Night,Adventure
+398,Witch on the Holy Night,Visual Novel
+399,Dying Light 2: Stay Human,Adventure
+399,Dying Light 2: Stay Human,RPG
+400,Asura's Wrath,Brawler
+401,Tales of Berseria,RPG
+402,Ender Lilies: Quietus of the Knights,Adventure
+402,Ender Lilies: Quietus of the Knights,Indie
+402,Ender Lilies: Quietus of the Knights,Platform
+402,Ender Lilies: Quietus of the Knights,RPG
+403,Moon: Remix RPG Adventure,Adventure
+403,Moon: Remix RPG Adventure,Puzzle
+403,Moon: Remix RPG Adventure,RPG
+404,Prince of Persia: The Sands of Time,Adventure
+404,Prince of Persia: The Sands of Time,Platform
+405,Assassin's Creed Syndicate,Adventure
+406,Sunset Overdrive,Adventure
+406,Sunset Overdrive,Platform
+406,Sunset Overdrive,Shooter
+407,Metal Gear Solid: Peace Walker,Shooter
+407,Metal Gear Solid: Peace Walker,Strategy
+408,Code Vein,Adventure
+408,Code Vein,RPG
+409,Mario Strikers: Battle League,Sport
+410,Limbus Company,Adventure
+410,Limbus Company,RPG
+410,Limbus Company,Strategy
+411,Resident Evil Village: Winters' Expansion,Shooter
+412,Tony Hawk's Pro Skater 1+2,Simulator
+412,Tony Hawk's Pro Skater 1+2,Sport
+413,Need for Speed: Unbound,Racing
+414,Zero Escape: Zero Time Dilemma,Adventure
+414,Zero Escape: Zero Time Dilemma,Puzzle
+414,Zero Escape: Zero Time Dilemma,RPG
+414,Zero Escape: Zero Time Dilemma,Strategy
+414,Zero Escape: Zero Time Dilemma,Visual Novel
+415,Deus Ex: Mankind Divided,Adventure
+415,Deus Ex: Mankind Divided,RPG
+415,Deus Ex: Mankind Divided,Shooter
+416,Guitar Hero III: Legends of Rock,Music
+416,Guitar Hero III: Legends of Rock,Simulator
+417,Sid Meier's Civilization VI,Simulator
+417,Sid Meier's Civilization VI,Strategy
+417,Sid Meier's Civilization VI,Turn Based Strategy
+418,Nioh 2,Adventure
+418,Nioh 2,Brawler
+418,Nioh 2,RPG
+419,Gears of War,Shooter
+420,Final Fantasy Tactics,RPG
+420,Final Fantasy Tactics,Strategy
+420,Final Fantasy Tactics,Tactical
+420,Final Fantasy Tactics,Turn Based Strategy
+421,Deltarune,Adventure
+421,Deltarune,Indie
+421,Deltarune,Music
+421,Deltarune,Puzzle
+421,Deltarune,RPG
+422,Tekken 3,Fighting
+423,Far Cry 6,Adventure
+423,Far Cry 6,Shooter
+424,Horizon Zero Dawn: Complete Edition,Adventure
+424,Horizon Zero Dawn: Complete Edition,RPG
+424,Horizon Zero Dawn: Complete Edition,Shooter
+426,Xenosaga Episode I: Der Wille zur Macht,Adventure
+426,Xenosaga Episode I: Der Wille zur Macht,RPG
+427,Everhood,Adventure
+427,Everhood,Indie
+427,Everhood,Music
+427,Everhood,RPG
+428,Don't Starve Together,Adventure
+428,Don't Starve Together,Indie
+428,Don't Starve Together,Simulator
+428,Don't Starve Together,Strategy
+429,South Park: The Fractured But Whole,Adventure
+429,South Park: The Fractured But Whole,RPG
+429,South Park: The Fractured But Whole,Strategy
+430,God of War III: Remastered,Adventure
+430,God of War III: Remastered,Brawler
+431,Pokémon Ruby,Adventure
+431,Pokémon Ruby,RPG
+431,Pokémon Ruby,Turn Based Strategy
+432,Fire Emblem: The Sacred Stones,RPG
+432,Fire Emblem: The Sacred Stones,Strategy
+432,Fire Emblem: The Sacred Stones,Tactical
+432,Fire Emblem: The Sacred Stones,Turn Based Strategy
+433,Library of Ruina,Indie
+433,Library of Ruina,RPG
+433,Library of Ruina,Simulator
+433,Library of Ruina,Strategy
+433,Library of Ruina,Turn Based Strategy
+434,Uncharted: The Nathan Drake Collection,Adventure
+434,Uncharted: The Nathan Drake Collection,Platform
+434,Uncharted: The Nathan Drake Collection,Shooter
+435,Persona 3 Portable,Adventure
+435,Persona 3 Portable,RPG
+435,Persona 3 Portable,Strategy
+435,Persona 3 Portable,Visual Novel
+436,Pyre,Adventure
+436,Pyre,Indie
+436,Pyre,RPG
+436,Pyre,Visual Novel
+437,Paladins,Shooter
+437,Paladins,Strategy
+438,Dead Space 3,Adventure
+438,Dead Space 3,Shooter
+439,Devil May Cry HD Collection,Brawler
+439,Devil May Cry HD Collection,Platform
+440,Bayonetta Origins: Cereza and the Lost Demon,Adventure
+440,Bayonetta Origins: Cereza and the Lost Demon,Puzzle
+441,Armored Core,Shooter
+441,Armored Core,Simulator
+442,Persona 4 Arena Ultimax,Fighting
+443,Wanted: Dead,Adventure
+443,Wanted: Dead,Brawler
+443,Wanted: Dead,Shooter
+444,Luigi's Mansion: Dark Moon,Adventure
+445,Gorogoa,Adventure
+445,Gorogoa,Indie
+445,Gorogoa,Point-and-Click
+445,Gorogoa,Puzzle
+446,Valkyrie Elysium,Brawler
+446,Valkyrie Elysium,RPG
+447,Castlevania: Order of Ecclesia,Adventure
+447,Castlevania: Order of Ecclesia,Brawler
+447,Castlevania: Order of Ecclesia,Platform
+447,Castlevania: Order of Ecclesia,RPG
+448,Deadly Premonition,Adventure
+448,Deadly Premonition,Shooter
+449,LEGO Batman 2: DC Super Heroes,Adventure
+449,LEGO Batman 2: DC Super Heroes,Brawler
+449,LEGO Batman 2: DC Super Heroes,Platform
+450,Lunistice,Adventure
+450,Lunistice,Indie
+450,Lunistice,Platform
+451,Sonic Advance,Platform
+452,Metal Slug,Arcade
+452,Metal Slug,Platform
+452,Metal Slug,Shooter
+453,Just Cause 3,Adventure
+454,Suikoden II,RPG
+454,Suikoden II,Strategy
+455,LittleBigPlanet,Platform
+456,EarthBound Beginnings,Adventure
+456,EarthBound Beginnings,RPG
+457,Wario Land 3,Adventure
+457,Wario Land 3,Platform
+457,Wario Land 3,Puzzle
+458,Faith: The Unholy Trinity,Adventure
+458,Faith: The Unholy Trinity,Indie
+459,Tales of Symphonia,RPG
+461,The Dark Pictures Anthology: Man of Medan,Adventure
+462,Saya no Uta,Visual Novel
+463,River City Girls,Adventure
+463,River City Girls,Arcade
+463,River City Girls,Brawler
+463,River City Girls,Fighting
+464,Sonic Origins,Adventure
+464,Sonic Origins,Platform
+465,Kuru Kuru Kururin,Arcade
+465,Kuru Kuru Kururin,Puzzle
+466,Pikmin 2,Adventure
+466,Pikmin 2,Strategy
+467,Wonderful Everyday: Down the Rabbit-Hole,Adventure
+467,Wonderful Everyday: Down the Rabbit-Hole,Visual Novel
+468,Paper Mario: The Origami King,Adventure
+468,Paper Mario: The Origami King,RPG
+469,Conker's Bad Fur Day,Adventure
+469,Conker's Bad Fur Day,Platform
+469,Conker's Bad Fur Day,Shooter
+470,Fire Emblem: Radiant Dawn,RPG
+470,Fire Emblem: Radiant Dawn,Strategy
+470,Fire Emblem: Radiant Dawn,Tactical
+471,Need for Speed: Heat,Adventure
+471,Need for Speed: Heat,Racing
+471,Need for Speed: Heat,Sport
+472,Skate 3,Sport
+473,Braid,Adventure
+473,Braid,Indie
+473,Braid,Platform
+473,Braid,Puzzle
+473,Braid,Strategy
+474,Metro 2033,RPG
+474,Metro 2033,Shooter
+475,Another Pokémon Game,Adventure
+475,Another Pokémon Game,RPG
+476,Super Mario Party,Card & Board Game
+476,Super Mario Party,Platform
+476,Super Mario Party,Puzzle
+477,Kentucky Route Zero,Adventure
+477,Kentucky Route Zero,Indie
+477,Kentucky Route Zero,Point-and-Click
+478,The Legend of Zelda: Twilight Princess HD,Adventure
+478,The Legend of Zelda: Twilight Princess HD,Platform
+478,The Legend of Zelda: Twilight Princess HD,Puzzle
+479,We Love Katamari,Adventure
+479,We Love Katamari,Puzzle
+480,Serial Experiments Lain,Adventure
+481,Kirby's Dream Land 2,Platform
+482,Harvestella,Adventure
+482,Harvestella,RPG
+482,Harvestella,Simulator
+483,Dishonored: Death of the Outsider,Adventure
+483,Dishonored: Death of the Outsider,RPG
+484,Life is Strange 2,Adventure
+485,Banjo-Tooie,Adventure
+485,Banjo-Tooie,Platform
+486,The Legend of Zelda: Oracle of Ages,Adventure
+486,The Legend of Zelda: Oracle of Ages,RPG
+487,Lobotomy Corporation,Indie
+487,Lobotomy Corporation,Simulator
+488,Saints Row 2,Adventure
+488,Saints Row 2,Racing
+488,Saints Row 2,Shooter
+489,Final Fantasy VII Rebirth,
+490,Castlevania: Bloodlines,Adventure
+490,Castlevania: Bloodlines,Platform
+491,Tiny Tina's Wonderlands,Adventure
+491,Tiny Tina's Wonderlands,RPG
+491,Tiny Tina's Wonderlands,Shooter
+492,Utawarerumono: Mask of Truth,Adventure
+492,Utawarerumono: Mask of Truth,RPG
+492,Utawarerumono: Mask of Truth,Simulator
+492,Utawarerumono: Mask of Truth,Strategy
+492,Utawarerumono: Mask of Truth,Tactical
+492,Utawarerumono: Mask of Truth,Visual Novel
+493,Hitman World of Assassination,Adventure
+493,Hitman World of Assassination,Shooter
+493,Hitman World of Assassination,Tactical
+494,Just Cause 2,Adventure
+494,Just Cause 2,Racing
+494,Just Cause 2,Shooter
+495,Lies of P,RPG
+496,Final Fantasy V,Adventure
+496,Final Fantasy V,RPG
+497,Jet Set Radio Future,Music
+497,Jet Set Radio Future,Platform
+497,Jet Set Radio Future,Racing
+497,Jet Set Radio Future,Sport
+498,Overcooked!,Arcade
+498,Overcooked!,Indie
+498,Overcooked!,Simulator
+498,Overcooked!,Strategy
+499,Shin Megami Tensei IV: Apocalypse,Adventure
+499,Shin Megami Tensei IV: Apocalypse,RPG
+500,Muse Dash,Indie
+500,Muse Dash,Music
+501,Fire Emblem: Genealogy of the Holy War,RPG
+501,Fire Emblem: Genealogy of the Holy War,Strategy
+501,Fire Emblem: Genealogy of the Holy War,Turn Based Strategy
+502,Judas,Adventure
+502,Judas,Shooter
+503,Half-Life: Opposing Force,Platform
+503,Half-Life: Opposing Force,Puzzle
+503,Half-Life: Opposing Force,Shooter
+504,Bloodborne PSX,Adventure
+504,Bloodborne PSX,RPG
+505,Prototype,Adventure
+505,Prototype,Brawler
+505,Prototype,Platform
+506,Pokémon Gold,Adventure
+506,Pokémon Gold,RPG
+506,Pokémon Gold,Turn Based Strategy
+507,Valheim,Adventure
+507,Valheim,Indie
+507,Valheim,RPG
+508,Your Turn To Die: Death Game By Majority,Adventure
+508,Your Turn To Die: Death Game By Majority,Indie
+508,Your Turn To Die: Death Game By Majority,Visual Novel
+509,Gal Guardians: Demon Purge,Adventure
+509,Gal Guardians: Demon Purge,Platform
+510,Mortal Shell,Indie
+510,Mortal Shell,RPG
+511,Kingdom Come: Deliverance,Adventure
+511,Kingdom Come: Deliverance,RPG
+513,Sleeping Dogs: Definitive Edition,Adventure
+513,Sleeping Dogs: Definitive Edition,Brawler
+513,Sleeping Dogs: Definitive Edition,Racing
+513,Sleeping Dogs: Definitive Edition,Shooter
+514,Resident Evil 4: Ultimate HD Edition,Adventure
+514,Resident Evil 4: Ultimate HD Edition,Shooter
+515,LEGO Builder's Journey,Adventure
+515,LEGO Builder's Journey,Indie
+515,LEGO Builder's Journey,Puzzle
+516,Guilty Gear Xrd: Rev 2,Fighting
+517,Super Kiwi 64,Adventure
+517,Super Kiwi 64,Arcade
+517,Super Kiwi 64,Platform
+518,Infamous 2,Adventure
+518,Infamous 2,Brawler
+518,Infamous 2,Puzzle
+519,Fallout 3: Game of the Year Edition,Adventure
+519,Fallout 3: Game of the Year Edition,RPG
+519,Fallout 3: Game of the Year Edition,Shooter
+520,Melatonin,Arcade
+520,Melatonin,Indie
+520,Melatonin,Music
+520,Melatonin,Puzzle
+521,Gungrave G.O.R.E,Adventure
+521,Gungrave G.O.R.E,Fighting
+521,Gungrave G.O.R.E,Shooter
+521,Gungrave G.O.R.E,Simulator
+521,Gungrave G.O.R.E,Strategy
+522,Like a Dragon Gaiden: The Man Who Erased His Name,Adventure
+522,Like a Dragon Gaiden: The Man Who Erased His Name,Brawler
+522,Like a Dragon Gaiden: The Man Who Erased His Name,RPG
+523,Garten of Banban,Adventure
+523,Garten of Banban,Indie
+523,Garten of Banban,Puzzle
+524,Hitman: Blood Money,Shooter
+525,Professor Layton and the Unwound Future,Point-and-Click
+525,Professor Layton and the Unwound Future,Puzzle
+525,Professor Layton and the Unwound Future,Visual Novel
+526,The Dark Pictures Anthology: The Devil in Me,Adventure
+527,Donkey Kong Country: Tropical Freeze,Platform
+528,Fire Emblem: Thracia 776,RPG
+528,Fire Emblem: Thracia 776,Strategy
+528,Fire Emblem: Thracia 776,Tactical
+529,Moonlighter,Adventure
+529,Moonlighter,Brawler
+529,Moonlighter,Indie
+529,Moonlighter,RPG
+529,Moonlighter,Simulator
+530,Pikmin 3,Adventure
+530,Pikmin 3,Strategy
+531,Five Nights at Freddy's 4,Adventure
+531,Five Nights at Freddy's 4,Indie
+531,Five Nights at Freddy's 4,Point-and-Click
+531,Five Nights at Freddy's 4,Simulator
+531,Five Nights at Freddy's 4,Strategy
+532,Chaos;Head Noah,Adventure
+532,Chaos;Head Noah,Simulator
+532,Chaos;Head Noah,Visual Novel
+533,Nier: Automata - The End of Yorha Edition,Adventure
+533,Nier: Automata - The End of Yorha Edition,RPG
+534,Phoenix Wright: Ace Attorney - Spirit of Justice,Adventure
+534,Phoenix Wright: Ace Attorney - Spirit of Justice,Point-and-Click
+534,Phoenix Wright: Ace Attorney - Spirit of Justice,Puzzle
+534,Phoenix Wright: Ace Attorney - Spirit of Justice,RPG
+534,Phoenix Wright: Ace Attorney - Spirit of Justice,Visual Novel
+535,Crysis,Adventure
+535,Crysis,Shooter
+536,Fallout Shelter,RPG
+536,Fallout Shelter,Simulator
+536,Fallout Shelter,Strategy
+537,Sonic and the Secret Rings,Platform
+538,FTL: Faster Than Light,Indie
+538,FTL: Faster Than Light,RPG
+538,FTL: Faster Than Light,Simulator
+538,FTL: Faster Than Light,Strategy
+539,Mario Party 2,Card & Board Game
+540,Attack of the Friday Monsters! A Tokyo Tale,Adventure
+540,Attack of the Friday Monsters! A Tokyo Tale,Simulator
+541,Animal Crossing,Simulator
+542,Fire Emblem Fates: Revelation,RPG
+542,Fire Emblem Fates: Revelation,Strategy
+542,Fire Emblem Fates: Revelation,Turn Based Strategy
+543,Bloodstained: Curse of the Moon,Adventure
+543,Bloodstained: Curse of the Moon,Indie
+543,Bloodstained: Curse of the Moon,Platform
+544,Final Fantasy XIII-2,Adventure
+544,Final Fantasy XIII-2,RPG
+545,Agar.io,Indie
+545,Agar.io,Strategy
+546,Fatal Frame II: Crimson Butterfly,Adventure
+547,World of Warcraft,Adventure
+547,World of Warcraft,RPG
+548,The Legend of Heroes: Trails of Cold Steel II,Adventure
+548,The Legend of Heroes: Trails of Cold Steel II,RPG
+548,The Legend of Heroes: Trails of Cold Steel II,Turn Based Strategy
+549,Gang Beasts,Fighting
+549,Gang Beasts,Indie
+550,Armored Core 3,Shooter
+550,Armored Core 3,Strategy
+551,Star Wars: The Force Unleashed II,Adventure
+551,Star Wars: The Force Unleashed II,Brawler
+551,Star Wars: The Force Unleashed II,RPG
+552,Fortnite,Adventure
+552,Fortnite,RPG
+552,Fortnite,Shooter
+552,Fortnite,Strategy
+553,Fall Guys,Indie
+553,Fall Guys,Platform
+553,Fall Guys,Sport
+554,It Takes Two,Adventure
+554,It Takes Two,Platform
+554,It Takes Two,Puzzle
+555,BioShock,Adventure
+555,BioShock,RPG
+555,BioShock,Shooter
+556,Metal Gear Solid,Adventure
+556,Metal Gear Solid,Tactical
+557,Yakuza: Like a Dragon,Adventure
+557,Yakuza: Like a Dragon,RPG
+557,Yakuza: Like a Dragon,Turn Based Strategy
+558,Animal Crossing: New Horizons,Simulator
+559,BioShock Infinite,Adventure
+559,BioShock Infinite,Shooter
+562,Mirror's Edge,Adventure
+562,Mirror's Edge,Platform
+562,Mirror's Edge,Shooter
+563,Bayonetta 2,Brawler
+564,Sonic Generations,Adventure
+564,Sonic Generations,Platform
+565,Shin Megami Tensei: Nocturne,RPG
+566,Death's Door,Adventure
+566,Death's Door,Brawler
+566,Death's Door,Indie
+566,Death's Door,RPG
+567,Devil May Cry 3: Dante's Awakening - Special Edition,Adventure
+567,Devil May Cry 3: Dante's Awakening - Special Edition,Brawler
+567,Devil May Cry 3: Dante's Awakening - Special Edition,Shooter
+568,Assassin's Creed IV Black Flag,Adventure
+568,Assassin's Creed IV Black Flag,Platform
+570,Crisis Core: Final Fantasy VII - Reunion,RPG
+571,Metroid Prime,Adventure
+571,Metroid Prime,Platform
+571,Metroid Prime,Shooter
+572,Sonic the Hedgehog 2,Adventure
+572,Sonic the Hedgehog 2,Platform
+573,Metal Gear Solid 4: Guns of the Patriots,Adventure
+573,Metal Gear Solid 4: Guns of the Patriots,Shooter
+573,Metal Gear Solid 4: Guns of the Patriots,Tactical
+574,Atomic Heart,Adventure
+574,Atomic Heart,RPG
+574,Atomic Heart,Shooter
+576,Resident Evil 5,Adventure
+576,Resident Evil 5,Shooter
+577,The World Ends with You,Arcade
+577,The World Ends with You,RPG
+578,A Hat in Time,Adventure
+578,A Hat in Time,Indie
+578,A Hat in Time,Platform
+579,Scorn,Adventure
+579,Scorn,Indie
+579,Scorn,Puzzle
+580,Fire Emblem: Awakening,Adventure
+580,Fire Emblem: Awakening,RPG
+580,Fire Emblem: Awakening,Strategy
+581,Cuphead: The Delicious Last Course,Adventure
+581,Cuphead: The Delicious Last Course,Indie
+581,Cuphead: The Delicious Last Course,Platform
+582,Ori and the Will of the Wisps,Adventure
+582,Ori and the Will of the Wisps,Platform
+583,Mass Effect,RPG
+583,Mass Effect,Shooter
+584,Return of the Obra Dinn,Adventure
+584,Return of the Obra Dinn,Indie
+584,Return of the Obra Dinn,Puzzle
+585,Kingdom Hearts III,Adventure
+585,Kingdom Hearts III,Brawler
+585,Kingdom Hearts III,RPG
+586,Fallout 3,RPG
+586,Fallout 3,Shooter
+587,Uncharted: Drake's Fortune,Adventure
+587,Uncharted: Drake's Fortune,Platform
+587,Uncharted: Drake's Fortune,Shooter
+588,"Zero Escape: Nine Hours, Nine Persons, Nine Doors",Adventure
+588,"Zero Escape: Nine Hours, Nine Persons, Nine Doors",Point-and-Click
+588,"Zero Escape: Nine Hours, Nine Persons, Nine Doors",Puzzle
+588,"Zero Escape: Nine Hours, Nine Persons, Nine Doors",Visual Novel
+589,Lost Judgment,Adventure
+589,Lost Judgment,Brawler
+589,Lost Judgment,RPG
+590,Super Mario 3D Land,Platform
+591,Gris,Adventure
+591,Gris,Indie
+591,Gris,Platform
+591,Gris,Puzzle
+592,Silent Hill 3,Adventure
+592,Silent Hill 3,Puzzle
+593,Call of Duty: Modern Warfare 2,Shooter
+594,The Walking Dead: Season One,Adventure
+594,The Walking Dead: Season One,Point-and-Click
+595,Mario Kart DS,Racing
+596,Apex Legends,Shooter
+597,Devil May Cry 2,Adventure
+597,Devil May Cry 2,Brawler
+598,The Legend of Zelda: Ocarina of Time 3D,Adventure
+598,The Legend of Zelda: Ocarina of Time 3D,Puzzle
+598,The Legend of Zelda: Ocarina of Time 3D,RPG
+599,Twelve Minutes,Adventure
+599,Twelve Minutes,Indie
+599,Twelve Minutes,Point-and-Click
+599,Twelve Minutes,Puzzle
+602,Rayman Legends,Adventure
+602,Rayman Legends,Platform
+603,Uncharted 2: Among Thieves,Adventure
+603,Uncharted 2: Among Thieves,Platform
+603,Uncharted 2: Among Thieves,Shooter
+604,Monster Hunter: World,Adventure
+604,Monster Hunter: World,RPG
+605,Milk inside a bag of milk inside a bag of milk,Adventure
+605,Milk inside a bag of milk inside a bag of milk,Indie
+605,Milk inside a bag of milk inside a bag of milk,Visual Novel
+606,The Legend of Zelda: A Link Between Worlds,Adventure
+606,The Legend of Zelda: A Link Between Worlds,Puzzle
+606,The Legend of Zelda: A Link Between Worlds,RPG
+607,Final Fantasy XIV: Endwalker,Adventure
+607,Final Fantasy XIV: Endwalker,RPG
+608,The Legend of Zelda: The Minish Cap,Adventure
+608,The Legend of Zelda: The Minish Cap,RPG
+609,Pokémon Go,RPG
+609,Pokémon Go,Simulator
+610,Night in the Woods,Adventure
+610,Night in the Woods,Indie
+610,Night in the Woods,Platform
+611,Shin Megami Tensei IV,RPG
+612,Kingdom Hearts II,Adventure
+612,Kingdom Hearts II,RPG
+613,Castlevania: Aria of Sorrow,Adventure
+613,Castlevania: Aria of Sorrow,Platform
+613,Castlevania: Aria of Sorrow,RPG
+614,Halo: Reach,Shooter
+615,Grand Theft Auto: Vice City,Adventure
+615,Grand Theft Auto: Vice City,Arcade
+615,Grand Theft Auto: Vice City,Racing
+615,Grand Theft Auto: Vice City,Shooter
+616,A Short Hike,Adventure
+616,A Short Hike,Indie
+616,A Short Hike,Platform
+617,The Legend of Zelda: Tears of the Kingdom,Adventure
+617,The Legend of Zelda: Tears of the Kingdom,RPG
+618,Assassin's Creed III,Adventure
+618,Assassin's Creed III,Strategy
+619,Castlevania,Adventure
+619,Castlevania,Platform
+620,Milk outside a bag of milk outside a bag of milk,Adventure
+620,Milk outside a bag of milk outside a bag of milk,Indie
+620,Milk outside a bag of milk outside a bag of milk,Visual Novel
+621,Lisa,Adventure
+621,Lisa,Indie
+621,Lisa,RPG
+622,Crash Bandicoot,Platform
+623,The Legend of Zelda: The Wind Waker HD,Adventure
+623,The Legend of Zelda: The Wind Waker HD,Puzzle
+624,The Outer Worlds,Adventure
+624,The Outer Worlds,RPG
+624,The Outer Worlds,Shooter
+625,The Legend of Zelda: Majora's Mask 3D,Adventure
+625,The Legend of Zelda: Majora's Mask 3D,RPG
+626,The Callisto Protocol,Adventure
+626,The Callisto Protocol,Shooter
+627,The Wolf Among Us,Adventure
+627,The Wolf Among Us,Point-and-Click
+628,Dead Space 2,Adventure
+628,Dead Space 2,Shooter
+629,Super Mario Bros. 2,Adventure
+629,Super Mario Bros. 2,Platform
+630,Until Dawn,Adventure
+631,Kid Icarus: Uprising,Brawler
+631,Kid Icarus: Uprising,Shooter
+632,Chained Echoes,Adventure
+632,Chained Echoes,Indie
+632,Chained Echoes,RPG
+632,Chained Echoes,Strategy
+632,Chained Echoes,Turn Based Strategy
+633,BioShock Remastered,Adventure
+633,BioShock Remastered,RPG
+633,BioShock Remastered,Shooter
+634,Sonic Unleashed,Adventure
+634,Sonic Unleashed,Brawler
+634,Sonic Unleashed,Platform
+635,Yakuza 5 Remastered,Adventure
+636,Metal Gear Solid 3: Subsistence,Adventure
+636,Metal Gear Solid 3: Subsistence,Shooter
+636,Metal Gear Solid 3: Subsistence,Tactical
+637,Super Mario World 2: Yoshi's Island,Platform
+638,Devil May Cry 4,Adventure
+638,Devil May Cry 4,Brawler
+639,Donut County,Adventure
+639,Donut County,Indie
+639,Donut County,Puzzle
+640,Assassin's Creed Origins,Adventure
+640,Assassin's Creed Origins,RPG
+641,Ghostwire: Tokyo,Adventure
+642,Yakuza 4 Remastered,Adventure
+642,Yakuza 4 Remastered,Brawler
+643,Call of Duty: Modern Warfare II,Shooter
+644,Crash Bandicoot 4: It's About Time,Platform
+645,Grand Theft Auto III,Adventure
+645,Grand Theft Auto III,Racing
+645,Grand Theft Auto III,Shooter
+645,Grand Theft Auto III,Simulator
+646,Dead by Daylight,Indie
+646,Dead by Daylight,Strategy
+647,Abzu,Adventure
+647,Abzu,Indie
+647,Abzu,Puzzle
+647,Abzu,Simulator
+648,Batman: Arkham Origins,Adventure
+648,Batman: Arkham Origins,Brawler
+649,Splatoon 2,Platform
+649,Splatoon 2,Shooter
+650,Pokémon HeartGold,Adventure
+650,Pokémon HeartGold,RPG
+650,Pokémon HeartGold,Turn Based Strategy
+651,Kena: Bridge of Spirits,Adventure
+651,Kena: Bridge of Spirits,Indie
+652,Final Fantasy VIII,Adventure
+652,Final Fantasy VIII,RPG
+653,The Elder Scrolls IV: Oblivion,Adventure
+653,The Elder Scrolls IV: Oblivion,RPG
+654,The Silver Case,Adventure
+654,The Silver Case,Puzzle
+654,The Silver Case,Visual Novel
+655,Marvel's Spider-Man Remastered,Adventure
+655,Marvel's Spider-Man Remastered,Brawler
+656,Alan Wake,Adventure
+656,Alan Wake,Shooter
+657,A Way Out,Adventure
+658,LEGO Batman: The Video Game,Adventure
+658,LEGO Batman: The Video Game,Brawler
+658,LEGO Batman: The Video Game,Platform
+659,Borderlands 3,RPG
+659,Borderlands 3,Shooter
+660,Dragon Ball FighterZ,Fighting
+661,Ico,Adventure
+661,Ico,Platform
+661,Ico,Puzzle
+662,Shin Megami Tensei III: Nocturne - HD Remaster,RPG
+662,Shin Megami Tensei III: Nocturne - HD Remaster,Turn Based Strategy
+663,The Witness,Adventure
+663,The Witness,Indie
+663,The Witness,Puzzle
+664,Animal Crossing: New Leaf,Simulator
+665,Wo Long: Fallen Dynasty,Adventure
+665,Wo Long: Fallen Dynasty,RPG
+666,Final Fantasy VII Remake Intergrade,Adventure
+666,Final Fantasy VII Remake Intergrade,RPG
+667,Sonic Adventure 2,Adventure
+667,Sonic Adventure 2,Platform
+668,Destiny 2,Adventure
+668,Destiny 2,RPG
+668,Destiny 2,Shooter
+669,Kirby's Dream Land,Platform
+670,Mario Kart 8,Arcade
+670,Mario Kart 8,Racing
+671,Xenoblade Chronicles,Adventure
+671,Xenoblade Chronicles,RPG
+672,The Forgotten City,Adventure
+672,The Forgotten City,Indie
+672,The Forgotten City,RPG
+673,Untitled Goose Game,Adventure
+673,Untitled Goose Game,Indie
+673,Untitled Goose Game,Puzzle
+673,Untitled Goose Game,Simulator
+674,Sonic Adventure 2: Battle,Adventure
+674,Sonic Adventure 2: Battle,Platform
+675,Saints Row: The Third,Adventure
+675,Saints Row: The Third,Racing
+675,Saints Row: The Third,Shooter
+676,Call of Duty: Black Ops III,Adventure
+676,Call of Duty: Black Ops III,Shooter
+677,Pokémon Red,Adventure
+677,Pokémon Red,RPG
+677,Pokémon Red,Turn Based Strategy
+678,Tinykin,Adventure
+678,Tinykin,Arcade
+678,Tinykin,Indie
+678,Tinykin,Platform
+678,Tinykin,Puzzle
+678,Tinykin,RPG
+679,Dragon's Dogma: Dark Arisen,Adventure
+679,Dragon's Dogma: Dark Arisen,RPG
+680,Brawlhalla,Arcade
+680,Brawlhalla,Fighting
+680,Brawlhalla,Indie
+680,Brawlhalla,Platform
+681,Pokémon Unite,MOBA
+682,Black Mesa,Adventure
+682,Black Mesa,Indie
+682,Black Mesa,Platform
+682,Black Mesa,Shooter
+683,The Messenger,Adventure
+683,The Messenger,Arcade
+683,The Messenger,Indie
+683,The Messenger,Platform
+684,Jet Set Radio,Platform
+685,Pathologic 2,Adventure
+685,Pathologic 2,Indie
+685,Pathologic 2,RPG
+686,Tactics Ogre: Reborn,RPG
+686,Tactics Ogre: Reborn,Simulator
+686,Tactics Ogre: Reborn,Strategy
+686,Tactics Ogre: Reborn,Tactical
+687,Hyper Light Drifter,Adventure
+687,Hyper Light Drifter,Indie
+687,Hyper Light Drifter,Platform
+687,Hyper Light Drifter,RPG
+688,Left 4 Dead,Shooter
+689,The 25th Ward: The Silver Case,Adventure
+689,The 25th Ward: The Silver Case,Puzzle
+689,The 25th Ward: The Silver Case,Visual Novel
+690,Darkest Dungeon,Adventure
+690,Darkest Dungeon,Indie
+690,Darkest Dungeon,RPG
+690,Darkest Dungeon,Strategy
+690,Darkest Dungeon,Turn Based Strategy
+691,Roblox,Adventure
+691,Roblox,Platform
+691,Roblox,Simulator
+692,The Last Guardian,Adventure
+692,The Last Guardian,Platform
+692,The Last Guardian,Puzzle
+693,Drakengard 3,Adventure
+693,Drakengard 3,Brawler
+693,Drakengard 3,RPG
+693,Drakengard 3,Strategy
+694,Half-Life 2: Episode One,Shooter
+695,Assassin's Creed Revelations,Adventure
+696,Half-Life 2: Episode Two,Puzzle
+696,Half-Life 2: Episode Two,Shooter
+697,Mega Man,Adventure
+697,Mega Man,Platform
+698,PowerWash Simulator,Indie
+698,PowerWash Simulator,Simulator
+699,Cave Story,Adventure
+699,Cave Story,Indie
+699,Cave Story,Platform
+699,Cave Story,Shooter
+700,Final Fantasy XIV: Shadowbringers,RPG
+701,Days Gone,Adventure
+701,Days Gone,Shooter
+702,Tom Clancy's Rainbow Six Siege,Shooter
+702,Tom Clancy's Rainbow Six Siege,Tactical
+703,Trek to Yomi,Adventure
+703,Trek to Yomi,Brawler
+703,Trek to Yomi,Indie
+704,Sonic CD,Platform
+705,Mario Kart: Double Dash!!,Racing
+706,Rayman Origins,Adventure
+706,Rayman Origins,Platform
+707,Klonoa Phantasy Reverie Series,Adventure
+707,Klonoa Phantasy Reverie Series,Platform
+708,Hitman 2,Adventure
+708,Hitman 2,Shooter
+708,Hitman 2,Tactical
+709,Max Payne 3,Shooter
+710,Catherine: Full Body,Adventure
+710,Catherine: Full Body,Platform
+710,Catherine: Full Body,Puzzle
+710,Catherine: Full Body,Simulator
+710,Catherine: Full Body,Strategy
+711,Kirby: Planet Robobot,Adventure
+711,Kirby: Planet Robobot,Platform
+712,Battlefield 1,Shooter
+713,Kirby’s Return to Dream Land Deluxe,Adventure
+713,Kirby’s Return to Dream Land Deluxe,Platform
+714,Persona 2: Eternal Punishment,Adventure
+714,Persona 2: Eternal Punishment,RPG
+715,Star Wars Battlefront II,Adventure
+715,Star Wars Battlefront II,Shooter
+716,Super Paper Mario,Adventure
+716,Super Paper Mario,Platform
+716,Super Paper Mario,RPG
+717,The Great Ace Attorney 2: Resolve,Adventure
+717,The Great Ace Attorney 2: Resolve,Point-and-Click
+717,The Great Ace Attorney 2: Resolve,Puzzle
+717,The Great Ace Attorney 2: Resolve,Visual Novel
+718,Bugsnax,Adventure
+718,Bugsnax,Indie
+718,Bugsnax,Puzzle
+719,Star Wars: Battlefront II,Shooter
+720,Pokémon Shield,Adventure
+720,Pokémon Shield,RPG
+720,Pokémon Shield,Turn Based Strategy
+721,Super Castlevania IV,Adventure
+721,Super Castlevania IV,Platform
+722,Brothers: A Tale of Two Sons,Adventure
+722,Brothers: A Tale of Two Sons,Indie
+722,Brothers: A Tale of Two Sons,Puzzle
+723,Call of Duty: Modern Warfare,Shooter
+724,GoldenEye 007,Shooter
+725,"WarioWare, Inc.: Mega Microgames!",Arcade
+726,Evil West,Adventure
+726,Evil West,Brawler
+726,Evil West,Shooter
+727,Gravity Rush 2,Adventure
+727,Gravity Rush 2,Platform
+728,Metroid Prime 2: Echoes,Adventure
+728,Metroid Prime 2: Echoes,Platform
+728,Metroid Prime 2: Echoes,Shooter
+729,The Forest,Adventure
+729,The Forest,Indie
+729,The Forest,Puzzle
+729,The Forest,Simulator
+730,CrossCode,Adventure
+730,CrossCode,Indie
+730,CrossCode,Puzzle
+730,CrossCode,RPG
+731,Sekiro: Shadows Die Twice - GOTY Edition,Adventure
+731,Sekiro: Shadows Die Twice - GOTY Edition,Brawler
+731,Sekiro: Shadows Die Twice - GOTY Edition,RPG
+732,Saints Row IV,Adventure
+732,Saints Row IV,Shooter
+733,Fallout 2,RPG
+733,Fallout 2,Turn Based Strategy
+734,Chrono Cross,RPG
+735,Fire Emblem: Path of Radiance,RPG
+735,Fire Emblem: Path of Radiance,Strategy
+735,Fire Emblem: Path of Radiance,Tactical
+735,Fire Emblem: Path of Radiance,Turn Based Strategy
+736,Kingdom Hearts Final Mix,RPG
+737,Professor Layton and the Curious Village,Point-and-Click
+737,Professor Layton and the Curious Village,Puzzle
+737,Professor Layton and the Curious Village,Visual Novel
+738,Ys VIII: Lacrimosa of Dana,Adventure
+738,Ys VIII: Lacrimosa of Dana,RPG
+739,Hotel Dusk: Room 215,Adventure
+739,Hotel Dusk: Room 215,Point-and-Click
+739,Hotel Dusk: Room 215,Puzzle
+739,Hotel Dusk: Room 215,Visual Novel
+740,Postal 2,Adventure
+740,Postal 2,Indie
+740,Postal 2,Shooter
+741,Fez,Adventure
+741,Fez,Indie
+741,Fez,Platform
+741,Fez,Puzzle
+742,Marvel's Midnight Suns,RPG
+742,Marvel's Midnight Suns,Strategy
+742,Marvel's Midnight Suns,Tactical
+743,Streets of Rage 4,Arcade
+743,Streets of Rage 4,Brawler
+743,Streets of Rage 4,Fighting
+743,Streets of Rage 4,Indie
+744,Shin Megami Tensei: Persona,RPG
+745,Kirby's Return to Dream Land,Adventure
+745,Kirby's Return to Dream Land,Platform
+746,BioShock 2 Remastered,RPG
+746,BioShock 2 Remastered,Shooter
+747,God of War: Chains of Olympus,Adventure
+747,God of War: Chains of Olympus,Brawler
+748,Splatoon,Platform
+748,Splatoon,Shooter
+749,Nickelodeon All-Star Brawl,Arcade
+749,Nickelodeon All-Star Brawl,Fighting
+750,The Great Ace Attorney: Adventures,Adventure
+750,The Great Ace Attorney: Adventures,Point-and-Click
+750,The Great Ace Attorney: Adventures,Puzzle
+750,The Great Ace Attorney: Adventures,Visual Novel
+751,Sonic Rush,Platform
+753,Street Fighter V,Arcade
+753,Street Fighter V,Fighting
+754,Somerville,Adventure
+755,Bully: Scholarship Edition,Adventure
+756,Borderlands: The Pre-Sequel,RPG
+756,Borderlands: The Pre-Sequel,Shooter
+757,Star Wars Jedi: Survivor,Adventure
+758,Alice: Madness Returns,Adventure
+758,Alice: Madness Returns,Brawler
+758,Alice: Madness Returns,Platform
+759,Super Mario 3D All-Stars,Adventure
+759,Super Mario 3D All-Stars,Platform
+760,S.T.A.L.K.E.R.: Shadow of Chernobyl,RPG
+760,S.T.A.L.K.E.R.: Shadow of Chernobyl,Shooter
+761,JoJo’s Bizarre Adventure: All-Star Battle R,Adventure
+761,JoJo’s Bizarre Adventure: All-Star Battle R,Fighting
+762,Geometry Dash,Adventure
+762,Geometry Dash,Arcade
+762,Geometry Dash,Indie
+762,Geometry Dash,Music
+762,Geometry Dash,Platform
+763,Mario + Rabbids Sparks of Hope,Adventure
+763,Mario + Rabbids Sparks of Hope,Strategy
+763,Mario + Rabbids Sparks of Hope,Tactical
+763,Mario + Rabbids Sparks of Hope,Turn Based Strategy
+764,Back 4 Blood,Shooter
+765,Half-Life: Alyx,Adventure
+765,Half-Life: Alyx,Puzzle
+765,Half-Life: Alyx,Shooter
+766,Hyper Demon,Indie
+766,Hyper Demon,Shooter
+767,Mortal Kombat,Fighting
+769,Call of Duty: Ghosts,Shooter
+770,Ridge Racer Type 4,Racing
+771,Lil Gator Game,Adventure
+771,Lil Gator Game,Indie
+771,Lil Gator Game,Platform
+772,Oxenfree,Adventure
+772,Oxenfree,Indie
+773,Overcooked! 2,Arcade
+773,Overcooked! 2,Indie
+773,Overcooked! 2,Simulator
+773,Overcooked! 2,Strategy
+773,Overcooked! 2,Tactical
+774,Before Your Eyes,Adventure
+774,Before Your Eyes,Indie
+775,Sly Cooper and the Thievius Raccoonus,Adventure
+775,Sly Cooper and the Thievius Raccoonus,Platform
+776,Nobody Saves the World,Adventure
+776,Nobody Saves the World,Brawler
+776,Nobody Saves the World,Indie
+776,Nobody Saves the World,RPG
+777,Crazy Taxi,Arcade
+777,Crazy Taxi,Racing
+778,Chrono Cross: The Radical Dreamers Edition,Adventure
+778,Chrono Cross: The Radical Dreamers Edition,RPG
+779,Spore,Adventure
+779,Spore,Strategy
+779,Spore,RPG
+779,Spore,Simulator
+780,Dwarf Fortress,Indie
+780,Dwarf Fortress,RPG
+780,Dwarf Fortress,Simulator
+780,Dwarf Fortress,Strategy
+781,Klonoa 2: Lunatea's Veil,Adventure
+781,Klonoa 2: Lunatea's Veil,Platform
+781,Klonoa 2: Lunatea's Veil,Sport
+782,Pokémon Blue,Adventure
+782,Pokémon Blue,RPG
+782,Pokémon Blue,Turn Based Strategy
+783,Planescape: Torment,RPG
+783,Planescape: Torment,Strategy
+784,Far Cry 3: Blood Dragon,Adventure
+784,Far Cry 3: Blood Dragon,Shooter
+785,BattleBlock Theater,Adventure
+785,BattleBlock Theater,Indie
+785,BattleBlock Theater,Platform
+785,BattleBlock Theater,Puzzle
+786,The Beginner's Guide,Adventure
+786,The Beginner's Guide,Indie
+787,We Love Katamari Reroll + Royal Reverie,Adventure
+787,We Love Katamari Reroll + Royal Reverie,Puzzle
+788,Naruto Shippuden: Ultimate Ninja Storm 4,Adventure
+788,Naruto Shippuden: Ultimate Ninja Storm 4,Fighting
+789,Mega Man 3,Adventure
+789,Mega Man 3,Platform
+790,Ni no Kuni: Wrath of the White Witch,Adventure
+790,Ni no Kuni: Wrath of the White Witch,RPG
+791,Fortnite: Chapter 4,RPG
+791,Fortnite: Chapter 4,Shooter
+791,Fortnite: Chapter 4,Strategy
+792,Danganronpa Another Episode: Ultra Despair Girls,Adventure
+792,Danganronpa Another Episode: Ultra Despair Girls,Brawler
+792,Danganronpa Another Episode: Ultra Despair Girls,Puzzle
+792,Danganronpa Another Episode: Ultra Despair Girls,Shooter
+793,The Artful Escape,Adventure
+793,The Artful Escape,Indie
+793,The Artful Escape,Music
+793,The Artful Escape,Platform
+794,Dishonored: Definitive Edition,Adventure
+794,Dishonored: Definitive Edition,Shooter
+795,Pac-Man World Re-Pac,Adventure
+795,Pac-Man World Re-Pac,Arcade
+795,Pac-Man World Re-Pac,Platform
+795,Pac-Man World Re-Pac,Racing
+795,Pac-Man World Re-Pac,Shooter
+796,Ib,Adventure
+796,Ib,Indie
+796,Ib,Puzzle
+796,Ib,RPG
+797,Castlevania: Circle of the Moon,Adventure
+797,Castlevania: Circle of the Moon,Platform
+797,Castlevania: Circle of the Moon,RPG
+798,Higurashi: When They Cry,Adventure
+798,Higurashi: When They Cry,Visual Novel
+799,Life is Strange: Before the Storm,Adventure
+800,Darkwood,Adventure
+800,Darkwood,Indie
+800,Darkwood,RPG
+801,Beyond Good & Evil,Adventure
+801,Beyond Good & Evil,Shooter
+802,Metroid II: Return of Samus,Adventure
+802,Metroid II: Return of Samus,Platform
+802,Metroid II: Return of Samus,Shooter
+803,Shenmue,Adventure
+803,Shenmue,Brawler
+803,Shenmue,RPG
+803,Shenmue,Simulator
+804,Project Zomboid,Indie
+804,Project Zomboid,RPG
+804,Project Zomboid,Simulator
+805,Crash Team Racing,Racing
+806,Carrion,Adventure
+806,Carrion,Indie
+806,Carrion,Platform
+807,Gears of War 2,Shooter
+808,Phoenix Wright: Ace Attorney - Dual Destinies,Adventure
+808,Phoenix Wright: Ace Attorney - Dual Destinies,Puzzle
+808,Phoenix Wright: Ace Attorney - Dual Destinies,RPG
+808,Phoenix Wright: Ace Attorney - Dual Destinies,Simulator
+808,Phoenix Wright: Ace Attorney - Dual Destinies,Visual Novel
+809,The Legend of Zelda: Oracle of Seasons,Adventure
+809,The Legend of Zelda: Oracle of Seasons,RPG
+810,Wild Hearts,Adventure
+811,God of War: Ascension,Adventure
+811,God of War: Ascension,Brawler
+812,Xenosaga Episode III: Also sprach Zarathustra,Adventure
+812,Xenosaga Episode III: Also sprach Zarathustra,RPG
+813,Kirby's Dream Land 3,Adventure
+813,Kirby's Dream Land 3,Platform
+814,Castlevania: Harmony of Dissonance,Adventure
+814,Castlevania: Harmony of Dissonance,Platform
+814,Castlevania: Harmony of Dissonance,RPG
+815,Shantae and the Pirate's Curse,Adventure
+815,Shantae and the Pirate's Curse,Indie
+815,Shantae and the Pirate's Curse,Platform
+815,Shantae and the Pirate's Curse,RPG
+816,Happy Wheels,Adventure
+816,Happy Wheels,Platform
+816,Happy Wheels,Racing
+817,Guilty Gear XX Accent Core Plus R,Arcade
+817,Guilty Gear XX Accent Core Plus R,Fighting
+818,Fire Emblem Fates: Birthright,RPG
+818,Fire Emblem Fates: Birthright,Strategy
+818,Fire Emblem Fates: Birthright,Turn Based Strategy
+819,Final Fantasy IV,RPG
+820,Devil May Cry 5: Special Edition,Brawler
+821,Castlevania III: Dracula's Curse,Adventure
+821,Castlevania III: Dracula's Curse,Platform
+822,Gloomwood,Adventure
+822,Gloomwood,Indie
+822,Gloomwood,Shooter
+823,Call of Duty: Advanced Warfare,Shooter
+824,The Legend of Heroes: Trails of Cold Steel,Adventure
+824,The Legend of Heroes: Trails of Cold Steel,RPG
+824,The Legend of Heroes: Trails of Cold Steel,Turn Based Strategy
+825,Metal Gear Solid 3: Snake Eater HD Edition,Adventure
+825,Metal Gear Solid 3: Snake Eater HD Edition,Shooter
+826,Mario Kart: Super Circuit,Racing
+827,Pokémon Shining Pearl,Adventure
+827,Pokémon Shining Pearl,RPG
+827,Pokémon Shining Pearl,Turn Based Strategy
+828,PUBG: Battlegrounds,Shooter
+829,Earthblade,Adventure
+829,Earthblade,Indie
+829,Earthblade,RPG
+831,Rule of Rose,Adventure
+831,Rule of Rose,Puzzle
+832,Lollipop Chainsaw,Brawler
+833,Pokémon LeafGreen,Adventure
+833,Pokémon LeafGreen,RPG
+833,Pokémon LeafGreen,Turn Based Strategy
+834,Bowser's Fury,Adventure
+834,Bowser's Fury,Platform
+835,ZeroRanger,Arcade
+835,ZeroRanger,Indie
+835,ZeroRanger,Shooter
+836,Labyrinth of Galleria: The Moon Society,Adventure
+836,Labyrinth of Galleria: The Moon Society,RPG
+836,Labyrinth of Galleria: The Moon Society,Strategy
+837,Street Fighter II,Arcade
+837,Street Fighter II,Fighting
+838,Resident Evil: Revelations,Adventure
+838,Resident Evil: Revelations,Shooter
+839,Shin Megami Tensei,RPG
+841,FIFA 23,Simulator
+841,FIFA 23,Sport
+842,Battlefield: Bad Company 2,Adventure
+842,Battlefield: Bad Company 2,Shooter
+842,Battlefield: Bad Company 2,Simulator
+842,Battlefield: Bad Company 2,Strategy
+843,The Walking Dead: A New Frontier,Adventure
+843,The Walking Dead: A New Frontier,Point-and-Click
+844,Ninja Gaiden Black,Adventure
+844,Ninja Gaiden Black,Brawler
+845,Sid Meier's Civilization V,Simulator
+845,Sid Meier's Civilization V,Strategy
+845,Sid Meier's Civilization V,Turn Based Strategy
+846,World of Horror,Adventure
+846,World of Horror,Indie
+846,World of Horror,Point-and-Click
+846,World of Horror,RPG
+846,World of Horror,Turn Based Strategy
+847,Fire Emblem: Shadow Dragon,RPG
+847,Fire Emblem: Shadow Dragon,Strategy
+847,Fire Emblem: Shadow Dragon,Tactical
+847,Fire Emblem: Shadow Dragon,Turn Based Strategy
+848,Tomodachi Life,Adventure
+848,Tomodachi Life,Simulator
+849,Downwell,Adventure
+849,Downwell,Arcade
+849,Downwell,Indie
+849,Downwell,Platform
+849,Downwell,Shooter
+850,SpongeBob SquarePants: Battle For Bikini Bottom,Adventure
+850,SpongeBob SquarePants: Battle For Bikini Bottom,Platform
+851,LEGO Harry Potter: Years 1-4,Adventure
+851,LEGO Harry Potter: Years 1-4,Platform
+851,LEGO Harry Potter: Years 1-4,Puzzle
+852,Dragon Quest V: Hand of the Heavenly Bride,RPG
+853,Fear & Hunger,Indie
+853,Fear & Hunger,RPG
+854,For Honor,Brawler
+854,For Honor,Fighting
+855,Sonic Lost World,Adventure
+855,Sonic Lost World,Platform
+856,Bug Fables: The Everlasting Sapling,Adventure
+856,Bug Fables: The Everlasting Sapling,Indie
+856,Bug Fables: The Everlasting Sapling,RPG
+856,Bug Fables: The Everlasting Sapling,Turn Based Strategy
+857,Hyrule Warriors: Age of Calamity,Adventure
+857,Hyrule Warriors: Age of Calamity,Brawler
+857,Hyrule Warriors: Age of Calamity,Fighting
+858,LEGO Batman 3: Beyond Gotham,Adventure
+858,LEGO Batman 3: Beyond Gotham,Platform
+858,LEGO Batman 3: Beyond Gotham,Puzzle
+859,Moonscars,Adventure
+859,Moonscars,Brawler
+859,Moonscars,Indie
+859,Moonscars,Platform
+860,The Witcher 3: Wild Hunt - Hearts of Stone,Adventure
+860,The Witcher 3: Wild Hunt - Hearts of Stone,RPG
+861,Remnant: From the Ashes,Adventure
+861,Remnant: From the Ashes,RPG
+861,Remnant: From the Ashes,Shooter
+862,Halo 5: Guardians,Shooter
+863,Hearthstone,Card & Board Game
+863,Hearthstone,Strategy
+863,Hearthstone,Turn Based Strategy
+864,Ultimate Spider-Man,Brawler
+865,Chop Goblins,Indie
+865,Chop Goblins,Shooter
+866,Secret of Mana,RPG
+867,428: Shibuya Scramble,Adventure
+867,428: Shibuya Scramble,Visual Novel
+868,Potion Craft,Indie
+868,Potion Craft,Point-and-Click
+868,Potion Craft,Puzzle
+868,Potion Craft,RPG
+868,Potion Craft,Simulator
+869,Mega Man Legends,Adventure
+869,Mega Man Legends,RPG
+869,Mega Man Legends,Shooter
+870,Xenoblade Chronicles: Future Connected,RPG
+871,Crab Game,Arcade
+871,Crab Game,Fighting
+871,Crab Game,Indie
+871,Crab Game,Racing
+871,Crab Game,Strategy
+872,NEET Girl Date Night,Visual Novel
+873,Dante's Inferno,Adventure
+873,Dante's Inferno,Brawler
+874,Haunting Ground,Adventure
+875,Assassin's Creed Rogue,Adventure
+875,Assassin's Creed Rogue,RPG
+876,Garten of Banban 2,Adventure
+876,Garten of Banban 2,Indie
+877,Pokémon Stadium,RPG
+877,Pokémon Stadium,Turn Based Strategy
+878,Outlast II,Adventure
+878,Outlast II,Indie
+879,Ni no Kuni II: Revenant Kingdom,Adventure
+879,Ni no Kuni II: Revenant Kingdom,RPG
+880,Metal Gear,Adventure
+880,Metal Gear,Shooter
+881,Disney's Aladdin,Adventure
+881,Disney's Aladdin,Arcade
+881,Disney's Aladdin,Platform
+882,Fable II,Adventure
+882,Fable II,RPG
+883,Celeste: Farewell,Platform
+884,Axiom Verge 2,Adventure
+884,Axiom Verge 2,Indie
+884,Axiom Verge 2,Platform
+885,Lightning Returns: Final Fantasy XIII,RPG
+886,Yakuza 2,Adventure
+886,Yakuza 2,Brawler
+886,Yakuza 2,RPG
+886,Yakuza 2,Simulator
+886,Yakuza 2,Sport
+887,F-Zero X,Arcade
+887,F-Zero X,Racing
+888,Chibi-Robo!,Adventure
+888,Chibi-Robo!,Platform
+890,RimWorld,Indie
+890,RimWorld,Strategy
+890,RimWorld,Simulator
+891,Professor Layton and the Miracle Mask,Point-and-Click
+891,Professor Layton and the Miracle Mask,Puzzle
+891,Professor Layton and the Miracle Mask,Visual Novel
+892,Mega Man X5,Adventure
+892,Mega Man X5,Platform
+892,Mega Man X5,Shooter
+893,Tokyo Necro,Adventure
+893,Tokyo Necro,Visual Novel
+894,Disney Dreamlight Valley,Adventure
+894,Disney Dreamlight Valley,RPG
+894,Disney Dreamlight Valley,Simulator
+895,Mega Man 7,Adventure
+895,Mega Man 7,Platform
+895,Mega Man 7,Shooter
+896,Figment,Adventure
+896,Figment,Indie
+896,Figment,Music
+896,Figment,Platform
+896,Figment,Puzzle
+897,"Flower, Sun, and Rain: Murder and Mystery in Paradise",Adventure
+897,"Flower, Sun, and Rain: Murder and Mystery in Paradise",Puzzle
+898,Professor Layton vs. Phoenix Wright: Ace Attorney,Adventure
+898,Professor Layton vs. Phoenix Wright: Ace Attorney,Puzzle
+898,Professor Layton vs. Phoenix Wright: Ace Attorney,Strategy
+898,Professor Layton vs. Phoenix Wright: Ace Attorney,Visual Novel
+899,Metal Gear Solid: The Twin Snakes,Adventure
+900,The Simpsons Game,Platform
+901,Mega Man Zero 2,Adventure
+901,Mega Man Zero 2,Platform
+901,Mega Man Zero 2,Shooter
+902,Gears 5,Adventure
+902,Gears 5,Shooter
+903,Crash of the Titans,Adventure
+903,Crash of the Titans,Platform
+904,Alan Wake Remastered,Adventure
+904,Alan Wake Remastered,Shooter
+905,Final Fantasy XV: Royal Edition,Adventure
+905,Final Fantasy XV: Royal Edition,Fighting
+905,Final Fantasy XV: Royal Edition,RPG
+906,The Witcher,Adventure
+906,The Witcher,RPG
+907,Final Fantasy III,Adventure
+907,Final Fantasy III,RPG
+908,Snatcher,Adventure
+908,Snatcher,Point-and-Click
+908,Snatcher,Shooter
+908,Snatcher,Visual Novel
+909,Hello Charlotte Ep.3: Childhood's End,Adventure
+909,Hello Charlotte Ep.3: Childhood's End,Indie
+909,Hello Charlotte Ep.3: Childhood's End,RPG
+909,Hello Charlotte Ep.3: Childhood's End,Visual Novel
+910,Star Wars: Battlefront,Shooter
+911,Ikaruga,Arcade
+911,Ikaruga,Indie
+911,Ikaruga,Puzzle
+911,Ikaruga,Shooter
+912,Diablo IV,Brawler
+912,Diablo IV,RPG
+913,Ys: The Oath in Felghana,Adventure
+913,Ys: The Oath in Felghana,RPG
+914,American McGee's Alice,Adventure
+914,American McGee's Alice,Platform
+914,American McGee's Alice,Puzzle
+915,Call of Duty,Shooter
+916,Armored Core 2,
+917,Clash of Clans,Strategy
+918,Fate/stay night,Adventure
+918,Fate/stay night,Visual Novel
+919,Tabletop Simulator,Card & Board Game
+919,Tabletop Simulator,Indie
+919,Tabletop Simulator,RPG
+919,Tabletop Simulator,Simulator
+919,Tabletop Simulator,Strategy
+920,Duskers,Indie
+920,Duskers,Simulator
+920,Duskers,Strategy
+921,Control: Ultimate Edition,Adventure
+921,Control: Ultimate Edition,Shooter
+922,Advance Wars,Simulator
+922,Advance Wars,Strategy
+922,Advance Wars,Tactical
+922,Advance Wars,Turn Based Strategy
+923,Touhou Koumakyou: The Embodiment of Scarlet Devil,Indie
+923,Touhou Koumakyou: The Embodiment of Scarlet Devil,Shooter
+924,Weird West,Adventure
+924,Weird West,Indie
+924,Weird West,RPG
+924,Weird West,Simulator
+925,Pokémon Mystery Dungeon: Blue Rescue Team,Adventure
+925,Pokémon Mystery Dungeon: Blue Rescue Team,RPG
+925,Pokémon Mystery Dungeon: Blue Rescue Team,Turn Based Strategy
+926,WarioWare Gold,Arcade
+927,Dragon Ball: Xenoverse,Fighting
+927,Dragon Ball: Xenoverse,RPG
+928,Call of Duty: Black Ops 4,Shooter
+929,Bloodborne: Game of the Year Edition,RPG
+930,Ape Out,Adventure
+930,Ape Out,Arcade
+930,Ape Out,Fighting
+930,Ape Out,Indie
+931,WarioWare: Smooth Moves,Puzzle
+932,Puyo Puyo Tetris,Puzzle
+932,Puyo Puyo Tetris,Strategy
+933,Prince of Persia: Warrior Within,Adventure
+933,Prince of Persia: Warrior Within,Fighting
+933,Prince of Persia: Warrior Within,Platform
+934,Kentucky Route Zero: TV Edition,Adventure
+934,Kentucky Route Zero: TV Edition,Indie
+934,Kentucky Route Zero: TV Edition,Point-and-Click
+935,Factorio,Indie
+935,Factorio,Simulator
+935,Factorio,Strategy
+936,Scott Pilgrim vs. the World: The Game - Complete Edition,Adventure
+936,Scott Pilgrim vs. the World: The Game - Complete Edition,Brawler
+936,Scott Pilgrim vs. the World: The Game - Complete Edition,Fighting
+937,Monster Hunter 4 Ultimate,Adventure
+937,Monster Hunter 4 Ultimate,RPG
+938,Fruit Ninja Classic,Arcade
+940,Tom Clancy's The Division,Adventure
+940,Tom Clancy's The Division,RPG
+940,Tom Clancy's The Division,Shooter
+940,Tom Clancy's The Division,Strategy
+940,Tom Clancy's The Division,Tactical
+941,Crysis 2,Adventure
+941,Crysis 2,Shooter
+942,Resident Evil 4: Wii Edition,Adventure
+942,Resident Evil 4: Wii Edition,Shooter
+943,Nuclear Throne,Adventure
+943,Nuclear Throne,Arcade
+943,Nuclear Throne,Indie
+943,Nuclear Throne,RPG
+943,Nuclear Throne,Shooter
+944,Super Hexagon,Arcade
+944,Super Hexagon,Indie
+944,Super Hexagon,Music
+945,Condemned: Criminal Origins,Adventure
+945,Condemned: Criminal Origins,Shooter
+946,PlayStation All-Stars Battle Royale,Fighting
+946,PlayStation All-Stars Battle Royale,Platform
+947,Dragon Quest,Adventure
+947,Dragon Quest,RPG
+948,Pac-Man in a Tin,Arcade
+949,Mount & Blade: Warband,Adventure
+949,Mount & Blade: Warband,RPG
+949,Mount & Blade: Warband,Shooter
+949,Mount & Blade: Warband,Simulator
+949,Mount & Blade: Warband,Strategy
+950,Monster Hunter Generations Ultimate,Brawler
+950,Monster Hunter Generations Ultimate,RPG
+951,The Jackbox Party Pack 3,Indie
+951,The Jackbox Party Pack 3,Puzzle
+951,The Jackbox Party Pack 3,Quiz/Trivia
+951,The Jackbox Party Pack 3,Strategy
+952,Digimon World: Next Order,Adventure
+952,Digimon World: Next Order,RPG
+952,Digimon World: Next Order,Simulator
+953,Odin Sphere: Leifthrasir,RPG
+954,Bulletstorm,Shooter
+955,The Witcher 2: Assassins of Kings,Adventure
+955,The Witcher 2: Assassins of Kings,RPG
+956,Pokémon Añil,RPG
+957,Animal Crossing: City Folk,Simulator
+958,Microsoft Minesweeper,Puzzle
+959,Sonic 3D Blast,Platform
+960,Mario Party 4,Card & Board Game
+961,Mario Party 3,Card & Board Game
+962,Peggle,Puzzle
+963,Plague Inc: Evolved,Indie
+963,Plague Inc: Evolved,Simulator
+963,Plague Inc: Evolved,Strategy
+963,Plague Inc: Evolved,Tactical
+964,Star Wars: Episode III - Revenge of the Sith,Adventure
+964,Star Wars: Episode III - Revenge of the Sith,Brawler
+965,Prince of Persia,Adventure
+965,Prince of Persia,Platform
+965,Prince of Persia,Puzzle
+966,System Shock,RPG
+966,System Shock,Shooter
+967,Sonic Rush Adventure,Platform
+968,Destroy All Humans!,Adventure
+969,Marvel vs. Capcom: Clash of Super Heroes,Fighting
+970,The World Ends with You: Final Remix,Adventure
+970,The World Ends with You: Final Remix,RPG
+971,Ristar,Adventure
+971,Ristar,Platform
+972,Crash Team Racing Nitro-Fueled,Arcade
+972,Crash Team Racing Nitro-Fueled,Racing
+973,Mega Man X6,Adventure
+973,Mega Man X6,Platform
+974,Slender: The Eight Pages,Adventure
+974,Slender: The Eight Pages,Indie
+975,Mark of the Ninja,Adventure
+975,Mark of the Ninja,Indie
+975,Mark of the Ninja,Platform
+976,Octodad: Dadliest Catch,Adventure
+976,Octodad: Dadliest Catch,Indie
+976,Octodad: Dadliest Catch,Platform
+976,Octodad: Dadliest Catch,Simulator
+976,Octodad: Dadliest Catch,Strategy
+977,Dragon Ball Z: Budokai Tenkaichi,Fighting
+978,The King of Fighters XV,Fighting
+979,Killing Floor 2,Shooter
+980,Ape Escape 3,Platform
+981,The Simpsons Arcade Game,Arcade
+981,The Simpsons Arcade Game,Brawler
+982,Toy Story 2: Buzz Lightyear to the Rescue!,Adventure
+982,Toy Story 2: Buzz Lightyear to the Rescue!,Platform
+983,Rayman Raving Rabbids,Adventure
+983,Rayman Raving Rabbids,Platform
+983,Rayman Raving Rabbids,Puzzle
+984,Prototype 2,Adventure
+984,Prototype 2,Brawler
+984,Prototype 2,Platform
+985,MadWorld,Brawler
+986,Call of Duty 3,Shooter
+987,Shadow Warrior,Adventure
+987,Shadow Warrior,Shooter
+988,Warcraft III: The Frozen Throne,Strategy
+989,Yakuza 4,Adventure
+989,Yakuza 4,Brawler
+989,Yakuza 4,RPG
+989,Yakuza 4,Simulator
+989,Yakuza 4,Sport
+990,Megami Ibunroku Persona,RPG
+991,Persona 4 Arena,Adventure
+991,Persona 4 Arena,Fighting
+991,Persona 4 Arena,RPG
+992,Scribblenauts,Puzzle
+993,Rock Band 2,Music
+994,Armored Core 4,Fighting
+995,Rez Infinite,Music
+995,Rez Infinite,Shooter
+996,Plants vs. Zombies 2: It's About Time,Adventure
+996,Plants vs. Zombies 2: It's About Time,Strategy
+996,Plants vs. Zombies 2: It's About Time,Tactical
+997,Cadence of Hyrule: Crypt of the NecroDancer Featuring the Legend of Zelda,Adventure
+997,Cadence of Hyrule: Crypt of the NecroDancer Featuring the Legend of Zelda,Music
+998,100% Orange Juice,Card & Board Game
+998,100% Orange Juice,Indie
+998,100% Orange Juice,Strategy
+998,100% Orange Juice,Turn Based Strategy
+999,Tekken 6,Fighting
+1000,Mortal Kombat 3,Fighting
+1001,Pokémon Mystery Dungeon: Explorers of Time,Adventure
+1001,Pokémon Mystery Dungeon: Explorers of Time,RPG
+1001,Pokémon Mystery Dungeon: Explorers of Time,Turn Based Strategy
+1002,Chulip,Adventure
+1002,Chulip,Puzzle
+1003,Crash Nitro Kart,Racing
+1004,Bubble Bobble,Arcade
+1004,Bubble Bobble,Platform
+1004,Bubble Bobble,Puzzle
+1004,Bubble Bobble,Strategy
+1005,Shantae: Half-Genie Hero,Adventure
+1005,Shantae: Half-Genie Hero,Indie
+1005,Shantae: Half-Genie Hero,Platform
+1006,Snake,Arcade
+1007,Tales of Vesperia,RPG
+1008,Mega Man X8,Adventure
+1008,Mega Man X8,Platform
+1009,Fire Emblem: New Mystery of the Emblem,RPG
+1009,Fire Emblem: New Mystery of the Emblem,Strategy
+1009,Fire Emblem: New Mystery of the Emblem,Turn Based Strategy
+1010,Mario & Luigi: Superstar Saga + Bowser's Minions,Adventure
+1010,Mario & Luigi: Superstar Saga + Bowser's Minions,Platform
+1010,Mario & Luigi: Superstar Saga + Bowser's Minions,RPG
+1011,Suikoden,RPG
+1012,Binary Domain,Shooter
+1013,Shin Megami Tensei: Devil Survivor,RPG
+1013,Shin Megami Tensei: Devil Survivor,Strategy
+1013,Shin Megami Tensei: Devil Survivor,Tactical
+1013,Shin Megami Tensei: Devil Survivor,Visual Novel
+1014,JoJo's Bizarre Adventure: Eyes of Heaven,Arcade
+1014,JoJo's Bizarre Adventure: Eyes of Heaven,Fighting
+1015,Audiosurf,Indie
+1015,Audiosurf,Music
+1015,Audiosurf,Puzzle
+1016,Better Call Saul Kart,Racing
+1017,The Secret of Monkey Island,Adventure
+1017,The Secret of Monkey Island,Point-and-Click
+1017,The Secret of Monkey Island,Puzzle
+1018,Resistance: Fall of Man,Adventure
+1018,Resistance: Fall of Man,Shooter
+1019,Sniper Elite 4,Adventure
+1019,Sniper Elite 4,Shooter
+1019,Sniper Elite 4,Tactical
+1020,Metal Gear Solid HD Collection,Adventure
+1020,Metal Gear Solid HD Collection,Strategy
+1020,Metal Gear Solid HD Collection,Tactical
+1021,The Simpsons: Road Rage,Racing
+1022,Melty Blood Actress Again Current Code,Arcade
+1022,Melty Blood Actress Again Current Code,Fighting
+1023,Path of Exile,Adventure
+1023,Path of Exile,Brawler
+1023,Path of Exile,RPG
+1024,Machinarium,Adventure
+1024,Machinarium,Indie
+1024,Machinarium,Point-and-Click
+1024,Machinarium,Puzzle
+1025,Guacamelee!,Adventure
+1025,Guacamelee!,Brawler
+1025,Guacamelee!,Indie
+1025,Guacamelee!,Platform
+1026,Tales of Zestiria,RPG
+1027,Black,Shooter
+1028,Mario Super Sluggers,Sport
+1029,Worms Armageddon,Platform
+1029,Worms Armageddon,Shooter
+1029,Worms Armageddon,Strategy
+1030,Street Fighter II Turbo,Fighting
+1031,Tekken 4,Fighting
+1032,Legacy of Kain: Soul Reaver,Adventure
+1033,Mega Man X7,Adventure
+1033,Mega Man X7,Platform
+1034,Final Fantasy I & II: Dawn of Souls,RPG
+1035,Mega Man ZX,Platform
+1035,Mega Man ZX,Shooter
+1036,Metal Gear 2: Solid Snake,Adventure
+1037,The Missing: J.J. Macfield and the Island of Memories,Adventure
+1037,The Missing: J.J. Macfield and the Island of Memories,Indie
+1037,The Missing: J.J. Macfield and the Island of Memories,Platform
+1037,The Missing: J.J. Macfield and the Island of Memories,Puzzle
+1038,Silent Hill 2: Restless Dreams,Adventure
+1039,Friday the 13th: The Game,Indie
+1040,Quake II,Shooter
+1041,NBA Jam,Sport
+1042,Final Fantasy X HD Remaster,Adventure
+1042,Final Fantasy X HD Remaster,RPG
+1043,Mario vs. Donkey Kong,Platform
+1043,Mario vs. Donkey Kong,Puzzle
+1044,Kenshi,Indie
+1044,Kenshi,RPG
+1044,Kenshi,Simulator
+1044,Kenshi,Strategy
+1045,Remember Me,Adventure
+1045,Remember Me,Platform
+1046,Alpha Protocol,RPG
+1046,Alpha Protocol,Shooter
+1047,Indivisible,Adventure
+1047,Indivisible,Indie
+1047,Indivisible,Platform
+1047,Indivisible,RPG
+1048,Jazzpunk,Adventure
+1048,Jazzpunk,Indie
+1049,Need for Speed: Hot Pursuit,Racing
+1050,The House in Fata Morgana: A Requiem for Innocence,Adventure
+1050,The House in Fata Morgana: A Requiem for Innocence,Visual Novel
+1051,Phantom Brigade,Indie
+1051,Phantom Brigade,RPG
+1051,Phantom Brigade,Strategy
+1051,Phantom Brigade,Tactical
+1051,Phantom Brigade,Turn Based Strategy
+1052,Altered Beast,Brawler
+1052,Altered Beast,Platform
+1053,Broken Age,Adventure
+1053,Broken Age,Indie
+1053,Broken Age,Point-and-Click
+1053,Broken Age,Puzzle
+1054,Telling Lies,Indie
+1054,Telling Lies,Point-and-Click
+1054,Telling Lies,Simulator
+1055,Saints Row: Gat Out of Hell,Adventure
+1055,Saints Row: Gat Out of Hell,Shooter
+1056,Ratchet & Clank: Size Matters,Adventure
+1056,Ratchet & Clank: Size Matters,Platform
+1056,Ratchet & Clank: Size Matters,Shooter
+1057,Mario Hoops 3-on-3,Sport
+1058,Mario Power Tennis,Sport
+1059,Keep Talking and Nobody Explodes,Card & Board Game
+1059,Keep Talking and Nobody Explodes,Indie
+1059,Keep Talking and Nobody Explodes,Puzzle
+1059,Keep Talking and Nobody Explodes,Simulator
+1060,The Swapper,Adventure
+1060,The Swapper,Indie
+1060,The Swapper,Platform
+1060,The Swapper,Puzzle
+1060,The Swapper,Strategy
+1061,Ms. Pac-Man,Arcade
+1062,Gun,Adventure
+1063,Naruto: Ultimate Ninja 3,Fighting
+1064,The Ultimate Doom,Shooter
+1065,Superman: The New Superman Adventures,Adventure
+1065,Superman: The New Superman Adventures,Shooter
+1066,Ruiner,Adventure
+1066,Ruiner,Indie
+1066,Ruiner,Shooter
+1066,Ruiner,Strategy
+1067,The Lord of the Rings: The Two Towers,Adventure
+1067,The Lord of the Rings: The Two Towers,Brawler
+1068,Dragon Quest II: Luminaries of the Legendary Line,RPG
+1069,Chivalry: Medieval Warfare,Brawler
+1069,Chivalry: Medieval Warfare,Fighting
+1069,Chivalry: Medieval Warfare,Indie
+1070,FIFA 14,Sport
+1071,Bit.Trip Runner,Arcade
+1071,Bit.Trip Runner,Indie
+1071,Bit.Trip Runner,Music
+1071,Bit.Trip Runner,Platform
+1072,Pokémon Pinball: Ruby & Sapphire,Adventure
+1072,Pokémon Pinball: Ruby & Sapphire,Arcade
+1072,Pokémon Pinball: Ruby & Sapphire,Pinball
+1073,FIFA 13,Simulator
+1073,FIFA 13,Sport
+1074,La-Mulana,Adventure
+1074,La-Mulana,Indie
+1074,La-Mulana,Platform
+1074,La-Mulana,Puzzle
+1075,The Warriors,Brawler
+1075,The Warriors,Fighting
+1076,Mortal Kombat XL,Fighting
+1077,Anonymous;Code,Adventure
+1077,Anonymous;Code,Visual Novel
+1078,Higurashi no Naku Koro ni: Chapter 2 - Watanagashi,Adventure
+1078,Higurashi no Naku Koro ni: Chapter 2 - Watanagashi,Visual Novel
+1079,Aokana: Four Rhythms Across the Blue,Adventure
+1079,Aokana: Four Rhythms Across the Blue,Visual Novel
+1080,Shantae and the Seven Sirens,Adventure
+1080,Shantae and the Seven Sirens,Platform
+1081,Mega Man ZX Advent,Adventure
+1081,Mega Man ZX Advent,Platform
+1081,Mega Man ZX Advent,Shooter
+1082,Peggle Deluxe,
+1083,Slither.io,Arcade
+1083,Slither.io,Simulator
+1084,Twisted Metal,Fighting
+1084,Twisted Metal,Racing
+1084,Twisted Metal,Shooter
+1085,Dragon Age: Origins - Awakening,RPG
+1085,Dragon Age: Origins - Awakening,Strategy
+1086,Parasite Eve II,RPG
+1087,The Jackbox Party Pack,Indie
+1087,The Jackbox Party Pack,Puzzle
+1087,The Jackbox Party Pack,Quiz/Trivia
+1087,The Jackbox Party Pack,Strategy
+1088,Tom Clancy's Splinter Cell: Pandora Tomorrow,Shooter
+1088,Tom Clancy's Splinter Cell: Pandora Tomorrow,Tactical
+1089,Payday: The Heist,Shooter
+1090,Pokémon Rumble Blast,Adventure
+1090,Pokémon Rumble Blast,Brawler
+1090,Pokémon Rumble Blast,Fighting
+1090,Pokémon Rumble Blast,RPG
+1091,Nicktoons Unite!,Adventure
+1092,Ruined King: A League of Legends Story,Adventure
+1092,Ruined King: A League of Legends Story,Indie
+1092,Ruined King: A League of Legends Story,RPG
+1092,Ruined King: A League of Legends Story,Turn Based Strategy
+1093,Picross S3,Puzzle
+1093,Picross S3,Strategy
+1094,Lisa the Joyful,Adventure
+1094,Lisa the Joyful,Indie
+1094,Lisa the Joyful,RPG
+1094,Lisa the Joyful,Turn Based Strategy
+1095,The King of Fighters '98,Fighting
+1096,Kingdoms of Amalur: Reckoning,Brawler
+1096,Kingdoms of Amalur: Reckoning,RPG
+1097,Grand Theft Auto,Adventure
+1097,Grand Theft Auto,Racing
+1097,Grand Theft Auto,Shooter
+1098,Europa Universalis IV,Strategy
+1098,Europa Universalis IV,Simulator
+1099,Sonic the Hedgehog 2,Arcade
+1100,Guitar Hero 5,Music
+1101,Silent Hill: Homecoming,Adventure
+1101,Silent Hill: Homecoming,Fighting
+1102,Mighty No. 9,Adventure
+1102,Mighty No. 9,Arcade
+1102,Mighty No. 9,Platform
+1102,Mighty No. 9,Shooter
+1103,Dragon Ball GT: Final Bout,Fighting
+1104,Killzone 3,Shooter
+1105,WWE SmackDown vs. Raw 2008,Fighting
+1105,WWE SmackDown vs. Raw 2008,Sport
+1106,Children of Morta,Adventure
+1106,Children of Morta,Indie
+1106,Children of Morta,RPG
+1107,The Godfather,Adventure
+1107,The Godfather,Racing
+1107,The Godfather,Shooter
+1108,Billy Hatcher and the Giant Egg,Platform
+1109,Tekken Tag Tournament 2,Fighting
+1110,Bloons TD 5,Simulator
+1110,Bloons TD 5,Strategy
+1110,Bloons TD 5,Tactical
+1111,JoJo's Bizarre Adventure,Fighting
+1112,Another World,Adventure
+1112,Another World,Platform
+1112,Another World,Puzzle
+1113,Back to the Future: The Game,Adventure
+1113,Back to the Future: The Game,Point-and-Click
+1114,Team Sonic Racing,Arcade
+1114,Team Sonic Racing,Racing
+1115,Dragon's Dogma,Brawler
+1115,Dragon's Dogma,RPG
+1116,Baldur's Gate 3,Adventure
+1116,Baldur's Gate 3,RPG
+1116,Baldur's Gate 3,Strategy
+1116,Baldur's Gate 3,Tactical
+1116,Baldur's Gate 3,Turn Based Strategy
+1117,The LEGO Movie Videogame,Adventure
+1117,The LEGO Movie Videogame,Puzzle
