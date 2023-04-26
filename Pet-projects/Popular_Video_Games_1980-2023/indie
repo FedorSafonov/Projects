@@ -1,0 +1,734 @@
+,Title,Genres
+1,Hades,Adventure
+1,Hades,Brawler
+1,Hades,Indie
+1,Hades,RPG
+3,Undertale,Adventure
+3,Undertale,Indie
+3,Undertale,RPG
+3,Undertale,Turn Based Strategy
+4,Hollow Knight,Adventure
+4,Hollow Knight,Indie
+4,Hollow Knight,Platform
+6,Omori,Adventure
+6,Omori,Indie
+6,Omori,RPG
+6,Omori,Turn Based Strategy
+8,Among Us,Indie
+8,Among Us,Strategy
+11,Stray,Adventure
+11,Stray,Indie
+15,Celeste,Adventure
+15,Celeste,Indie
+15,Celeste,Platform
+28,Disco Elysium: The Final Cut,Adventure
+28,Disco Elysium: The Final Cut,Indie
+28,Disco Elysium: The Final Cut,RPG
+34,Cuphead,Arcade
+34,Cuphead,Indie
+34,Cuphead,Platform
+34,Cuphead,Shooter
+39,Signalis,Adventure
+39,Signalis,Indie
+43,Outer Wilds,Adventure
+43,Outer Wilds,Indie
+43,Outer Wilds,Puzzle
+43,Outer Wilds,Simulator
+48,Stardew Valley,Indie
+48,Stardew Valley,RPG
+48,Stardew Valley,Simulator
+48,Stardew Valley,Strategy
+55,Neon White,Indie
+55,Neon White,Platform
+55,Neon White,Shooter
+55,Neon White,Visual Novel
+61,Inscryption,Adventure
+61,Inscryption,Card & Board Game
+61,Inscryption,Indie
+61,Inscryption,Puzzle
+61,Inscryption,Strategy
+62,Tunic,Adventure
+62,Tunic,Indie
+62,Tunic,Puzzle
+62,Tunic,RPG
+65,Deltarune: Chapter 2,Adventure
+65,Deltarune: Chapter 2,Indie
+65,Deltarune: Chapter 2,RPG
+65,Deltarune: Chapter 2,Turn Based Strategy
+79,Terraria,Adventure
+79,Terraria,Indie
+79,Terraria,Platform
+79,Terraria,RPG
+79,Terraria,Strategy
+92,Hotline Miami,Arcade
+92,Hotline Miami,Indie
+92,Hotline Miami,Shooter
+93,Pizza Tower,Indie
+93,Pizza Tower,Platform
+105,Cult of the Lamb,Adventure
+105,Cult of the Lamb,Brawler
+105,Cult of the Lamb,Indie
+105,Cult of the Lamb,RPG
+105,Cult of the Lamb,Simulator
+105,Cult of the Lamb,Strategy
+111,Doki Doki Literature Club!,Adventure
+111,Doki Doki Literature Club!,Indie
+111,Doki Doki Literature Club!,Visual Novel
+119,Katana Zero,Adventure
+119,Katana Zero,Arcade
+119,Katana Zero,Indie
+119,Katana Zero,Platform
+119,Katana Zero,Strategy
+124,Teenage Mutant Ninja Turtles: Shredder's Revenge,Arcade
+124,Teenage Mutant Ninja Turtles: Shredder's Revenge,Brawler
+124,Teenage Mutant Ninja Turtles: Shredder's Revenge,Indie
+125,Sifu,Brawler
+125,Sifu,Indie
+136,Rocket League,Indie
+136,Rocket League,Racing
+136,Rocket League,Sport
+145,Unpacking,Indie
+145,Unpacking,Point-and-Click
+145,Unpacking,Puzzle
+145,Unpacking,Simulator
+148,Deltarune: Chapter 1,Adventure
+148,Deltarune: Chapter 1,Indie
+148,Deltarune: Chapter 1,RPG
+148,Deltarune: Chapter 1,Turn Based Strategy
+153,What Remains of Edith Finch,Adventure
+153,What Remains of Edith Finch,Indie
+153,What Remains of Edith Finch,Puzzle
+167,Limbo,Adventure
+167,Limbo,Indie
+167,Limbo,Platform
+167,Limbo,Puzzle
+179,VA-11 Hall-A: Cyberpunk Bartender Action,Adventure
+179,VA-11 Hall-A: Cyberpunk Bartender Action,Indie
+179,VA-11 Hall-A: Cyberpunk Bartender Action,Simulator
+179,VA-11 Hall-A: Cyberpunk Bartender Action,Visual Novel
+180,Dead Cells,Adventure
+180,Dead Cells,Indie
+180,Dead Cells,Platform
+183,SuperHot,Fighting
+183,SuperHot,Indie
+183,SuperHot,Puzzle
+183,SuperHot,Shooter
+183,SuperHot,Tactical
+194,The Stanley Parable,Adventure
+194,The Stanley Parable,Indie
+210,Subnautica,Adventure
+210,Subnautica,Indie
+213,Citizen Sleeper,Adventure
+213,Citizen Sleeper,Indie
+213,Citizen Sleeper,RPG
+215,Garry's Mod,Indie
+215,Garry's Mod,Simulator
+220,Enter the Gungeon,Adventure
+220,Enter the Gungeon,Arcade
+220,Enter the Gungeon,Indie
+220,Enter the Gungeon,Shooter
+221,The House in Fata Morgana,Adventure
+221,The House in Fata Morgana,Indie
+221,The House in Fata Morgana,Visual Novel
+222,Shovel Knight,Adventure
+222,Shovel Knight,Indie
+222,Shovel Knight,Platform
+223,Firewatch,Adventure
+223,Firewatch,Indie
+225,Blasphemous,Adventure
+225,Blasphemous,Brawler
+225,Blasphemous,Indie
+225,Blasphemous,Platform
+225,Blasphemous,RPG
+227,Immortality,Indie
+227,Immortality,Point-and-Click
+227,Immortality,Simulator
+231,Super Meat Boy,Adventure
+231,Super Meat Boy,Indie
+231,Super Meat Boy,Platform
+233,Helltaker,Adventure
+233,Helltaker,Indie
+233,Helltaker,Puzzle
+241,Yume Nikki,Adventure
+241,Yume Nikki,Indie
+243,Five Nights at Freddy's,Adventure
+243,Five Nights at Freddy's,Indie
+243,Five Nights at Freddy's,Point-and-Click
+243,Five Nights at Freddy's,Simulator
+243,Five Nights at Freddy's,Strategy
+246,Outlast,Adventure
+246,Outlast,Indie
+248,Sable,Adventure
+248,Sable,Indie
+248,Sable,Platform
+248,Sable,Puzzle
+248,Sable,RPG
+254,Superliminal,Adventure
+254,Superliminal,Indie
+254,Superliminal,Puzzle
+254,Superliminal,Shooter
+261,To the Moon,Adventure
+261,To the Moon,Indie
+261,To the Moon,Point-and-Click
+261,To the Moon,Puzzle
+261,To the Moon,RPG
+262,Baba is You,Indie
+262,Baba is You,Puzzle
+262,Baba is You,Strategy
+281,Needy Streamer Overload,Adventure
+281,Needy Streamer Overload,Indie
+281,Needy Streamer Overload,Point-and-Click
+281,Needy Streamer Overload,RPG
+281,Needy Streamer Overload,Simulator
+281,Needy Streamer Overload,Visual Novel
+283,Hollow Knight: Voidheart Edition,Adventure
+283,Hollow Knight: Voidheart Edition,Indie
+283,Hollow Knight: Voidheart Edition,Platform
+290,Goat Simulator,Adventure
+290,Goat Simulator,Indie
+290,Goat Simulator,Simulator
+295,Osu!,Indie
+295,Osu!,Music
+306,Amnesia: The Dark Descent,Adventure
+306,Amnesia: The Dark Descent,Indie
+306,Amnesia: The Dark Descent,Puzzle
+319,Spiritfarer,Adventure
+319,Spiritfarer,Indie
+319,Spiritfarer,Platform
+319,Spiritfarer,Simulator
+323,Sayonara Wild Hearts,Adventure
+323,Sayonara Wild Hearts,Arcade
+323,Sayonara Wild Hearts,Indie
+323,Sayonara Wild Hearts,Music
+326,Vampire Survivors,Arcade
+326,Vampire Survivors,Indie
+326,Vampire Survivors,RPG
+339,Soma,Adventure
+339,Soma,Indie
+340,The Binding of Isaac: Rebirth,Adventure
+340,The Binding of Isaac: Rebirth,Arcade
+340,The Binding of Isaac: Rebirth,Indie
+340,The Binding of Isaac: Rebirth,RPG
+340,The Binding of Isaac: Rebirth,Shooter
+344,Castle Crashers,Adventure
+344,Castle Crashers,Brawler
+344,Castle Crashers,Indie
+344,Castle Crashers,RPG
+345,Rain World,Adventure
+345,Rain World,Indie
+345,Rain World,Platform
+345,Rain World,RPG
+350,Norco,Adventure
+350,Norco,Indie
+350,Norco,Point-and-Click
+350,Norco,Puzzle
+353,Transistor,Adventure
+353,Transistor,Indie
+353,Transistor,RPG
+353,Transistor,Strategy
+353,Transistor,Turn Based Strategy
+368,Dusk,Adventure
+368,Dusk,Indie
+368,Dusk,Shooter
+370,Rollerdrome,Adventure
+370,Rollerdrome,Indie
+370,Rollerdrome,Shooter
+370,Rollerdrome,Sport
+380,Shovel Knight: Treasure Trove,Adventure
+380,Shovel Knight: Treasure Trove,Indie
+380,Shovel Knight: Treasure Trove,Platform
+387,Chicory: A Colorful Tale,Adventure
+387,Chicory: A Colorful Tale,Indie
+387,Chicory: A Colorful Tale,Puzzle
+387,Chicory: A Colorful Tale,RPG
+389,Outer Wilds: Echoes of the Eye,Adventure
+389,Outer Wilds: Echoes of the Eye,Indie
+389,Outer Wilds: Echoes of the Eye,Puzzle
+389,Outer Wilds: Echoes of the Eye,Simulator
+389,Outer Wilds: Echoes of the Eye,Strategy
+393,Into the Breach,Card & Board Game
+393,Into the Breach,Indie
+393,Into the Breach,Puzzle
+393,Into the Breach,RPG
+393,Into the Breach,Simulator
+393,Into the Breach,Strategy
+393,Into the Breach,Turn Based Strategy
+396,Five Nights at Freddy's 2,Adventure
+396,Five Nights at Freddy's 2,Indie
+396,Five Nights at Freddy's 2,Point-and-Click
+396,Five Nights at Freddy's 2,Simulator
+396,Five Nights at Freddy's 2,Strategy
+402,Ender Lilies: Quietus of the Knights,Adventure
+402,Ender Lilies: Quietus of the Knights,Indie
+402,Ender Lilies: Quietus of the Knights,Platform
+402,Ender Lilies: Quietus of the Knights,RPG
+421,Deltarune,Adventure
+421,Deltarune,Indie
+421,Deltarune,Music
+421,Deltarune,Puzzle
+421,Deltarune,RPG
+427,Everhood,Adventure
+427,Everhood,Indie
+427,Everhood,Music
+427,Everhood,RPG
+428,Don't Starve Together,Adventure
+428,Don't Starve Together,Indie
+428,Don't Starve Together,Simulator
+428,Don't Starve Together,Strategy
+433,Library of Ruina,Indie
+433,Library of Ruina,RPG
+433,Library of Ruina,Simulator
+433,Library of Ruina,Strategy
+433,Library of Ruina,Turn Based Strategy
+436,Pyre,Adventure
+436,Pyre,Indie
+436,Pyre,RPG
+436,Pyre,Visual Novel
+445,Gorogoa,Adventure
+445,Gorogoa,Indie
+445,Gorogoa,Point-and-Click
+445,Gorogoa,Puzzle
+450,Lunistice,Adventure
+450,Lunistice,Indie
+450,Lunistice,Platform
+458,Faith: The Unholy Trinity,Adventure
+458,Faith: The Unholy Trinity,Indie
+473,Braid,Adventure
+473,Braid,Indie
+473,Braid,Platform
+473,Braid,Puzzle
+473,Braid,Strategy
+477,Kentucky Route Zero,Adventure
+477,Kentucky Route Zero,Indie
+477,Kentucky Route Zero,Point-and-Click
+487,Lobotomy Corporation,Indie
+487,Lobotomy Corporation,Simulator
+498,Overcooked!,Arcade
+498,Overcooked!,Indie
+498,Overcooked!,Simulator
+498,Overcooked!,Strategy
+500,Muse Dash,Indie
+500,Muse Dash,Music
+507,Valheim,Adventure
+507,Valheim,Indie
+507,Valheim,RPG
+508,Your Turn To Die: Death Game By Majority,Adventure
+508,Your Turn To Die: Death Game By Majority,Indie
+508,Your Turn To Die: Death Game By Majority,Visual Novel
+510,Mortal Shell,Indie
+510,Mortal Shell,RPG
+515,LEGO Builder's Journey,Adventure
+515,LEGO Builder's Journey,Indie
+515,LEGO Builder's Journey,Puzzle
+520,Melatonin,Arcade
+520,Melatonin,Indie
+520,Melatonin,Music
+520,Melatonin,Puzzle
+523,Garten of Banban,Adventure
+523,Garten of Banban,Indie
+523,Garten of Banban,Puzzle
+529,Moonlighter,Adventure
+529,Moonlighter,Brawler
+529,Moonlighter,Indie
+529,Moonlighter,RPG
+529,Moonlighter,Simulator
+531,Five Nights at Freddy's 4,Adventure
+531,Five Nights at Freddy's 4,Indie
+531,Five Nights at Freddy's 4,Point-and-Click
+531,Five Nights at Freddy's 4,Simulator
+531,Five Nights at Freddy's 4,Strategy
+538,FTL: Faster Than Light,Indie
+538,FTL: Faster Than Light,RPG
+538,FTL: Faster Than Light,Simulator
+538,FTL: Faster Than Light,Strategy
+543,Bloodstained: Curse of the Moon,Adventure
+543,Bloodstained: Curse of the Moon,Indie
+543,Bloodstained: Curse of the Moon,Platform
+545,Agar.io,Indie
+545,Agar.io,Strategy
+549,Gang Beasts,Fighting
+549,Gang Beasts,Indie
+553,Fall Guys,Indie
+553,Fall Guys,Platform
+553,Fall Guys,Sport
+566,Death's Door,Adventure
+566,Death's Door,Brawler
+566,Death's Door,Indie
+566,Death's Door,RPG
+578,A Hat in Time,Adventure
+578,A Hat in Time,Indie
+578,A Hat in Time,Platform
+579,Scorn,Adventure
+579,Scorn,Indie
+579,Scorn,Puzzle
+581,Cuphead: The Delicious Last Course,Adventure
+581,Cuphead: The Delicious Last Course,Indie
+581,Cuphead: The Delicious Last Course,Platform
+584,Return of the Obra Dinn,Adventure
+584,Return of the Obra Dinn,Indie
+584,Return of the Obra Dinn,Puzzle
+591,Gris,Adventure
+591,Gris,Indie
+591,Gris,Platform
+591,Gris,Puzzle
+599,Twelve Minutes,Adventure
+599,Twelve Minutes,Indie
+599,Twelve Minutes,Point-and-Click
+599,Twelve Minutes,Puzzle
+605,Milk inside a bag of milk inside a bag of milk,Adventure
+605,Milk inside a bag of milk inside a bag of milk,Indie
+605,Milk inside a bag of milk inside a bag of milk,Visual Novel
+610,Night in the Woods,Adventure
+610,Night in the Woods,Indie
+610,Night in the Woods,Platform
+616,A Short Hike,Adventure
+616,A Short Hike,Indie
+616,A Short Hike,Platform
+620,Milk outside a bag of milk outside a bag of milk,Adventure
+620,Milk outside a bag of milk outside a bag of milk,Indie
+620,Milk outside a bag of milk outside a bag of milk,Visual Novel
+621,Lisa,Adventure
+621,Lisa,Indie
+621,Lisa,RPG
+632,Chained Echoes,Adventure
+632,Chained Echoes,Indie
+632,Chained Echoes,RPG
+632,Chained Echoes,Strategy
+632,Chained Echoes,Turn Based Strategy
+639,Donut County,Adventure
+639,Donut County,Indie
+639,Donut County,Puzzle
+646,Dead by Daylight,Indie
+646,Dead by Daylight,Strategy
+647,Abzu,Adventure
+647,Abzu,Indie
+647,Abzu,Puzzle
+647,Abzu,Simulator
+651,Kena: Bridge of Spirits,Adventure
+651,Kena: Bridge of Spirits,Indie
+663,The Witness,Adventure
+663,The Witness,Indie
+663,The Witness,Puzzle
+672,The Forgotten City,Adventure
+672,The Forgotten City,Indie
+672,The Forgotten City,RPG
+673,Untitled Goose Game,Adventure
+673,Untitled Goose Game,Indie
+673,Untitled Goose Game,Puzzle
+673,Untitled Goose Game,Simulator
+678,Tinykin,Adventure
+678,Tinykin,Arcade
+678,Tinykin,Indie
+678,Tinykin,Platform
+678,Tinykin,Puzzle
+678,Tinykin,RPG
+680,Brawlhalla,Arcade
+680,Brawlhalla,Fighting
+680,Brawlhalla,Indie
+680,Brawlhalla,Platform
+682,Black Mesa,Adventure
+682,Black Mesa,Indie
+682,Black Mesa,Platform
+682,Black Mesa,Shooter
+683,The Messenger,Adventure
+683,The Messenger,Arcade
+683,The Messenger,Indie
+683,The Messenger,Platform
+685,Pathologic 2,Adventure
+685,Pathologic 2,Indie
+685,Pathologic 2,RPG
+687,Hyper Light Drifter,Adventure
+687,Hyper Light Drifter,Indie
+687,Hyper Light Drifter,Platform
+687,Hyper Light Drifter,RPG
+690,Darkest Dungeon,Adventure
+690,Darkest Dungeon,Indie
+690,Darkest Dungeon,RPG
+690,Darkest Dungeon,Strategy
+690,Darkest Dungeon,Turn Based Strategy
+698,PowerWash Simulator,Indie
+698,PowerWash Simulator,Simulator
+699,Cave Story,Adventure
+699,Cave Story,Indie
+699,Cave Story,Platform
+699,Cave Story,Shooter
+703,Trek to Yomi,Adventure
+703,Trek to Yomi,Brawler
+703,Trek to Yomi,Indie
+718,Bugsnax,Adventure
+718,Bugsnax,Indie
+718,Bugsnax,Puzzle
+722,Brothers: A Tale of Two Sons,Adventure
+722,Brothers: A Tale of Two Sons,Indie
+722,Brothers: A Tale of Two Sons,Puzzle
+729,The Forest,Adventure
+729,The Forest,Indie
+729,The Forest,Puzzle
+729,The Forest,Simulator
+730,CrossCode,Adventure
+730,CrossCode,Indie
+730,CrossCode,Puzzle
+730,CrossCode,RPG
+740,Postal 2,Adventure
+740,Postal 2,Indie
+740,Postal 2,Shooter
+741,Fez,Adventure
+741,Fez,Indie
+741,Fez,Platform
+741,Fez,Puzzle
+743,Streets of Rage 4,Arcade
+743,Streets of Rage 4,Brawler
+743,Streets of Rage 4,Fighting
+743,Streets of Rage 4,Indie
+762,Geometry Dash,Adventure
+762,Geometry Dash,Arcade
+762,Geometry Dash,Indie
+762,Geometry Dash,Music
+762,Geometry Dash,Platform
+766,Hyper Demon,Indie
+766,Hyper Demon,Shooter
+771,Lil Gator Game,Adventure
+771,Lil Gator Game,Indie
+771,Lil Gator Game,Platform
+772,Oxenfree,Adventure
+772,Oxenfree,Indie
+773,Overcooked! 2,Arcade
+773,Overcooked! 2,Indie
+773,Overcooked! 2,Simulator
+773,Overcooked! 2,Strategy
+773,Overcooked! 2,Tactical
+774,Before Your Eyes,Adventure
+774,Before Your Eyes,Indie
+776,Nobody Saves the World,Adventure
+776,Nobody Saves the World,Brawler
+776,Nobody Saves the World,Indie
+776,Nobody Saves the World,RPG
+780,Dwarf Fortress,Indie
+780,Dwarf Fortress,RPG
+780,Dwarf Fortress,Simulator
+780,Dwarf Fortress,Strategy
+785,BattleBlock Theater,Adventure
+785,BattleBlock Theater,Indie
+785,BattleBlock Theater,Platform
+785,BattleBlock Theater,Puzzle
+786,The Beginner's Guide,Adventure
+786,The Beginner's Guide,Indie
+793,The Artful Escape,Adventure
+793,The Artful Escape,Indie
+793,The Artful Escape,Music
+793,The Artful Escape,Platform
+796,Ib,Adventure
+796,Ib,Indie
+796,Ib,Puzzle
+796,Ib,RPG
+800,Darkwood,Adventure
+800,Darkwood,Indie
+800,Darkwood,RPG
+804,Project Zomboid,Indie
+804,Project Zomboid,RPG
+804,Project Zomboid,Simulator
+806,Carrion,Adventure
+806,Carrion,Indie
+806,Carrion,Platform
+815,Shantae and the Pirate's Curse,Adventure
+815,Shantae and the Pirate's Curse,Indie
+815,Shantae and the Pirate's Curse,Platform
+815,Shantae and the Pirate's Curse,RPG
+822,Gloomwood,Adventure
+822,Gloomwood,Indie
+822,Gloomwood,Shooter
+829,Earthblade,Adventure
+829,Earthblade,Indie
+829,Earthblade,RPG
+835,ZeroRanger,Arcade
+835,ZeroRanger,Indie
+835,ZeroRanger,Shooter
+846,World of Horror,Adventure
+846,World of Horror,Indie
+846,World of Horror,Point-and-Click
+846,World of Horror,RPG
+846,World of Horror,Turn Based Strategy
+849,Downwell,Adventure
+849,Downwell,Arcade
+849,Downwell,Indie
+849,Downwell,Platform
+849,Downwell,Shooter
+853,Fear & Hunger,Indie
+853,Fear & Hunger,RPG
+856,Bug Fables: The Everlasting Sapling,Adventure
+856,Bug Fables: The Everlasting Sapling,Indie
+856,Bug Fables: The Everlasting Sapling,RPG
+856,Bug Fables: The Everlasting Sapling,Turn Based Strategy
+859,Moonscars,Adventure
+859,Moonscars,Brawler
+859,Moonscars,Indie
+859,Moonscars,Platform
+865,Chop Goblins,Indie
+865,Chop Goblins,Shooter
+868,Potion Craft,Indie
+868,Potion Craft,Point-and-Click
+868,Potion Craft,Puzzle
+868,Potion Craft,RPG
+868,Potion Craft,Simulator
+871,Crab Game,Arcade
+871,Crab Game,Fighting
+871,Crab Game,Indie
+871,Crab Game,Racing
+871,Crab Game,Strategy
+876,Garten of Banban 2,Adventure
+876,Garten of Banban 2,Indie
+878,Outlast II,Adventure
+878,Outlast II,Indie
+884,Axiom Verge 2,Adventure
+884,Axiom Verge 2,Indie
+884,Axiom Verge 2,Platform
+890,RimWorld,Indie
+890,RimWorld,Strategy
+890,RimWorld,Simulator
+896,Figment,Adventure
+896,Figment,Indie
+896,Figment,Music
+896,Figment,Platform
+896,Figment,Puzzle
+909,Hello Charlotte Ep.3: Childhood's End,Adventure
+909,Hello Charlotte Ep.3: Childhood's End,Indie
+909,Hello Charlotte Ep.3: Childhood's End,RPG
+909,Hello Charlotte Ep.3: Childhood's End,Visual Novel
+911,Ikaruga,Arcade
+911,Ikaruga,Indie
+911,Ikaruga,Puzzle
+911,Ikaruga,Shooter
+919,Tabletop Simulator,Card & Board Game
+919,Tabletop Simulator,Indie
+919,Tabletop Simulator,RPG
+919,Tabletop Simulator,Simulator
+919,Tabletop Simulator,Strategy
+920,Duskers,Indie
+920,Duskers,Simulator
+920,Duskers,Strategy
+923,Touhou Koumakyou: The Embodiment of Scarlet Devil,Indie
+923,Touhou Koumakyou: The Embodiment of Scarlet Devil,Shooter
+924,Weird West,Adventure
+924,Weird West,Indie
+924,Weird West,RPG
+924,Weird West,Simulator
+930,Ape Out,Adventure
+930,Ape Out,Arcade
+930,Ape Out,Fighting
+930,Ape Out,Indie
+934,Kentucky Route Zero: TV Edition,Adventure
+934,Kentucky Route Zero: TV Edition,Indie
+934,Kentucky Route Zero: TV Edition,Point-and-Click
+935,Factorio,Indie
+935,Factorio,Simulator
+935,Factorio,Strategy
+943,Nuclear Throne,Adventure
+943,Nuclear Throne,Arcade
+943,Nuclear Throne,Indie
+943,Nuclear Throne,RPG
+943,Nuclear Throne,Shooter
+944,Super Hexagon,Arcade
+944,Super Hexagon,Indie
+944,Super Hexagon,Music
+951,The Jackbox Party Pack 3,Indie
+951,The Jackbox Party Pack 3,Puzzle
+951,The Jackbox Party Pack 3,Quiz/Trivia
+951,The Jackbox Party Pack 3,Strategy
+963,Plague Inc: Evolved,Indie
+963,Plague Inc: Evolved,Simulator
+963,Plague Inc: Evolved,Strategy
+963,Plague Inc: Evolved,Tactical
+974,Slender: The Eight Pages,Adventure
+974,Slender: The Eight Pages,Indie
+975,Mark of the Ninja,Adventure
+975,Mark of the Ninja,Indie
+975,Mark of the Ninja,Platform
+976,Octodad: Dadliest Catch,Adventure
+976,Octodad: Dadliest Catch,Indie
+976,Octodad: Dadliest Catch,Platform
+976,Octodad: Dadliest Catch,Simulator
+976,Octodad: Dadliest Catch,Strategy
+998,100% Orange Juice,Card & Board Game
+998,100% Orange Juice,Indie
+998,100% Orange Juice,Strategy
+998,100% Orange Juice,Turn Based Strategy
+1005,Shantae: Half-Genie Hero,Adventure
+1005,Shantae: Half-Genie Hero,Indie
+1005,Shantae: Half-Genie Hero,Platform
+1015,Audiosurf,Indie
+1015,Audiosurf,Music
+1015,Audiosurf,Puzzle
+1024,Machinarium,Adventure
+1024,Machinarium,Indie
+1024,Machinarium,Point-and-Click
+1024,Machinarium,Puzzle
+1025,Guacamelee!,Adventure
+1025,Guacamelee!,Brawler
+1025,Guacamelee!,Indie
+1025,Guacamelee!,Platform
+1037,The Missing: J.J. Macfield and the Island of Memories,Adventure
+1037,The Missing: J.J. Macfield and the Island of Memories,Indie
+1037,The Missing: J.J. Macfield and the Island of Memories,Platform
+1037,The Missing: J.J. Macfield and the Island of Memories,Puzzle
+1039,Friday the 13th: The Game,Indie
+1044,Kenshi,Indie
+1044,Kenshi,RPG
+1044,Kenshi,Simulator
+1044,Kenshi,Strategy
+1047,Indivisible,Adventure
+1047,Indivisible,Indie
+1047,Indivisible,Platform
+1047,Indivisible,RPG
+1048,Jazzpunk,Adventure
+1048,Jazzpunk,Indie
+1051,Phantom Brigade,Indie
+1051,Phantom Brigade,RPG
+1051,Phantom Brigade,Strategy
+1051,Phantom Brigade,Tactical
+1051,Phantom Brigade,Turn Based Strategy
+1053,Broken Age,Adventure
+1053,Broken Age,Indie
+1053,Broken Age,Point-and-Click
+1053,Broken Age,Puzzle
+1054,Telling Lies,Indie
+1054,Telling Lies,Point-and-Click
+1054,Telling Lies,Simulator
+1059,Keep Talking and Nobody Explodes,Card & Board Game
+1059,Keep Talking and Nobody Explodes,Indie
+1059,Keep Talking and Nobody Explodes,Puzzle
+1059,Keep Talking and Nobody Explodes,Simulator
+1060,The Swapper,Adventure
+1060,The Swapper,Indie
+1060,The Swapper,Platform
+1060,The Swapper,Puzzle
+1060,The Swapper,Strategy
+1066,Ruiner,Adventure
+1066,Ruiner,Indie
+1066,Ruiner,Shooter
+1066,Ruiner,Strategy
+1069,Chivalry: Medieval Warfare,Brawler
+1069,Chivalry: Medieval Warfare,Fighting
+1069,Chivalry: Medieval Warfare,Indie
+1071,Bit.Trip Runner,Arcade
+1071,Bit.Trip Runner,Indie
+1071,Bit.Trip Runner,Music
+1071,Bit.Trip Runner,Platform
+1074,La-Mulana,Adventure
+1074,La-Mulana,Indie
+1074,La-Mulana,Platform
+1074,La-Mulana,Puzzle
+1087,The Jackbox Party Pack,Indie
+1087,The Jackbox Party Pack,Puzzle
+1087,The Jackbox Party Pack,Quiz/Trivia
+1087,The Jackbox Party Pack,Strategy
+1092,Ruined King: A League of Legends Story,Adventure
+1092,Ruined King: A League of Legends Story,Indie
+1092,Ruined King: A League of Legends Story,RPG
+1092,Ruined King: A League of Legends Story,Turn Based Strategy
+1094,Lisa the Joyful,Adventure
+1094,Lisa the Joyful,Indie
+1094,Lisa the Joyful,RPG
+1094,Lisa the Joyful,Turn Based Strategy
+1106,Children of Morta,Adventure
+1106,Children of Morta,Indie
+1106,Children of Morta,RPG
