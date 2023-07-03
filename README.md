@@ -8,7 +8,7 @@
 | 3 | [yandex_praktikum_projects (Data_Science)][3] | Все проекты с курса ["Специалист по Data Science"][4] от Яндекс Практикума. |
 | 4 | [Pet-projects][5] | Собственные проекты, исследования и дашборды. |
 
-[1]:https://github.com/FedorSafonov/Projects/tree/main/%D0%A2%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D1%8B%D0%B5
+[1]:https://github.com/FedorSafonov/Projects/tree/main/Test
 [2]:https://github.com/FedorSafonov/Projects/tree/main/Hackatons_and_competition
 [3]:https://github.com/FedorSafonov/Projects/tree/main/yandex_praktikum_projects%20(Data_Science)
 [4]:https://practicum.yandex.ru/data-scientist/
