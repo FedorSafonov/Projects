@@ -1,4 +1,6 @@
-# Projects - Портфолио
+# Актуальное портфолио теперь [**в этом репозитории**][6]
+
+# Projects
 Здесь находятся выполненные мной проекты из разных источников во время обучения на курсе Яндекс Практикума. Учебные (с Яндекс практикума), собственные проекты, тестовые и с соревнований.
 
 | № | Название раздела | Описание |
@@ -13,3 +15,4 @@
 [3]:https://github.com/FedorSafonov/Projects/tree/main/yandex_praktikum_projects%20(Data_Science)
 [4]:https://practicum.yandex.ru/data-scientist/
 [5]:https://github.com/FedorSafonov/Projects/tree/main/Pet-projects
+[6]:https://github.com/FedorSafonov/Portfolio
